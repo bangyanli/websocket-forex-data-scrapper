@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|c:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\backgroundsocketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:backgroundsocketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|c:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|c:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:websocket-forex-data-scrapper.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "websocket-forex-data-scrapper",
+              "DocumentMoniker": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj",
+              "RelativeDocumentMoniker": "websocket-forex-data-scrapper.csproj",
+              "ToolTip": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj",
+              "RelativeToolTip": "websocket-forex-data-scrapper.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T00:08:41.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackgroundSocketProcessor.cs",
+              "DocumentMoniker": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\BackgroundSocketProcessor.cs",
+              "RelativeDocumentMoniker": "BackgroundSocketProcessor.cs",
+              "ToolTip": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\BackgroundSocketProcessor.cs",
+              "RelativeToolTip": "BackgroundSocketProcessor.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAzwCsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:43:05.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T12:16:54.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

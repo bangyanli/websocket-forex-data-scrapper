@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\websocket-forex-data-scrapper.props" />
+</Project>

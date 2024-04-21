@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1/h2C2DiG8yvG2pTjd4AD6BOqe/jzozRhTy2Sa7M+ug=",
+  "Source": "websocket-forex-data-scrapper",
+  "BasePath": "_content/websocket-forex-data-scrapper",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
