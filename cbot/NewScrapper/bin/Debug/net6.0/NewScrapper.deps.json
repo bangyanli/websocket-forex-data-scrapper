@@ -1,0 +1,87 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NewScrapper/1.0.0": {
+        "dependencies": {
+          "Rdz.cTrader.Library": "1.1203.715.837",
+          "WebSocketSharp.Standard": "1.0.3",
+          "cTrader.Automate": "1.0.8",
+          "WebSocket4Net": "0.15.1.10"
+        },
+        "runtime": {
+          "NewScrapper.dll": {}
+        }
+      },
+      "cTrader.Automate/1.0.8": {
+        "runtime": {
+          "lib/net6.0/cAlgo.API.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Rdz.cTrader.Library/1.1203.715.837": {
+        "runtime": {
+          "lib/net6.0/Rdz.cTrader.Library.dll": {
+            "assemblyVersion": "1.1203.715.837",
+            "fileVersion": "1.1203.715.837"
+          }
+        }
+      },
+      "WebSocketSharp.Standard/1.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/websocket-sharp-standard.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      },
+      "WebSocket4Net/0.15.1.10": {
+        "runtime": {
+          "WebSocket4Net.dll": {
+            "assemblyVersion": "0.15.1.10",
+            "fileVersion": "0.15.1.10"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewScrapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "cTrader.Automate/1.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Inu3Q0XEMNNSm1LLxtJ9qk3TTb6N4Kms8HRt4A/GV+6MegCWWLEB81XvM5h6xoUfU1FyX+Ag9f2ewY0G4afSXg==",
+      "path": "ctrader.automate/1.0.8",
+      "hashPath": "ctrader.automate.1.0.8.nupkg.sha512"
+    },
+    "Rdz.cTrader.Library/1.1203.715.837": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4ignV2jxbdB5xqPa/FScfZjpggmjjKvHM3kUfqDpeuoCSiPd/e4r4QiSIrVy+vRmty6Uo/BsFQbTuJ2aA+3ikw==",
+      "path": "rdz.ctrader.library/1.1203.715.837",
+      "hashPath": "rdz.ctrader.library.1.1203.715.837.nupkg.sha512"
+    },
+    "WebSocketSharp.Standard/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ITDck8Gv/1yv+aolSM/37YH6QBGksa9yNp3p91E1jZY2gI9IYs2WjiX22SW0Yt0Y8ovrPp/OiuQAqAZBYC7Y5Q==",
+      "path": "websocketsharp.standard/1.0.3",
+      "hashPath": "websocketsharp.standard.1.0.3.nupkg.sha512"
+    },
+    "WebSocket4Net/0.15.1.10": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

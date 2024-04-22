@@ -1,0 +1,14 @@
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\obj\Debug\net6.0\NewScrapper.csproj.AssemblyReference.cache
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\obj\Debug\net6.0\NewScrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\obj\Debug\net6.0\NewScrapper.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\obj\Debug\net6.0\NewScrapper.AssemblyInfo.cs
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\obj\Debug\net6.0\NewScrapper.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\bin\Debug\net6.0\NewScrapper.deps.json
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\bin\Debug\net6.0\NewScrapper.dll
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\bin\Debug\net6.0\NewScrapper.pdb
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\obj\Debug\net6.0\NewScrapper.dll
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\obj\Debug\net6.0\refint\NewScrapper.dll
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\obj\Debug\net6.0\NewScrapper.pdb
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\obj\Debug\net6.0\ref\NewScrapper.dll
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\bin\Debug\net6.0\WebSocket4Net.dll
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\obj\Debug\net6.0\NewScrap.F3B8EF53.Up2Date

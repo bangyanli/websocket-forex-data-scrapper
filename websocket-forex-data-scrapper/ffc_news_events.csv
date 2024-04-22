@@ -1,3 +1,1286 @@
+Mon, 2024.01.01 0:00, 0:00, NZD, gra, Bank Holiday,   , , 
+Mon, 2024.01.01 0:00, 0:00, AUD, gra, Bank Holiday,   , , 
+Mon, 2024.01.01 0:00, 0:00, JPY, gra, Bank Holiday,   , , 
+Mon, 2024.01.01 0:00, 0:00, CNY, gra, Bank Holiday,   , , 
+Mon, 2024.01.01 0:00, 0:00, CHF, gra, Bank Holiday,   , , 
+Mon, 2024.01.01 0:00, 0:00, EUR, gra, French Bank Holiday,   , , 
+Mon, 2024.01.01 0:00, 0:00, EUR, gra, German Bank Holiday,   , , 
+Mon, 2024.01.01 0:00, 0:00, EUR, gra, Italian Bank Holiday,   , , 
+Mon, 2024.01.01 0:00, 0:00, GBP, gra, Bank Holiday,   , , 
+Tue, 2024.01.02 0:00, 0:00, CAD, gra, Bank Holiday,   , , 
+Tue, 2024.01.02 0:00, 0:00, USD, gra, Bank Holiday,   , , 
+Tue, 2024.01.02 0:00, 0:00, NZD, gra, Bank Holiday,   , , 
+Tue, 2024.01.02 0:00, 0:00, JPY, gra, Bank Holiday,   , , 
+Tue, 2024.01.02 11:01, 11:01, GBP, yel, BRC Shop Price Index y/y,  4.3% , , 4.3%
+Tue, 2024.01.02 12:45, 12:45, CNY, ora, Caixin Manufacturing PMI,  50.7 , 50.4, 50.8
+Tue, 2024.01.02 16:30, 16:30, AUD, yel, Commodity Prices y/y,  -12.8% , , -10.7%
+Tue, 2024.01.02 0:00, 0:00, CHF, gra, Bank Holiday,   , , 
+Tue, 2024.01.02 19:15, 19:15, EUR, yel, Spanish Manufacturing PMI,  46.3 , 46.3, 46.2
+Tue, 2024.01.02 19:45, 19:45, EUR, yel, Italian Manufacturing PMI,  44.4 , 44.3, 45.3
+Tue, 2024.01.02 19:50, 19:50, EUR, yel, French Final Manufacturing PMI,  42.0 , 42.0, 42.1
+Tue, 2024.01.02 19:55, 19:55, EUR, yel, German Final Manufacturing PMI,  43.1 , 43.1, 43.3
+Tue, 2024.01.02 20:00, 20:00, EUR, yel, Final Manufacturing PMI,  44.2 , 44.2, 44.4
+Tue, 2024.01.02 20:00, 20:00, EUR, yel, M3 Money Supply y/y,  -1.0% , -1.0%, -0.9%
+Tue, 2024.01.02 20:00, 20:00, EUR, yel, Private Loans y/y,  0.6% , 0.8%, 0.5%
+Tue, 2024.01.02 20:30, 20:30, GBP, yel, Final Manufacturing PMI,  46.4 , 46.4, 46.2
+Wed, 2024.01.03 1:30, 1:30, CAD, yel, Manufacturing PMI,  47.7 , , 45.4
+Wed, 2024.01.03 1:45, 1:45, USD, yel, Final Manufacturing PMI,  48.2 , 48.4, 47.9
+Wed, 2024.01.03 1:51, 1:51, NZD, yel, GDT Price Index,  2.3% , , 1.2%
+Wed, 2024.01.03 2:00, 2:00, USD, yel, Construction Spending m/m,  1.2% , 0.6%, 0.4%
+Wed, 2024.01.03 0:00, 0:00, JPY, gra, Bank Holiday,   , , 
+Wed, 2024.01.03 19:00, 19:00, EUR, yel, Spanish Unemployment Change,  -24.6K , -15.7K, -27.4K
+Wed, 2024.01.03 19:30, 19:30, CHF, yel, Manufacturing PMI,  42.1 , 43.0, 43.0
+Wed, 2024.01.03 19:55, 19:55, EUR, yel, German Unemployment Change,  21K , 20K, 5K
+Thu, 2024.01.04 0:30, 0:30, USD, ora, FOMC Member Barkin Speaks,   , , 
+Thu, 2024.01.04 2:00, 2:00, USD, red, ISM Manufacturing PMI,  46.7 , 47.2, 47.4
+Thu, 2024.01.04 2:00, 2:00, USD, red, JOLTS Job Openings,  8.85M , 8.84M, 8.79M
+Thu, 2024.01.04 2:00, 2:00, USD, ora, ISM Manufacturing Prices,  49.9 , 49.5, 45.2
+Thu, 2024.01.04 0:00, 0:00, USD, yel, Wards Total Vehicle Sales,  15.3M , 15.5M, 15.8M
+Thu, 2024.01.04 6:00, 6:00, USD, red, FOMC Meeting Minutes,   , , 
+Thu, 2024.01.04 11:30, 11:30, JPY, yel, Final Manufacturing PMI,  47.7 , 47.7, 47.9
+Thu, 2024.01.04 12:45, 12:45, CNY, ora, Caixin Services PMI,  51.5 , 51.6, 52.9
+Thu, 2024.01.04 0:00, 0:00, EUR, red, German Prelim CPI m/m,  -0.4% , 0.2%, 0.1%
+Thu, 2024.01.04 18:45, 18:45, EUR, yel, French Prelim CPI m/m,  -0.2% , 0.2%, 0.1%
+Thu, 2024.01.04 19:15, 19:15, EUR, yel, Spanish Services PMI,  51.0 , 51.1, 51.5
+Thu, 2024.01.04 19:45, 19:45, EUR, yel, Italian Services PMI,  49.5 , 49.8, 49.8
+Thu, 2024.01.04 19:50, 19:50, EUR, yel, French Final Services PMI,  44.3 , 44.3, 45.7
+Thu, 2024.01.04 19:55, 19:55, EUR, yel, German Final Services PMI,  48.4 , 48.4, 49.3
+Thu, 2024.01.04 20:00, 20:00, EUR, yel, Final Services PMI,  48.1 , 48.1, 48.8
+Thu, 2024.01.04 20:30, 20:30, GBP, yel, Final Services PMI,  52.7 , 52.7, 53.4
+Thu, 2024.01.04 20:30, 20:30, GBP, yel, M4 Money Supply m/m,  0.3% , 0.2%, -0.1%
+Thu, 2024.01.04 20:30, 20:30, GBP, yel, Mortgage Approvals,  48K , 48K, 50K
+Thu, 2024.01.04 20:30, 20:30, GBP, yel, Net Lending to Individuals m/m,  1.3B , 1.6B, 2.0B
+Thu, 2024.01.04 21:01, 21:01, EUR, yel, French 10-y Bond Auction,  2.75|3.0 , , 2.59|1.8
+Thu, 2024.01.04 23:30, 23:30, USD, yel, Challenger Job Cuts y/y,  -40.8% , , -20.2%
+Fri, 2024.01.05 0:15, 0:15, USD, red, ADP Non-Farm Employment Change,  101K , 120K, 164K
+Fri, 2024.01.05 0:30, 0:30, USD, red, Unemployment Claims,  220K , 217K, 202K
+Fri, 2024.01.05 1:45, 1:45, USD, yel, Final Services PMI,  51.3 , 51.3, 51.4
+Fri, 2024.01.05 2:30, 2:30, USD, yel, Natural Gas Storage,  -87B , -33B, -14B
+Fri, 2024.01.05 3:00, 3:00, USD, yel, Crude Oil Inventories,  -7.1M , -3.2M, -5.5M
+Fri, 2024.01.05 10:50, 10:50, JPY, yel, Monetary Base y/y,  8.9% , 9.0%, 7.8%
+Fri, 2024.01.05 16:00, 16:00, JPY, yel, Consumer Confidence,  36.1 , 36.4, 37.2
+Fri, 2024.01.05 18:00, 18:00, EUR, yel, German Retail Sales m/m,  1.3% , -0.5%, -2.5%
+Fri, 2024.01.05 18:00, 18:00, GBP, yel, Halifax HPI m/m,  0.6% , 0.1%, 1.1%
+Fri, 2024.01.05 20:30, 20:30, GBP, ora, Construction PMI,  45.5 , 46.1, 46.8
+Fri, 2024.01.05 21:00, 21:00, EUR, ora, Core CPI Flash Estimate y/y,  3.6% , 3.4%, 3.4%
+Fri, 2024.01.05 21:00, 21:00, EUR, ora, CPI Flash Estimate y/y,  2.4% , 3.0%, 2.9%
+Fri, 2024.01.05 21:00, 21:00, EUR, yel, PPI m/m,  0.3% , -0.1%, -0.3%
+Fri, 2024.01.05 21:00, 21:00, EUR, yel, Italian Prelim CPI m/m,  -0.5% , 0.2%, 0.2%
+Mon, 2024.01.08 0:00, 0:00, JPY, gra, Bank Holiday,   , , 
+Mon, 2024.01.08 18:00, 18:00, EUR, yel, German Factory Orders m/m,  -3.8% , 1.1%, 0.3%
+Mon, 2024.01.08 18:00, 18:00, EUR, yel, German Trade Balance,  17.7B , 17.9B, 20.4B
+Mon, 2024.01.08 18:30, 18:30, CHF, red, CPI m/m,  -0.2% , -0.1%, 0.0%
+Mon, 2024.01.08 18:30, 18:30, CHF, yel, Retail Sales y/y,  -0.3% , 0.0%, 0.7%
+Mon, 2024.01.08 20:30, 20:30, EUR, yel, Sentix Investor Confidence,  -16.8 , -15.5, -15.8
+Mon, 2024.01.08 21:00, 21:00, EUR, yel, Retail Sales m/m,  0.4% , -0.3%, -0.3%
+Tue, 2024.01.09 4:30, 4:30, USD, yel, FOMC Member Bostic Speaks,   , , 
+Tue, 2024.01.09 7:00, 7:00, USD, yel, Consumer Credit m/m,  5.8B , 8.9B, 23.8B
+Tue, 2024.01.09 10:30, 10:30, JPY, ora, Tokyo Core CPI y/y,  2.3% , 2.1%, 2.1%
+Tue, 2024.01.09 10:30, 10:30, JPY, yel, Household Spending y/y,  -2.5% , -2.2%, -2.9%
+Tue, 2024.01.09 11:01, 11:01, GBP, yel, BRC Retail Sales Monitor y/y,  2.6% , 2.3%, 1.9%
+Tue, 2024.01.09 11:30, 11:30, AUD, ora, Retail Sales m/m,  -0.4% , 1.2%, 2.0%
+Tue, 2024.01.09 11:30, 11:30, AUD, yel, Building Approvals m/m,  7.2% , -1.9%, 1.6%
+Tue, 2024.01.09 17:45, 17:45, CHF, yel, Unemployment Rate,  2.1% , 2.2%, 2.2%
+Tue, 2024.01.09 18:00, 18:00, EUR, yel, German Industrial Production m/m,  -0.3% , 0.4%, -0.7%
+Tue, 2024.01.09 18:45, 18:45, EUR, yel, French Trade Balance,  -8.5B , -7.9B, -5.9B
+Tue, 2024.01.09 19:00, 19:00, CHF, ora, Foreign Currency Reserves,  642B , , 654B
+Tue, 2024.01.09 20:00, 20:00, EUR, yel, Italian Monthly Unemployment Rate,  7.7% , 7.8%, 7.5%
+Tue, 2024.01.09 21:00, 21:00, EUR, yel, Unemployment Rate,  6.5% , 6.5%, 6.4%
+Tue, 2024.01.09 22:00, 22:00, USD, yel, NFIB Small Business Index,  90.6 , 90.7, 91.9
+Wed, 2024.01.10 0:30, 0:30, CAD, yel, Building Permits m/m,  3.0% , -1.5%, -3.9%
+Wed, 2024.01.10 0:30, 0:30, CAD, yel, Trade Balance,  3.2B , 2.0B, 1.6B
+Wed, 2024.01.10 0:30, 0:30, USD, yel, Trade Balance,  -64.5B , -64.9B, -63.2B
+Wed, 2024.01.10 2:02, 2:02, USD, yel, RCM/TIPP Economic Optimism,  40.0 , 42.0, 44.7
+Wed, 2024.01.10 4:00, 4:00, USD, yel, FOMC Member Barr Speaks,   , , 
+Wed, 2024.01.10 10:30, 10:30, JPY, yel, Average Cash Earnings y/y,  1.5% , 1.5%, 0.2%
+Wed, 2024.01.10 11:00, 11:00, NZD, yel, ANZ Commodity Prices m/m,  -1.2% , , 2.4%
+Wed, 2024.01.10 11:30, 11:30, AUD, red, CPI y/y,  4.9% , 4.4%, 4.3%
+Wed, 2024.01.10 14:35, 14:35, JPY, yel, 10-y Bond Auction,  0.70|2.8 , , 0.60|2.9
+Wed, 2024.01.10 18:45, 18:45, EUR, yel, French Industrial Production m/m,  -0.3% , 0.1%, 0.5%
+Wed, 2024.01.10 20:00, 20:00, EUR, yel, Italian Retail Sales m/m,  0.4% , 0.2%, 0.4%
+Wed, 2024.01.10 21:34, 21:34, EUR, yel, German 10-y Bond Auction,  2.45|1.7 , , 2.19|1.7
+Thu, 2024.01.11 1:15, 1:15, GBP, red, BOE Gov Bailey Speaks,   , , 
+Thu, 2024.01.11 2:00, 2:00, USD, yel, Final Wholesale Inventories m/m,  -0.2% , -0.2%, -0.2%
+Thu, 2024.01.11 2:30, 2:30, USD, yel, Crude Oil Inventories,  -5.5M , -0.2M, 1.3M
+Thu, 2024.01.11 5:01, 5:01, USD, ora, 10-y Bond Auction,  4.30|2.5 , , 4.02|2.6
+Thu, 2024.01.11 7:15, 7:15, USD, yel, FOMC Member Williams Speaks,   , , 
+Thu, 2024.01.11 8:45, 8:45, NZD, yel, Building Consents m/m,  8.5% , , -10.6%
+Thu, 2024.01.11 11:30, 11:30, AUD, yel, Goods Trade Balance,  7.66B , 7.50B, 11.44B
+Thu, 2024.01.11 16:00, 16:00, JPY, yel, Leading Indicators,  108.9% , 107.9%, 107.7%
+Thu, 2024.01.11 20:00, 20:00, EUR, yel, ECB Economic Bulletin,   , , 
+Thu, 2024.01.11 20:00, 20:00, EUR, yel, Italian Industrial Production m/m,  -0.2% , -0.2%, -1.5%
+Thu, 2024.01.11 20:30, 20:30, GBP, yel, Housing Equity Withdrawal q/q,  -23.5B , -20.4B, -21.8B
+Fri, 2024.01.12 0:30, 0:30, USD, red, Core CPI m/m,  0.3% , 0.3%, 0.3%
+Fri, 2024.01.12 0:30, 0:30, USD, red, CPI m/m,  0.1% , 0.2%, 0.3%
+Fri, 2024.01.12 0:30, 0:30, USD, red, CPI y/y,  3.1% , 3.2%, 3.4%
+Fri, 2024.01.12 0:30, 0:30, USD, red, Unemployment Claims,  203K , 209K, 202K
+Fri, 2024.01.12 2:30, 2:30, USD, yel, Natural Gas Storage,  -14B , -121B, -140B
+Fri, 2024.01.12 5:01, 5:01, USD, ora, 30-y Bond Auction,  4.34|2.4 , , 4.23|2.4
+Fri, 2024.01.12 6:00, 6:00, USD, yel, Federal Budget Balance,  -314.0B , -66.2B, -129.4B
+Fri, 2024.01.12 10:50, 10:50, JPY, yel, Bank Lending y/y,  2.8% , 2.7%, 3.1%
+Fri, 2024.01.12 10:50, 10:50, JPY, yel, Current Account,  2.62T , 2.18T, 1.89T
+Fri, 2024.01.12 12:30, 12:30, CNY, red, CPI y/y,  -0.5% , -0.4%, -0.3%
+Fri, 2024.01.12 12:30, 12:30, CNY, ora, PPI y/y,  -3.0% , -2.6%, -2.7%
+Fri, 2024.01.12 13:11, 13:11, CNY, yel, Trade Balance,  491B , 520B, 541B
+Fri, 2024.01.12 13:12, 13:12, CNY, yel, USD-Denominated Trade Balance,  68.4B , 76.2B, 75.3B
+Fri, 2024.01.12 14:35, 14:35, JPY, yel, 30-y Bond Auction,  1.62|2.6 , , 1.63|3.0
+Fri, 2024.01.12 16:00, 16:00, JPY, yel, Economy Watchers Sentiment,  49.5 , 49.9, 50.7
+Fri, 2024.01.12 18:00, 18:00, GBP, red, GDP m/m,  -0.3% , 0.2%, 0.3%
+Fri, 2024.01.12 18:00, 18:00, GBP, yel, Construction Output m/m,  -0.4% , 0.2%, -0.2%
+Fri, 2024.01.12 18:00, 18:00, GBP, yel, Goods Trade Balance,  -15.9B , -15.7B, -14.2B
+Fri, 2024.01.12 18:00, 18:00, GBP, yel, Index of Services 3m/3m,  -0.1% , 0.1%, 0.0%
+Fri, 2024.01.12 18:00, 18:00, GBP, yel, Industrial Production m/m,  -1.3% , 0.3%, 0.3%
+Fri, 2024.01.12 18:00, 18:00, GBP, yel, Manufacturing Production m/m,  -1.2% , 0.3%, 0.4%
+Fri, 2024.01.12 18:45, 18:45, EUR, yel, French Consumer Spending m/m,  -0.9% , -0.1%, 0.7%
+Fri, 2024.01.12 18:45, 18:45, EUR, yel, French Final CPI m/m,  0.1% , 0.1%, 0.1%
+Fri, 2024.01.12 20:36, 20:36, CNY, ora, New Loans,  1090B , 1360B, 1170B
+Fri, 2024.01.12 20:36, 20:36, CNY, yel, M2 Money Supply y/y,  10.0% , 10.1%, 9.7%
+Fri, 2024.01.12 23:35, 23:35, GBP, yel, NIESR GDP Estimate,  -0.2% , , 0.0%
+Mon, 2024.01.15 10:50, 10:50, JPY, yel, M2 Money Stock y/y,  2.3% , 2.2%, 2.3%
+Mon, 2024.01.15 11:01, 11:01, GBP, yel, Rightmove HPI m/m,  -1.9% , , 1.3%
+Mon, 2024.01.15 11:13, 11:13, AUD, yel, MI Inflation Gauge m/m,  0.3% , , 1.0%
+Mon, 2024.01.15 11:30, 11:30, AUD, yel, ANZ Job Advertisements m/m,  -5.1% , , 0.1%
+Mon, 2024.01.15 16:59, 16:59, JPY, yel, Prelim Machine Tool Orders y/y,  -13.6% , , -9.9%
+Mon, 2024.01.15 18:00, 18:00, EUR, yel, German WPI m/m,  -0.2% , 0.2%, -0.6%
+Mon, 2024.01.15 20:00, 20:00, EUR, yel, Italian Trade Balance,  4.73B , 5.20B, 3.89B
+Mon, 2024.01.15 20:00, 20:00, EUR, ora, WEF Annual Meetings,   , , 
+Mon, 2024.01.15 21:00, 21:00, EUR, yel, Industrial Production m/m,  -0.7% , -0.3%, -0.3%
+Mon, 2024.01.15 21:00, 21:00, EUR, yel, Trade Balance,  11.1B , 11.2B, 14.8B
+Mon, 2024.01.15 0:00, 0:00, EUR, yel, Eurogroup Meetings,   , , 
+Tue, 2024.01.16 0:00, 0:00, USD, gra, Bank Holiday,   , , 
+Tue, 2024.01.16 0:30, 0:30, CAD, yel, Manufacturing Sales m/m,  -2.9% , 0.9%, 1.2%
+Tue, 2024.01.16 0:30, 0:30, CAD, yel, Wholesale Sales m/m,  -0.3% , 0.9%, 0.9%
+Tue, 2024.01.16 2:30, 2:30, CAD, ora, BOC Business Outlook Survey,   , , 
+Tue, 2024.01.16 8:00, 8:00, NZD, yel, NZIER Business Confidence,  -52 , , -2
+Tue, 2024.01.16 10:30, 10:30, AUD, yel, Westpac Consumer Sentiment,  2.7% , , -1.3%
+Tue, 2024.01.16 10:50, 10:50, JPY, yel, PPI y/y,  0.3% , -0.3%, 0.0%
+Tue, 2024.01.16 18:00, 18:00, EUR, yel, German Final CPI m/m,  0.1% , 0.1%, 0.1%
+Tue, 2024.01.16 18:00, 18:00, GBP, red, Claimant Count Change,  0.6K , 18.1K, 11.7K
+Tue, 2024.01.16 18:00, 18:00, GBP, ora, Average Earnings Index 3m/y,  7.2% , 6.8%, 6.5%
+Tue, 2024.01.16 18:00, 18:00, GBP, yel, Unemployment Rate,  4.2% , 4.2%, 4.2%
+Tue, 2024.01.16 18:00, 18:00, GBP, ora, WEF Annual Meetings,   , , 
+Tue, 2024.01.16 21:00, 21:00, EUR, yel, German ZEW Economic Sentiment,  12.8 , 11.6, 15.2
+Tue, 2024.01.16 21:00, 21:00, EUR, yel, ZEW Economic Sentiment,  23.0 , 20.2, 22.7
+Tue, 2024.01.16 0:00, 0:00, EUR, yel, ECOFIN Meetings,   , , 
+Wed, 2024.01.17 0:15, 0:15, CAD, yel, Housing Starts,  211K , 245K, 249K
+Wed, 2024.01.17 0:30, 0:30, CAD, red, CPI m/m,  0.1% , -0.3%, -0.3%
+Wed, 2024.01.17 0:30, 0:30, CAD, red, Median CPI y/y,  3.6% , 3.3%, 3.6%
+Wed, 2024.01.17 0:30, 0:30, CAD, red, Trimmed CPI y/y,  3.5% , 3.4%, 3.7%
+Wed, 2024.01.17 0:30, 0:30, CAD, ora, Common CPI y/y,  3.9% , 3.8%, 3.9%
+Wed, 2024.01.17 0:30, 0:30, CAD, yel, Core CPI m/m,  0.1% , , -0.5%
+Wed, 2024.01.17 0:30, 0:30, USD, red, Empire State Manufacturing Index,  -14.5 , -4.9, -43.7
+Wed, 2024.01.17 1:31, 1:31, NZD, yel, GDT Price Index,  1.2% , , 2.3%
+Wed, 2024.01.17 2:00, 2:00, GBP, red, BOE Gov Bailey Speaks,   , , 
+Wed, 2024.01.17 3:00, 3:00, USD, yel, FOMC Member Waller Speaks,   , , 
+Wed, 2024.01.17 12:30, 12:30, CNY, yel, New Home Prices m/m,  -0.37% , , -0.45%
+Wed, 2024.01.17 13:00, 13:00, CNY, red, Industrial Production y/y,  6.6% , 6.6%, 6.8%
+Wed, 2024.01.17 13:00, 13:00, CNY, ora, GDP q/y,  4.9% , 5.3%, 5.2%
+Wed, 2024.01.17 13:00, 13:00, CNY, ora, Retail Sales y/y,  10.1% , 7.9%, 7.4%
+Wed, 2024.01.17 13:00, 13:00, CNY, yel, Fixed Asset Investment ytd/y,  2.9% , 2.9%, 3.0%
+Wed, 2024.01.17 13:00, 13:00, CNY, yel, NBS Press Conference,   , , 
+Wed, 2024.01.17 13:00, 13:00, CNY, yel, Unemployment Rate,  5.0% , 5.0%, 5.1%
+Wed, 2024.01.17 18:00, 18:00, GBP, red, CPI y/y,  3.9% , 3.8%, 4.0%
+Wed, 2024.01.17 18:00, 18:00, GBP, yel, Core CPI y/y,  5.1% , 4.9%, 5.1%
+Wed, 2024.01.17 18:00, 18:00, GBP, yel, PPI Input m/m,  -0.4% , -0.6%, -1.2%
+Wed, 2024.01.17 18:00, 18:00, GBP, yel, PPI Output m/m,  0.0% , -0.2%, -0.6%
+Wed, 2024.01.17 18:00, 18:00, GBP, yel, RPI y/y,  5.3% , 5.1%, 5.2%
+Wed, 2024.01.17 18:45, 18:45, EUR, yel, French Gov Budget Balance,  -177.7B , , -198.0B
+Wed, 2024.01.17 18:45, 18:45, EUR, ora, WEF Annual Meetings,   , , 
+Wed, 2024.01.17 20:30, 20:30, GBP, yel, HPI y/y,  -1.3% , -1.9%, -2.1%
+Wed, 2024.01.17 21:00, 21:00, EUR, yel, Final Core CPI y/y,  3.4% , 3.4%, 3.4%
+Wed, 2024.01.17 21:00, 21:00, EUR, yel, Final CPI y/y,  2.9% , 2.9%, 2.9%
+Wed, 2024.01.17 21:36, 21:36, EUR, yel, German 30-y Bond Auction,  2.81|3.0 , , 2.45|2.5
+Wed, 2024.01.17 22:33, 22:33, GBP, yel, 10-y Bond Auction,  3.74|2.8 , , 3.97|3.1
+Thu, 2024.01.18 0:30, 0:30, CAD, yel, Foreign Securities Purchases,  -15.88B , 7.58B, 11.43B
+Thu, 2024.01.18 0:30, 0:30, CAD, yel, IPPI m/m,  -0.3% , -0.7%, -1.5%
+Thu, 2024.01.18 0:30, 0:30, CAD, yel, RMPI m/m,  -4.9% , -1.5%, -4.9%
+Thu, 2024.01.18 0:30, 0:30, USD, red, Core Retail Sales m/m,  0.2% , 0.2%, 0.4%
+Thu, 2024.01.18 0:30, 0:30, USD, red, Retail Sales m/m,  0.3% , 0.4%, 0.6%
+Thu, 2024.01.18 0:30, 0:30, USD, yel, Import Prices m/m,  -0.5% , -0.6%, 0.0%
+Thu, 2024.01.18 1:00, 1:00, USD, yel, FOMC Member Barr Speaks,   , , 
+Thu, 2024.01.18 1:00, 1:00, USD, yel, FOMC Member Bowman Speaks,   , , 
+Thu, 2024.01.18 1:15, 1:15, USD, ora, Industrial Production m/m,  0.0% , -0.1%, 0.1%
+Thu, 2024.01.18 1:15, 1:15, USD, yel, Capacity Utilization Rate,  78.6% , 78.7%, 78.6%
+Thu, 2024.01.18 2:00, 2:00, USD, yel, Business Inventories m/m,  -0.1% , -0.1%, -0.1%
+Thu, 2024.01.18 2:00, 2:00, USD, yel, NAHB Housing Market Index,  37 , 39, 44
+Thu, 2024.01.18 2:15, 2:15, EUR, ora, ECB President Lagarde Speaks,   , , 
+Thu, 2024.01.18 5:30, 5:30, EUR, yel, German Buba President Nagel Speaks,   , , 
+Thu, 2024.01.18 6:00, 6:00, USD, yel, Beige Book,   , , 
+Thu, 2024.01.18 7:00, 7:00, USD, yel, FOMC Member Williams Speaks,   , , 
+Thu, 2024.01.18 8:45, 8:45, NZD, yel, FPI m/m,  -0.2% , , -0.1%
+Thu, 2024.01.18 10:50, 10:50, JPY, yel, Core Machinery Orders m/m,  0.7% , -0.8%, -4.9%
+Thu, 2024.01.18 11:01, 11:01, GBP, yel, RICS House Price Balance,  -41% , -35%, -30%
+Thu, 2024.01.18 11:03, 11:03, AUD, yel, MI Inflation Expectations,  4.5% , , 4.5%
+Thu, 2024.01.18 11:30, 11:30, AUD, red, Employment Change,  72.6K , 15.4K, -65.1K
+Thu, 2024.01.18 11:30, 11:30, AUD, red, Unemployment Rate,  3.9% , 3.9%, 3.9%
+Thu, 2024.01.18 15:30, 15:30, JPY, yel, Revised Industrial Production m/m,  -0.9% , -0.9%, -0.9%
+Thu, 2024.01.18 20:00, 20:00, EUR, yel, Current Account,  32.3B , 30.9B, 24.6B
+Thu, 2024.01.18 20:00, 20:00, EUR, ora, WEF Annual Meetings,   , , 
+Thu, 2024.01.18 20:30, 20:30, GBP, yel, BOE Credit Conditions Survey,   , , 
+Thu, 2024.01.18 21:30, 21:30, CHF, ora, SNB Chairman Jordan Speaks,   , , 
+Thu, 2024.01.18 23:30, 23:30, EUR, yel, ECB Monetary Policy Meeting Accounts,   , , 
+Thu, 2024.01.18 23:30, 23:30, USD, yel, FOMC Member Bostic Speaks,   , , 
+Fri, 2024.01.19 0:30, 0:30, USD, red, Unemployment Claims,  203K , 206K, 187K
+Fri, 2024.01.19 0:30, 0:30, USD, ora, Building Permits,  1.47M , 1.47M, 1.50M
+Fri, 2024.01.19 0:30, 0:30, USD, ora, Philly Fed Manufacturing Index,  -10.5 , -6.6, -10.6
+Fri, 2024.01.19 0:30, 0:30, USD, yel, Housing Starts,  1.53M , 1.43M, 1.46M
+Fri, 2024.01.19 2:15, 2:15, EUR, ora, ECB President Lagarde Speaks,   , , 
+Fri, 2024.01.19 2:30, 2:30, AUD, yel, CB Leading Index m/m,  -0.3% , , 0.2%
+Fri, 2024.01.19 2:30, 2:30, USD, yel, Natural Gas Storage,  -140B , -166B, -154B
+Fri, 2024.01.19 3:00, 3:00, USD, yel, Crude Oil Inventories,  1.3M , -0.6M, -2.5M
+Fri, 2024.01.19 4:05, 4:05, USD, yel, FOMC Member Bostic Speaks,   , , 
+Fri, 2024.01.19 8:30, 8:30, NZD, yel, BusinessNZ Manufacturing Index,  46.5 , , 43.1
+Fri, 2024.01.19 8:45, 8:45, NZD, yel, Visitor Arrivals m/m,  -6.7% , , -1.5%
+Fri, 2024.01.19 10:30, 10:30, JPY, yel, National Core CPI y/y,  2.5% , 2.3%, 2.3%
+Fri, 2024.01.19 15:30, 15:30, JPY, yel, Tertiary Industry Activity m/m,  -0.2% , 0.2%, -0.7%
+Fri, 2024.01.19 18:00, 18:00, EUR, yel, German PPI m/m,  -0.5% , -0.4%, -1.2%
+Fri, 2024.01.19 18:00, 18:00, GBP, red, Retail Sales m/m,  1.4% , -0.5%, -3.2%
+Fri, 2024.01.19 18:30, 18:30, CHF, yel, PPI m/m,  -0.9% , -0.6%, -0.6%
+Fri, 2024.01.19 19:31, 19:31, CNY, yel, Foreign Direct Investment ytd/y,  -10.0% , , -8.0%
+Fri, 2024.01.19 19:31, 19:31, CNY, ora, WEF Annual Meetings,   , , 
+Fri, 2024.01.19 21:00, 21:00, EUR, ora, ECB President Lagarde Speaks,   , , 
+Mon, 2024.01.22 12:15, 12:15, CNY, ora, 1-y Loan Prime Rate,  3.45% , 3.45%, 3.45%
+Mon, 2024.01.22 12:15, 12:15, CNY, ora, 5-y Loan Prime Rate,  4.20% , 4.20%, 4.20%
+Tue, 2024.01.23 2:00, 2:00, USD, yel, CB Leading Index m/m,  -0.5% , -0.3%, -0.1%
+Tue, 2024.01.23 8:30, 8:30, NZD, yel, BusinessNZ Services Index,  51.1 , , 48.8
+Tue, 2024.01.23 11:30, 11:30, AUD, yel, NAB Business Confidence,  -8 , , -1
+Tue, 2024.01.23 14:09, 14:09, JPY, red, BOJ Outlook Report,   , , 
+Tue, 2024.01.23 14:09, 14:09, JPY, red, Monetary Policy Statement,   , , 
+Tue, 2024.01.23 14:09, 14:09, JPY, ora, BOJ Policy Rate,  -0.10% , -0.10%, -0.10%
+Tue, 2024.01.23 16:00, 16:00, JPY, yel, BOJ Core CPI y/y,  2.7% , 2.8%, 2.6%
+Tue, 2024.01.23 17:30, 17:30, JPY, red, BOJ Press Conference,   , , 
+Tue, 2024.01.23 18:00, 18:00, GBP, yel, Public Sector Net Borrowing,  12.8B , 11.4B, 6.8B
+Wed, 2024.01.24 0:30, 0:30, CAD, yel, NHPI m/m,  -0.2% , 0.0%, 0.0%
+Wed, 2024.01.24 1:59, 1:59, USD, ora, Richmond Manufacturing Index,  -11 , -7, -15
+Wed, 2024.01.24 2:00, 2:00, EUR, yel, Consumer Confidence,  -15 , -14, -16
+Wed, 2024.01.24 8:45, 8:45, NZD, red, CPI q/q,  1.8% , 0.5%, 0.5%
+Wed, 2024.01.24 9:00, 9:00, AUD, yel, Flash Manufacturing PMI,  47.6 , , 50.3
+Wed, 2024.01.24 9:00, 9:00, AUD, yel, Flash Services PMI,  47.1 , , 47.9
+Wed, 2024.01.24 10:30, 10:30, AUD, yel, MI Leading Index m/m,  0.1% , , 0.0%
+Wed, 2024.01.24 10:50, 10:50, JPY, yel, Trade Balance,  -0.35T , -0.45T, -0.41T
+Wed, 2024.01.24 11:30, 11:30, JPY, yel, Flash Manufacturing PMI,  47.9 , 48.2, 48.0
+Wed, 2024.01.24 13:00, 13:00, NZD, yel, Credit Card Spending y/y,  3.3% , , 4.3%
+Wed, 2024.01.24 19:15, 19:15, EUR, red, French Flash Manufacturing PMI,  42.1 , 42.5, 43.2
+Wed, 2024.01.24 19:15, 19:15, EUR, red, French Flash Services PMI,  45.7 , 46.1, 45.0
+Wed, 2024.01.24 19:30, 19:30, EUR, red, German Flash Manufacturing PMI,  43.3 , 43.7, 45.4
+Wed, 2024.01.24 19:30, 19:30, EUR, red, German Flash Services PMI,  49.3 , 49.3, 47.6
+Wed, 2024.01.24 20:00, 20:00, EUR, ora, Flash Manufacturing PMI,  44.4 , 44.8, 46.6
+Wed, 2024.01.24 20:00, 20:00, EUR, ora, Flash Services PMI,  48.8 , 49.1, 48.4
+Wed, 2024.01.24 20:30, 20:30, GBP, red, Flash Manufacturing PMI,  46.2 , 46.7, 47.3
+Wed, 2024.01.24 20:30, 20:30, GBP, red, Flash Services PMI,  53.4 , 53.1, 53.8
+Wed, 2024.01.24 22:00, 22:00, GBP, yel, CBI Industrial Order Expectations,  -23 , -23, -30
+Thu, 2024.01.25 1:45, 1:45, CAD, red, BOC Monetary Policy Report,   , , 
+Thu, 2024.01.25 1:45, 1:45, CAD, red, BOC Rate Statement,   , , 
+Thu, 2024.01.25 1:45, 1:45, CAD, red, Overnight Rate,  5.00% , 5.00%, 5.00%
+Thu, 2024.01.25 1:45, 1:45, USD, red, Flash Manufacturing PMI,  47.9 , 47.6, 50.3
+Thu, 2024.01.25 1:45, 1:45, USD, red, Flash Services PMI,  51.4 , 51.4, 52.9
+Thu, 2024.01.25 2:30, 2:30, CAD, red, BOC Press Conference,   , , 
+Thu, 2024.01.25 2:30, 2:30, USD, yel, Crude Oil Inventories,  -2.5M , -1.2M, -9.2M
+Thu, 2024.01.25 11:30, 11:30, AUD, yel, RBA Bulletin,   , , 
+Thu, 2024.01.25 20:00, 20:00, EUR, ora, German ifo Business Climate,  86.3 , 86.7, 85.2
+Thu, 2024.01.25 22:00, 22:00, GBP, yel, CBI Realized Sales,  -32 , -19, -50
+Fri, 2024.01.26 0:15, 0:15, EUR, red, Main Refinancing Rate,  4.50% , 4.50%, 4.50%
+Fri, 2024.01.26 0:15, 0:15, EUR, red, Monetary Policy Statement,   , , 
+Fri, 2024.01.26 0:30, 0:30, USD, red, Advance GDP q/q,  4.9% , 2.0%, 3.3%
+Fri, 2024.01.26 0:30, 0:30, USD, red, Unemployment Claims,  189K , 199K, 214K
+Fri, 2024.01.26 0:30, 0:30, USD, ora, Advance GDP Price Index q/q,  3.3% , 2.3%, 1.5%
+Fri, 2024.01.26 0:30, 0:30, USD, ora, Core Durable Goods Orders m/m,  0.4% , 0.2%, 0.6%
+Fri, 2024.01.26 0:30, 0:30, USD, ora, Durable Goods Orders m/m,  5.5% , 1.2%, 0.0%
+Fri, 2024.01.26 0:30, 0:30, USD, yel, Goods Trade Balance,  -89.3B , -88.7B, -88.5B
+Fri, 2024.01.26 0:30, 0:30, USD, yel, Prelim Wholesale Inventories m/m,  -0.4% , -0.2%, 0.4%
+Fri, 2024.01.26 0:45, 0:45, EUR, red, ECB Press Conference,   , , 
+Fri, 2024.01.26 1:00, 1:00, EUR, yel, Belgian NBB Business Climate,  -12.7 , -11.9, -16.4
+Fri, 2024.01.26 2:00, 2:00, USD, ora, New Home Sales,  615K , 648K, 664K
+Fri, 2024.01.26 2:30, 2:30, USD, yel, Natural Gas Storage,  -154B , -322B, -326B
+Fri, 2024.01.26 0:00, 0:00, AUD, gra, Bank Holiday,   , , 
+Fri, 2024.01.26 10:30, 10:30, JPY, ora, Tokyo Core CPI y/y,  2.1% , 1.9%, 1.6%
+Fri, 2024.01.26 10:50, 10:50, JPY, yel, Monetary Policy Meeting Minutes,   , , 
+Fri, 2024.01.26 10:50, 10:50, JPY, yel, SPPI y/y,  2.4% , 2.4%, 2.4%
+Fri, 2024.01.26 11:01, 11:01, GBP, yel, GfK Consumer Confidence,  -22 , -21, -19
+Fri, 2024.01.26 18:00, 18:00, EUR, yel, German GfK Consumer Climate,  -25.4 , -24.7, -29.7
+Fri, 2024.01.26 19:00, 19:00, EUR, yel, Spanish Unemployment Rate,  11.8% , 11.9%, 11.8%
+Fri, 2024.01.26 20:00, 20:00, EUR, yel, M3 Money Supply y/y,  -0.9% , -0.7%, 0.1%
+Fri, 2024.01.26 20:00, 20:00, EUR, yel, Private Loans y/y,  0.5% , 0.6%, 0.3%
+Fri, 2024.01.26 22:00, 22:00, EUR, yel, German Buba Monthly Report,   , , 
+Mon, 2024.01.29 8:45, 8:45, NZD, yel, Trade Balance,  -1250M , -975M, -323M
+Tue, 2024.01.30 1:00, 1:00, CNY, yel, CB Leading Index m/m,  -0.5% , , -0.3%
+Tue, 2024.01.30 10:30, 10:30, JPY, yel, Unemployment Rate,  2.5% , 2.5%, 2.4%
+Tue, 2024.01.30 11:01, 11:01, GBP, yel, BRC Shop Price Index y/y,  4.3% , , 2.9%
+Tue, 2024.01.30 11:30, 11:30, AUD, ora, Retail Sales m/m,  1.6% , -1.9%, -2.7%
+Tue, 2024.01.30 17:30, 17:30, EUR, yel, French Consumer Spending m/m,  0.6% , 0.0%, 0.3%
+Tue, 2024.01.30 17:30, 17:30, EUR, yel, French Flash GDP q/q,  -0.1% , 0.0%, 0.0%
+Tue, 2024.01.30 18:00, 18:00, CHF, yel, Trade Balance,  3.83B , 2.55B, 1.25B
+Tue, 2024.01.30 19:00, 19:00, CHF, yel, KOF Economic Barometer,  98.0 , 98.3, 101.5
+Tue, 2024.01.30 19:00, 19:00, EUR, ora, Spanish Flash CPI y/y,  3.1% , 3.0%, 3.4%
+Tue, 2024.01.30 19:00, 19:00, EUR, yel, Spanish Flash GDP q/q,  0.4% , 0.2%, 0.6%
+Tue, 2024.01.30 20:00, 20:00, EUR, yel, Italian Prelim GDP q/q,  0.1% , 0.0%, 0.2%
+Tue, 2024.01.30 20:00, 20:00, EUR, yel, German Prelim GDP q/q,  0.0% , -0.3%, -0.3%
+Tue, 2024.01.30 20:30, 20:30, GBP, yel, M4 Money Supply m/m,  -0.1% , 0.2%, 0.5%
+Tue, 2024.01.30 20:30, 20:30, GBP, yel, Mortgage Approvals,  49K , 53K, 50K
+Tue, 2024.01.30 20:30, 20:30, GBP, yel, Net Lending to Individuals m/m,  2.1B , 1.5B, 0.4B
+Tue, 2024.01.30 21:00, 21:00, EUR, yel, Prelim Flash GDP q/q,  -0.1% , -0.1%, 0.0%
+Tue, 2024.01.30 21:19, 21:19, EUR, yel, Italian 10-y Bond Auction,  4.17|1.4 , , 3.69|1.7
+Wed, 2024.01.31 1:00, 1:00, USD, ora, S&P/CS Composite-20 HPI y/y,  4.9% , 5.8%, 5.4%
+Wed, 2024.01.31 1:00, 1:00, USD, yel, HPI m/m,  0.3% , 0.3%, 0.3%
+Wed, 2024.01.31 2:00, 2:00, USD, red, CB Consumer Confidence,  108.0 , 114.2, 114.8
+Wed, 2024.01.31 2:00, 2:00, USD, red, JOLTS Job Openings,  8.93M , 8.73M, 9.03M
+Wed, 2024.01.31 2:30, 2:30, EUR, yel, German Buba President Nagel Speaks,   , , 
+Wed, 2024.01.31 10:50, 10:50, JPY, yel, BOJ Summary of Opinions,   , , 
+Wed, 2024.01.31 10:50, 10:50, JPY, yel, Prelim Industrial Production m/m,  -0.9% , 2.5%, 1.8%
+Wed, 2024.01.31 10:50, 10:50, JPY, yel, Retail Sales y/y,  5.4% , 5.0%, 2.1%
+Wed, 2024.01.31 11:00, 11:00, NZD, yel, ANZ Business Confidence,  33.2 , , 36.6
+Wed, 2024.01.31 11:30, 11:30, AUD, red, CPI q/q,  1.2% , 0.8%, 0.6%
+Wed, 2024.01.31 11:30, 11:30, AUD, red, CPI y/y,  4.3% , 3.7%, 3.4%
+Wed, 2024.01.31 11:30, 11:30, AUD, red, Trimmed Mean CPI q/q,  1.2% , 0.9%, 0.8%
+Wed, 2024.01.31 11:30, 11:30, AUD, yel, Private Sector Credit m/m,  0.4% , 0.4%, 0.4%
+Wed, 2024.01.31 12:30, 12:30, CNY, red, Manufacturing PMI,  49.0 , 49.3, 49.2
+Wed, 2024.01.31 12:30, 12:30, CNY, ora, Non-Manufacturing PMI,  50.4 , 50.6, 50.7
+Wed, 2024.01.31 16:00, 16:00, JPY, yel, Consumer Confidence,  37.2 , 37.6, 38.0
+Wed, 2024.01.31 16:00, 16:00, JPY, yel, Housing Starts y/y,  -8.5% , -6.6%, -4.0%
+Wed, 2024.01.31 18:00, 18:00, EUR, yel, German Import Prices m/m,  -0.1% , -0.6%, -1.1%
+Wed, 2024.01.31 18:00, 18:00, EUR, yel, German Retail Sales m/m,  -0.8% , 0.6%, -1.6%
+Wed, 2024.01.31 18:00, 18:00, GBP, yel, Nationwide HPI m/m,  0.0% , 0.1%, 0.7%
+Wed, 2024.01.31 0:00, 0:00, EUR, red, German Prelim CPI m/m,  0.1% , 0.1%, 0.2%
+Wed, 2024.01.31 18:30, 18:30, CHF, yel, Retail Sales y/y,  -1.5% , 0.9%, -0.8%
+Wed, 2024.01.31 18:45, 18:45, EUR, yel, French Prelim CPI m/m,  0.1% , 0.0%, -0.2%
+Wed, 2024.01.31 19:55, 19:55, EUR, yel, German Unemployment Change,  2K , 11K, -2K
+Wed, 2024.01.31 20:00, 20:00, CHF, yel, Credit Suisse Economic Expectations,  -23.7 , , -19.5
+Wed, 2024.01.31 20:00, 20:00, EUR, yel, Italian Monthly Unemployment Rate,  7.4% , 7.5%, 7.2%
+Wed, 2024.01.31 21:32, 21:32, EUR, yel, German 10-y Bond Auction,  2.19|1.7 , , 2.23|1.8
+Thu, 2024.02.01 0:15, 0:15, USD, red, ADP Non-Farm Employment Change,  158K , 148K, 107K
+Thu, 2024.02.01 0:30, 0:30, CAD, red, GDP m/m,  0.0% , 0.1%, 0.2%
+Thu, 2024.02.01 0:30, 0:30, USD, red, Employment Cost Index q/q,  1.1% , 1.0%, 0.9%
+Thu, 2024.02.01 1:45, 1:45, USD, ora, Chicago PMI,  46.9 , 47.9, 46.0
+Thu, 2024.02.01 2:30, 2:30, USD, yel, Crude Oil Inventories,  -9.2M , -0.8M, 1.2M
+Thu, 2024.02.01 6:00, 6:00, USD, red, Federal Funds Rate,  5.50% , 5.50%, 5.50%
+Thu, 2024.02.01 6:00, 6:00, USD, red, FOMC Statement,   , , 
+Thu, 2024.02.01 6:30, 6:30, USD, red, FOMC Press Conference,   , , 
+Thu, 2024.02.01 11:30, 11:30, AUD, yel, Building Approvals m/m,  0.3% , 0.5%, -9.5%
+Thu, 2024.02.01 11:30, 11:30, AUD, yel, Import Prices q/q,  0.8% , 0.6%, 1.1%
+Thu, 2024.02.01 11:30, 11:30, AUD, yel, NAB Quarterly Business Confidence,  -1 , , -6
+Thu, 2024.02.01 11:30, 11:30, JPY, yel, Final Manufacturing PMI,  48.0 , 48.0, 48.0
+Thu, 2024.02.01 12:45, 12:45, CNY, ora, Caixin Manufacturing PMI,  50.8 , 50.8, 50.8
+Thu, 2024.02.01 14:35, 14:35, JPY, yel, 10-y Bond Auction,  0.60|2.9 , , 0.74|3.6
+Thu, 2024.02.01 16:30, 16:30, AUD, yel, Commodity Prices y/y,  -11.2% , , -10.4%
+Thu, 2024.02.01 19:00, 19:00, EUR, ora, ECB President Lagarde Speaks,   , , 
+Thu, 2024.02.01 19:15, 19:15, EUR, yel, Spanish Manufacturing PMI,  46.2 , 47.9, 49.2
+Thu, 2024.02.01 19:30, 19:30, CHF, yel, Manufacturing PMI,  43.0 , 44.5, 43.1
+Thu, 2024.02.01 19:45, 19:45, EUR, yel, Italian Manufacturing PMI,  45.3 , 47.0, 48.5
+Thu, 2024.02.01 19:50, 19:50, EUR, yel, French Final Manufacturing PMI,  43.2 , 43.2, 43.1
+Thu, 2024.02.01 19:55, 19:55, EUR, yel, German Final Manufacturing PMI,  45.4 , 45.4, 45.5
+Thu, 2024.02.01 20:00, 20:00, EUR, yel, Final Manufacturing PMI,  46.6 , 46.6, 46.6
+Thu, 2024.02.01 20:30, 20:30, GBP, yel, Final Manufacturing PMI,  47.3 , 47.3, 47.0
+Thu, 2024.02.01 20:45, 20:45, EUR, yel, Spanish 10-y Bond Auction,  3.61|2.2 , , 3.17|1.8
+Thu, 2024.02.01 21:00, 21:00, EUR, ora, Core CPI Flash Estimate y/y,  3.4% , 3.2%, 3.3%
+Thu, 2024.02.01 21:00, 21:00, EUR, ora, CPI Flash Estimate y/y,  2.9% , 2.7%, 2.8%
+Thu, 2024.02.01 21:00, 21:00, EUR, yel, Italian Prelim CPI m/m,  0.2% , 0.5%, 0.3%
+Thu, 2024.02.01 21:00, 21:00, EUR, yel, Unemployment Rate,  6.4% , 6.4%, 6.4%
+Thu, 2024.02.01 21:01, 21:01, EUR, yel, French 10-y Bond Auction,  2.59|1.8 , , 2.70|1.9
+Thu, 2024.02.01 0:00, 0:00, EUR, ora, OPEC-JMMC Meetings,   , , 
+Thu, 2024.02.01 23:00, 23:00, GBP, red, BOE Monetary Policy Report,   , , 
+Thu, 2024.02.01 23:00, 23:00, GBP, red, Monetary Policy Summary,   , , 
+Thu, 2024.02.01 23:00, 23:00, GBP, red, MPC Official Bank Rate Votes,  3-0-6 , 2-0-7, 2-1-6
+Thu, 2024.02.01 23:00, 23:00, GBP, red, Official Bank Rate,  5.25% , 5.25%, 5.25%
+Thu, 2024.02.01 23:30, 23:30, GBP, red, BOE Gov Bailey Speaks,   , , 
+Thu, 2024.02.01 23:30, 23:30, USD, yel, Challenger Job Cuts y/y,  -20.2% , , -20.0%
+Fri, 2024.02.02 0:30, 0:30, USD, red, Unemployment Claims,  215K , 213K, 224K
+Fri, 2024.02.02 0:30, 0:30, USD, yel, Prelim Nonfarm Productivity q/q,  5.2% , 2.4%, 3.2%
+Fri, 2024.02.02 0:30, 0:30, USD, yel, Prelim Unit Labor Costs q/q,  -1.2% , 1.3%, 0.5%
+Fri, 2024.02.02 1:30, 1:30, CAD, yel, Manufacturing PMI,  45.4 , , 48.3
+Fri, 2024.02.02 1:45, 1:45, USD, yel, Final Manufacturing PMI,  50.3 , 50.3, 50.7
+Fri, 2024.02.02 2:00, 2:00, USD, red, ISM Manufacturing PMI,  47.4 , 47.2, 49.1
+Fri, 2024.02.02 2:00, 2:00, USD, ora, ISM Manufacturing Prices,  45.2 , 46.0, 52.9
+Fri, 2024.02.02 2:00, 2:00, USD, yel, Construction Spending m/m,  0.9% , 0.5%, 0.9%
+Fri, 2024.02.02 0:00, 0:00, USD, yel, Wards Total Vehicle Sales,  15.8M , 15.7M, 15.0M
+Fri, 2024.02.02 2:30, 2:30, USD, yel, Natural Gas Storage,  -326B , -202B, -197B
+Fri, 2024.02.02 3:30, 3:30, CAD, red, BOC Gov Macklem Speaks,   , , 
+Fri, 2024.02.02 8:45, 8:45, NZD, yel, Building Consents m/m,  -10.6% , , 3.7%
+Fri, 2024.02.02 10:50, 10:50, JPY, yel, Monetary Base y/y,  7.8% , 7.5%, 4.8%
+Fri, 2024.02.02 11:30, 11:30, AUD, yel, PPI q/q,  1.8% , 1.9%, 0.9%
+Fri, 2024.02.02 18:45, 18:45, EUR, yel, French Gov Budget Balance,  -198.0B , , -173.3B
+Fri, 2024.02.02 18:45, 18:45, EUR, yel, French Industrial Production m/m,  0.5% , 0.2%, 1.1%
+Fri, 2024.02.02 19:00, 19:00, EUR, yel, Spanish Unemployment Change,  -27.4K , -38.6K, 60.4K
+Fri, 2024.02.02 23:15, 23:15, GBP, yel, MPC Member Pill Speaks,   , , 
+Mon, 2024.02.05 11:00, 11:00, AUD, yel, MI Inflation Gauge m/m,  1.0% , , 0.3%
+Mon, 2024.02.05 11:00, 11:00, NZD, yel, ANZ Commodity Prices m/m,  2.4% , , 2.2%
+Mon, 2024.02.05 11:00, 11:00, USD, red, Fed Chair Powell Speaks,   , , 
+Mon, 2024.02.05 11:30, 11:30, AUD, yel, ANZ Job Advertisements m/m,  0.6% , , 1.7%
+Mon, 2024.02.05 11:30, 11:30, AUD, yel, Goods Trade Balance,  11.76B , 10.51B, 10.96B
+Mon, 2024.02.05 12:45, 12:45, CNY, ora, Caixin Services PMI,  52.9 , 53.0, 52.7
+Mon, 2024.02.05 18:00, 18:00, EUR, yel, German Trade Balance,  20.7B , 19.0B, 22.2B
+Mon, 2024.02.05 19:15, 19:15, EUR, yel, Spanish Services PMI,  51.5 , 52.2, 52.1
+Mon, 2024.02.05 19:45, 19:45, EUR, yel, Italian Services PMI,  49.8 , 50.7, 51.2
+Mon, 2024.02.05 19:50, 19:50, EUR, yel, French Final Services PMI,  45.0 , 45.0, 45.4
+Mon, 2024.02.05 19:55, 19:55, EUR, yel, German Final Services PMI,  47.6 , 47.6, 47.7
+Mon, 2024.02.05 20:00, 20:00, EUR, yel, Final Services PMI,  48.4 , 48.4, 48.4
+Mon, 2024.02.05 20:30, 20:30, EUR, yel, Sentix Investor Confidence,  -15.8 , -15.0, -12.9
+Mon, 2024.02.05 20:30, 20:30, GBP, yel, Final Services PMI,  53.8 , 53.8, 54.3
+Mon, 2024.02.05 21:00, 21:00, EUR, yel, PPI m/m,  -0.3% , -0.8%, -0.8%
+Tue, 2024.02.06 1:45, 1:45, USD, yel, Final Services PMI,  52.9 , 52.9, 52.5
+Tue, 2024.02.06 2:00, 2:00, USD, red, ISM Services PMI,  50.6 , 52.0, 53.4
+Tue, 2024.02.06 4:30, 4:30, GBP, yel, MPC Member Pill Speaks,   , , 
+Tue, 2024.02.06 6:00, 6:00, USD, yel, FOMC Member Bostic Speaks,   , , 
+Tue, 2024.02.06 6:00, 6:00, USD, yel, Loan Officer Survey,   , , 
+Tue, 2024.02.06 0:00, 0:00, NZD, gra, Bank Holiday,   , , 
+Tue, 2024.02.06 10:30, 10:30, JPY, yel, Average Cash Earnings y/y,  0.7% , 1.3%, 1.0%
+Tue, 2024.02.06 10:30, 10:30, JPY, yel, Household Spending y/y,  -2.9% , -2.0%, -2.5%
+Tue, 2024.02.06 11:01, 11:01, GBP, yel, BRC Retail Sales Monitor y/y,  1.9% , 1.2%, 1.4%
+Tue, 2024.02.06 14:30, 14:30, AUD, red, Cash Rate,  4.35% , 4.35%, 4.35%
+Tue, 2024.02.06 14:30, 14:30, AUD, red, RBA Rate Statement,   , , 
+Tue, 2024.02.06 14:30, 14:30, AUD, ora, RBA Monetary Policy Statement,   , , 
+Tue, 2024.02.06 15:30, 15:30, AUD, red, RBA Press Conference,   , , 
+Tue, 2024.02.06 18:00, 18:00, EUR, yel, German Factory Orders m/m,  0.0% , -0.1%, 8.9%
+Tue, 2024.02.06 20:30, 20:30, GBP, ora, Construction PMI,  46.8 , 47.2, 48.8
+Tue, 2024.02.06 21:00, 21:00, EUR, yel, Retail Sales m/m,  0.3% , -0.9%, -1.1%
+Wed, 2024.02.07 0:30, 0:30, CAD, yel, Building Permits m/m,  -5.0% , 1.8%, -14.0%
+Wed, 2024.02.07 2:00, 2:00, CAD, ora, Ivey PMI,  56.3 , 55.0, 56.5
+Wed, 2024.02.07 2:06, 2:06, USD, yel, RCM/TIPP Economic Optimism,  44.7 , 47.2, 44.0
+Wed, 2024.02.07 2:19, 2:19, NZD, yel, GDT Price Index,  2.3% , , 4.2%
+Wed, 2024.02.07 4:00, 4:00, USD, ora, FOMC Member Mester Speaks,   , , 
+Wed, 2024.02.07 4:45, 4:45, CAD, red, BOC Gov Macklem Speaks,   , , 
+Wed, 2024.02.07 8:45, 8:45, NZD, red, Employment Change q/q,  -0.1% , 0.3%, 0.4%
+Wed, 2024.02.07 8:45, 8:45, NZD, red, Unemployment Rate,  3.9% , 4.3%, 4.0%
+Wed, 2024.02.07 8:45, 8:45, NZD, yel, Labor Cost Index q/q,  0.8% , 0.8%, 1.0%
+Wed, 2024.02.07 14:35, 14:35, JPY, yel, 30-y Bond Auction,  1.63|3.0 , , 1.79|3.2
+Wed, 2024.02.07 16:00, 16:00, JPY, yel, Leading Indicators,  108.1% , 109.4%, 110.0%
+Wed, 2024.02.07 17:45, 17:45, CHF, yel, Unemployment Rate,  2.2% , 2.2%, 2.2%
+Wed, 2024.02.07 18:00, 18:00, EUR, yel, German Industrial Production m/m,  -0.2% , -0.4%, -1.6%
+Wed, 2024.02.07 18:00, 18:00, GBP, yel, Halifax HPI m/m,  1.1% , 0.8%, 1.3%
+Wed, 2024.02.07 18:45, 18:45, EUR, yel, French Prelim Private Payrolls q/q,  0.1% , -0.1%, 0.0%
+Wed, 2024.02.07 18:45, 18:45, EUR, yel, French Trade Balance,  -5.9B , -6.0B, -6.8B
+Wed, 2024.02.07 19:00, 19:00, CHF, ora, Foreign Currency Reserves,  654B , , 662B
+Wed, 2024.02.07 19:40, 19:40, GBP, yel, MPC Member Breeden Speaks,   , , 
+Wed, 2024.02.07 20:00, 20:00, EUR, yel, Italian Retail Sales m/m,  0.3% , 0.2%, -0.1%
+Thu, 2024.02.08 0:30, 0:30, CAD, yel, Trade Balance,  1.1B , 1.1B, -0.3B
+Thu, 2024.02.08 0:30, 0:30, USD, yel, Trade Balance,  -61.9B , -62.0B, -62.2B
+Thu, 2024.02.08 2:30, 2:30, USD, yel, Crude Oil Inventories,  1.2M , 1.7M, 5.5M
+Thu, 2024.02.08 3:00, 3:00, USD, ora, FOMC Member Kugler Speaks,   , , 
+Thu, 2024.02.08 4:30, 4:30, USD, ora, FOMC Member Barkin Speaks,   , , 
+Thu, 2024.02.08 5:01, 5:01, USD, ora, 10-y Bond Auction,  4.02|2.6 , , 4.09|2.6
+Thu, 2024.02.08 5:30, 5:30, CAD, yel, BOC Summary of Deliberations,   , , 
+Thu, 2024.02.08 6:00, 6:00, USD, yel, FOMC Member Bowman Speaks,   , , 
+Thu, 2024.02.08 7:00, 7:00, USD, yel, Consumer Credit m/m,  23.5B , 14.9B, 1.6B
+Thu, 2024.02.08 10:50, 10:50, JPY, yel, Bank Lending y/y,  3.0% , 3.2%, 3.1%
+Thu, 2024.02.08 10:50, 10:50, JPY, yel, Current Account,  1.89T , 1.93T, 1.81T
+Thu, 2024.02.08 11:01, 11:01, GBP, yel, RICS House Price Balance,  -29% , -22%, -18%
+Thu, 2024.02.08 12:30, 12:30, CNY, ora, CPI y/y,  -0.3% , -0.5%, -0.8%
+Thu, 2024.02.08 12:30, 12:30, CNY, ora, PPI y/y,  -2.7% , -2.6%, -2.5%
+Thu, 2024.02.08 16:00, 16:00, JPY, yel, Economy Watchers Sentiment,  50.7 , 50.3, 50.2
+Thu, 2024.02.08 20:00, 20:00, EUR, yel, ECB Economic Bulletin,   , , 
+Fri, 2024.02.09 0:30, 0:30, USD, red, Unemployment Claims,  227K , 221K, 218K
+Fri, 2024.02.09 0:30, 0:30, USD, ora, FOMC Member Barkin Speaks,   , , 
+Fri, 2024.02.09 2:00, 2:00, GBP, yel, MPC Member Mann Speaks,   , , 
+Fri, 2024.02.09 2:00, 2:00, USD, yel, Final Wholesale Inventories m/m,  0.4% , 0.4%, 0.4%
+Fri, 2024.02.09 2:00, 2:00, USD, yel, Mortgage Delinquencies,  3.62% , , 3.88%
+Fri, 2024.02.09 2:30, 2:30, USD, yel, Natural Gas Storage,  -197B , -73B, -75B
+Fri, 2024.02.09 4:05, 4:05, USD, ora, FOMC Member Barkin Speaks,   , , 
+Fri, 2024.02.09 5:01, 5:01, USD, ora, 30-y Bond Auction,  4.23|2.4 , , 4.36|2.4
+Fri, 2024.02.09 9:30, 9:30, AUD, red, RBA Gov Bullock Speaks,   , , 
+Fri, 2024.02.09 10:50, 10:50, JPY, yel, M2 Money Stock y/y,  2.3% , 2.2%, 2.4%
+Fri, 2024.02.09 18:00, 18:00, CNY, ora, New Loans,  1170B , 3490B, 4920B
+Fri, 2024.02.09 18:00, 18:00, CNY, yel, M2 Money Supply y/y,  9.7% , 9.4%, 8.7%
+Fri, 2024.02.09 18:00, 18:00, EUR, yel, German Final CPI m/m,  0.2% , 0.2%, 0.2%
+Fri, 2024.02.09 20:00, 20:00, EUR, yel, Italian Industrial Production m/m,  -1.3% , 0.8%, 1.1%
+Fri, 2024.02.09 21:30, 21:30, EUR, yel, German Buba President Nagel Speaks,   , , 
+Mon, 2024.02.12 0:00, 0:00, JPY, gra, Bank Holiday,   , , 
+Mon, 2024.02.12 11:30, 11:30, NZD, ora, RBNZ Gov Orr Speaks,   , , 
+Mon, 2024.02.12 0:00, 0:00, CNY, gra, Bank Holiday,   , , 
+Tue, 2024.02.13 1:20, 1:20, USD, yel, FOMC Member Bowman Speaks,   , , 
+Tue, 2024.02.13 4:00, 4:00, USD, ora, FOMC Member Barkin Speaks,   , , 
+Tue, 2024.02.13 5:00, 5:00, GBP, red, BOE Gov Bailey Speaks,   , , 
+Tue, 2024.02.13 6:00, 6:00, USD, yel, Federal Budget Balance,  -129.4B , -39.3B, -21.9B
+Tue, 2024.02.13 10:30, 10:30, AUD, yel, Westpac Consumer Sentiment,  -1.3% , , 6.2%
+Tue, 2024.02.13 10:50, 10:50, JPY, yel, PPI y/y,  0.2% , 0.1%, 0.2%
+Tue, 2024.02.13 11:30, 11:30, AUD, yel, NAB Business Confidence,  0 , , 1
+Tue, 2024.02.13 0:00, 0:00, CNY, gra, Bank Holiday,   , , 
+Tue, 2024.02.13 13:20, 13:20, NZD, red, Inflation Expectations q/q,  2.76% , , 2.50%
+Tue, 2024.02.13 16:58, 16:58, JPY, yel, Prelim Machine Tool Orders y/y,  -9.6% , , -14.1%
+Tue, 2024.02.13 18:00, 18:00, GBP, red, Claimant Count Change,  5.5K , 15.2K, 14.1K
+Tue, 2024.02.13 18:00, 18:00, GBP, ora, Average Earnings Index 3m/y,  6.7% , 5.6%, 5.8%
+Tue, 2024.02.13 18:00, 18:00, GBP, yel, Unemployment Rate,  4.2% , 4.0%, 3.8%
+Tue, 2024.02.13 18:30, 18:30, CHF, red, CPI m/m,  0.0% , 0.6%, 0.2%
+Tue, 2024.02.13 21:00, 21:00, EUR, yel, ZEW Economic Sentiment,  22.7 , 20.1, 25.0
+Tue, 2024.02.13 21:00, 21:00, EUR, yel, German ZEW Economic Sentiment,  15.2 , 17.4, 19.9
+Tue, 2024.02.13 22:00, 22:00, USD, yel, NFIB Small Business Index,  91.9 , 92.3, 89.9
+Wed, 2024.02.14 0:30, 0:30, USD, red, Core CPI m/m,  0.3% , 0.3%, 0.4%
+Wed, 2024.02.14 0:30, 0:30, USD, red, CPI m/m,  0.3% , 0.2%, 0.3%
+Wed, 2024.02.14 0:30, 0:30, USD, red, CPI y/y,  3.4% , 2.9%, 3.1%
+Wed, 2024.02.14 8:45, 8:45, NZD, yel, FPI m/m,  -0.1% , , 0.9%
+Wed, 2024.02.14 0:00, 0:00, CNY, gra, Bank Holiday,   , , 
+Wed, 2024.02.14 18:00, 18:00, GBP, red, CPI y/y,  4.0% , 4.1%, 4.0%
+Wed, 2024.02.14 18:00, 18:00, GBP, yel, Core CPI y/y,  5.1% , 5.2%, 5.1%
+Wed, 2024.02.14 18:00, 18:00, GBP, yel, PPI Input m/m,  -0.4% , 0.1%, -0.8%
+Wed, 2024.02.14 18:00, 18:00, GBP, yel, PPI Output m/m,  -0.5% , -0.2%, -0.2%
+Wed, 2024.02.14 18:00, 18:00, GBP, yel, RPI y/y,  5.2% , 5.1%, 4.9%
+Wed, 2024.02.14 20:30, 20:30, GBP, yel, HPI y/y,  -2.3% , -1.8%, -1.4%
+Wed, 2024.02.14 21:00, 21:00, EUR, yel, Flash Employment Change q/q,  0.2% , 0.3%, 0.3%
+Wed, 2024.02.14 21:00, 21:00, EUR, yel, Flash GDP q/q,  0.0% , 0.0%, 0.0%
+Wed, 2024.02.14 21:00, 21:00, EUR, yel, Industrial Production m/m,  0.4% , -0.2%, 2.6%
+Wed, 2024.02.14 21:33, 21:33, EUR, yel, German 30-y Bond Auction,  2.45|2.5 , , 2.53|2.8
+Wed, 2024.02.14 22:33, 22:33, GBP, yel, 10-y Bond Auction,  3.97|3.1 , , 4.13|3.1
+Thu, 2024.02.15 1:30, 1:30, GBP, yel, CB Leading Index m/m,  -0.3% , , -0.1%
+Thu, 2024.02.15 2:00, 2:00, GBP, red, BOE Gov Bailey Speaks,   , , 
+Thu, 2024.02.15 2:30, 2:30, USD, yel, Crude Oil Inventories,  5.5M , 3.3M, 12.0M
+Thu, 2024.02.15 4:00, 4:00, EUR, yel, German Buba President Nagel Speaks,   , , 
+Thu, 2024.02.15 6:30, 6:30, CAD, yel, Gov Council Member Mendes Speaks,   , , 
+Thu, 2024.02.15 8:00, 8:00, USD, yel, FOMC Member Barr Speaks,   , , 
+Thu, 2024.02.15 8:45, 8:45, NZD, yel, Visitor Arrivals m/m,  -1.6% , , -2.2%
+Thu, 2024.02.15 9:00, 9:00, AUD, red, RBA Gov Bullock Speaks,   , , 
+Thu, 2024.02.15 10:50, 10:50, JPY, yel, Prelim GDP Price Index y/y,  5.3% , 4.0%, 3.8%
+Thu, 2024.02.15 10:50, 10:50, JPY, yel, Prelim GDP q/q,  -0.7% , 0.2%, -0.1%
+Thu, 2024.02.15 11:00, 11:00, AUD, yel, MI Inflation Expectations,  4.5% , , 4.5%
+Thu, 2024.02.15 11:30, 11:30, AUD, red, Employment Change,  -62.7K , 26.4K, 0.5K
+Thu, 2024.02.15 11:30, 11:30, AUD, red, Unemployment Rate,  3.9% , 4.0%, 4.1%
+Thu, 2024.02.15 0:00, 0:00, CNY, gra, Bank Holiday,   , , 
+Thu, 2024.02.15 15:30, 15:30, JPY, yel, Revised Industrial Production m/m,  1.8% , 1.8%, 1.4%
+Thu, 2024.02.15 18:00, 18:00, GBP, red, GDP m/m,  0.2% , -0.2%, -0.1%
+Thu, 2024.02.15 18:00, 18:00, GBP, ora, Prelim GDP q/q,  -0.1% , -0.1%, -0.3%
+Thu, 2024.02.15 18:00, 18:00, GBP, yel, Construction Output m/m,  -0.7% , -0.1%, -0.5%
+Thu, 2024.02.15 18:00, 18:00, GBP, yel, Goods Trade Balance,  -15.1B , -15.0B, -14.0B
+Thu, 2024.02.15 18:00, 18:00, GBP, yel, Index of Services 3m/3m,  -0.2% , 0.1%, -0.2%
+Thu, 2024.02.15 18:00, 18:00, GBP, yel, Industrial Production m/m,  0.5% , -0.1%, 0.6%
+Thu, 2024.02.15 18:00, 18:00, GBP, yel, Manufacturing Production m/m,  0.8% , -0.1%, 0.8%
+Thu, 2024.02.15 18:00, 18:00, GBP, yel, Prelim Business Investment q/q,  -3.2% , -0.1%, 1.5%
+Thu, 2024.02.15 18:30, 18:30, CHF, yel, PPI m/m,  -0.6% , -0.2%, -0.5%
+Thu, 2024.02.15 19:00, 19:00, CHF, yel, SECO Consumer Climate,  -40 , -33, -41
+Thu, 2024.02.15 19:00, 19:00, EUR, ora, ECB President Lagarde Speaks,   , , 
+Thu, 2024.02.15 20:00, 20:00, EUR, yel, Italian Trade Balance,  3.88B , 3.65B, 5.61B
+Thu, 2024.02.15 20:46, 20:46, EUR, yel, Spanish 10-y Bond Auction,  3.17|1.8 , , 3.14|1.9
+Thu, 2024.02.15 21:00, 21:00, EUR, yel, EU Economic Forecasts,   , , 
+Thu, 2024.02.15 21:00, 21:00, EUR, yel, Trade Balance,  15.1B , 15.7B, 13.0B
+Thu, 2024.02.15 23:22, 23:22, GBP, yel, NIESR GDP Estimate,  -0.3% , , -0.1%
+Fri, 2024.02.16 0:00, 0:00, GBP, yel, MPC Member Greene Speaks,   , , 
+Fri, 2024.02.16 0:15, 0:15, CAD, yel, Housing Starts,  249K , 236K, 224K
+Fri, 2024.02.16 0:30, 0:30, CAD, yel, Manufacturing Sales m/m,  1.5% , -0.5%, -0.7%
+Fri, 2024.02.16 0:30, 0:30, USD, red, Core Retail Sales m/m,  0.4% , 0.2%, -0.6%
+Fri, 2024.02.16 0:30, 0:30, USD, red, Empire State Manufacturing Index,  -43.7 , -13.7, -2.4
+Fri, 2024.02.16 0:30, 0:30, USD, red, Retail Sales m/m,  0.4% , -0.2%, -0.8%
+Fri, 2024.02.16 0:30, 0:30, USD, red, Unemployment Claims,  220K , 219K, 212K
+Fri, 2024.02.16 0:30, 0:30, USD, ora, Philly Fed Manufacturing Index,  -10.6 , -8.0, 5.2
+Fri, 2024.02.16 0:30, 0:30, USD, yel, Import Prices m/m,  -0.7% , 0.0%, 0.8%
+Fri, 2024.02.16 0:50, 0:50, GBP, yel, MPC Member Mann Speaks,   , , 
+Fri, 2024.02.16 1:15, 1:15, USD, ora, Industrial Production m/m,  0.0% , 0.2%, -0.1%
+Fri, 2024.02.16 1:15, 1:15, USD, yel, Capacity Utilization Rate,  78.7% , 78.8%, 78.5%
+Fri, 2024.02.16 2:00, 2:00, USD, yel, Business Inventories m/m,  -0.1% , 0.4%, 0.4%
+Fri, 2024.02.16 2:00, 2:00, USD, yel, NAHB Housing Market Index,  44 , 46, 48
+Fri, 2024.02.16 2:30, 2:30, AUD, yel, CB Leading Index m/m,  0.0% , , 0.3%
+Fri, 2024.02.16 2:30, 2:30, USD, yel, Natural Gas Storage,  -75B , -67B, -49B
+Fri, 2024.02.16 5:00, 5:00, EUR, yel, German Buba President Nagel Speaks,   , , 
+Fri, 2024.02.16 5:15, 5:15, USD, ora, FOMC Member Waller Speaks,   , , 
+Fri, 2024.02.16 5:40, 5:40, NZD, ora, RBNZ Gov Orr Speaks,   , , 
+Fri, 2024.02.16 8:00, 8:00, USD, yel, TIC Long-Term Purchases,  99.7B , 42.6B, 160.2B
+Fri, 2024.02.16 8:30, 8:30, NZD, yel, BusinessNZ Manufacturing Index,  43.4 , , 47.3
+Fri, 2024.02.16 11:00, 11:00, USD, yel, FOMC Member Bostic Speaks,   , , 
+Fri, 2024.02.16 0:00, 0:00, CNY, gra, Bank Holiday,   , , 
+Fri, 2024.02.16 15:30, 15:30, JPY, yel, Tertiary Industry Activity m/m,  -1.4% , 0.2%, 0.7%
+Fri, 2024.02.16 18:00, 18:00, EUR, yel, German WPI m/m,  -0.6% , -0.4%, 0.1%
+Fri, 2024.02.16 18:00, 18:00, GBP, red, Retail Sales m/m,  -3.3% , 1.5%, 3.4%
+Fri, 2024.02.16 18:45, 18:45, EUR, yel, French Final CPI m/m,  -0.2% , -0.2%, -0.2%
+Mon, 2024.02.19 8:30, 8:30, NZD, yel, BusinessNZ Services Index,  48.8 , , 52.1
+Mon, 2024.02.19 10:50, 10:50, JPY, yel, Core Machinery Orders m/m,  -4.9% , 2.7%, 2.7%
+Mon, 2024.02.19 11:01, 11:01, GBP, yel, Rightmove HPI m/m,  1.3% , , 0.9%
+Mon, 2024.02.19 22:00, 22:00, EUR, yel, German Buba Monthly Report,   , , 
+Tue, 2024.02.20 0:00, 0:00, CAD, gra, Bank Holiday,   , , 
+Tue, 2024.02.20 0:00, 0:00, USD, gra, Bank Holiday,   , , 
+Tue, 2024.02.20 0:30, 0:30, CAD, yel, IPPI m/m,  -1.6% , -0.1%, -0.1%
+Tue, 2024.02.20 0:30, 0:30, CAD, yel, RMPI m/m,  -4.9% , 0.7%, 1.2%
+Tue, 2024.02.20 11:30, 11:30, AUD, red, Monetary Policy Meeting Minutes,   , , 
+Tue, 2024.02.20 12:15, 12:15, CNY, ora, 1-y Loan Prime Rate,  3.45% , 3.45%, 3.45%
+Tue, 2024.02.20 12:15, 12:15, CNY, ora, 5-y Loan Prime Rate,  4.20% , 4.10%, 3.95%
+Tue, 2024.02.20 18:00, 18:00, CHF, yel, Trade Balance,  1.27B , 2.35B, 4.74B
+Tue, 2024.02.20 20:00, 20:00, EUR, yel, Current Account,  22.5B , 20.3B, 31.9B
+Tue, 2024.02.20 21:15, 21:15, GBP, ora, Monetary Policy Report Hearings,   , , 
+Wed, 2024.02.21 0:30, 0:30, CAD, red, CPI m/m,  -0.3% , 0.4%, 0.0%
+Wed, 2024.02.21 0:30, 0:30, CAD, red, Median CPI y/y,  3.5% , 3.6%, 3.3%
+Wed, 2024.02.21 0:30, 0:30, CAD, red, Trimmed CPI y/y,  3.7% , 3.6%, 3.4%
+Wed, 2024.02.21 0:30, 0:30, CAD, ora, Common CPI y/y,  3.9% , 3.8%, 3.4%
+Wed, 2024.02.21 0:30, 0:30, CAD, yel, Core CPI m/m,  -0.5% , , 0.1%
+Wed, 2024.02.21 1:36, 1:36, NZD, yel, GDT Price Index,  4.2% , , 0.5%
+Wed, 2024.02.21 2:00, 2:00, USD, yel, CB Leading Index m/m,  -0.2% , -0.3%, -0.4%
+Wed, 2024.02.21 8:45, 8:45, NZD, yel, PPI Input q/q,  1.2% , 0.5%, 0.9%
+Wed, 2024.02.21 8:45, 8:45, NZD, yel, PPI Output q/q,  0.8% , 0.4%, 0.7%
+Wed, 2024.02.21 10:30, 10:30, AUD, yel, MI Leading Index m/m,  0.0% , , -0.1%
+Wed, 2024.02.21 10:50, 10:50, JPY, yel, Trade Balance,  -0.44T , -0.23T, 0.24T
+Wed, 2024.02.21 11:30, 11:30, AUD, red, Wage Price Index q/q,  1.3% , 0.9%, 0.9%
+Wed, 2024.02.21 18:00, 18:00, GBP, yel, Public Sector Net Borrowing,  6.5B , -18.4B, -17.6B
+Wed, 2024.02.21 21:35, 21:35, EUR, yel, German 10-y Bond Auction,  2.23|1.8 , , 2.38|2.1
+Wed, 2024.02.21 22:00, 22:00, GBP, yel, CBI Industrial Order Expectations,  -30 , -27, -20
+Thu, 2024.02.22 0:00, 0:00, USD, yel, FOMC Member Bostic Speaks,   , , 
+Thu, 2024.02.22 0:30, 0:30, CAD, yel, NHPI m/m,  0.0% , 0.1%, -0.1%
+Thu, 2024.02.22 1:00, 1:00, GBP, yel, MPC Member Dhingra Speaks,   , , 
+Thu, 2024.02.22 1:10, 1:10, USD, ora, FOMC Member Barkin Speaks,   , , 
+Thu, 2024.02.22 2:00, 2:00, EUR, yel, Consumer Confidence,  -16 , -16, -16
+Thu, 2024.02.22 5:00, 5:00, USD, yel, FOMC Member Bowman Speaks,   , , 
+Thu, 2024.02.22 6:00, 6:00, USD, red, FOMC Meeting Minutes,   , , 
+Thu, 2024.02.22 8:45, 8:45, NZD, yel, Trade Balance,  -368M , -200M, -976M
+Thu, 2024.02.22 9:00, 9:00, AUD, yel, Flash Manufacturing PMI,  50.1 , , 47.7
+Thu, 2024.02.22 9:00, 9:00, AUD, yel, Flash Services PMI,  49.1 , , 52.8
+Thu, 2024.02.22 11:30, 11:30, JPY, yel, Flash Manufacturing PMI,  48.0 , 48.2, 47.2
+Thu, 2024.02.22 13:05, 13:05, NZD, yel, Credit Card Spending y/y,  4.3% , , -0.3%
+Thu, 2024.02.22 17:30, 17:30, GBP, yel, MPC Member Greene Speaks,   , , 
+Thu, 2024.02.22 19:15, 19:15, EUR, red, French Flash Manufacturing PMI,  43.1 , 43.5, 46.8
+Thu, 2024.02.22 19:15, 19:15, EUR, red, French Flash Services PMI,  45.4 , 45.7, 48.0
+Thu, 2024.02.22 19:30, 19:30, EUR, red, German Flash Manufacturing PMI,  45.5 , 46.1, 42.3
+Thu, 2024.02.22 19:30, 19:30, EUR, red, German Flash Services PMI,  47.7 , 48.0, 48.2
+Thu, 2024.02.22 20:00, 20:00, EUR, ora, Flash Manufacturing PMI,  46.6 , 47.0, 46.1
+Thu, 2024.02.22 20:00, 20:00, EUR, ora, Flash Services PMI,  48.4 , 48.8, 50.0
+Thu, 2024.02.22 20:30, 20:30, GBP, red, Flash Manufacturing PMI,  47.0 , 47.5, 47.1
+Thu, 2024.02.22 20:30, 20:30, GBP, red, Flash Services PMI,  54.3 , 54.2, 54.3
+Thu, 2024.02.22 21:00, 21:00, EUR, yel, Final Core CPI y/y,  3.3% , 3.3%, 3.3%
+Thu, 2024.02.22 21:00, 21:00, EUR, yel, Final CPI y/y,  2.8% , 2.8%, 2.8%
+Thu, 2024.02.22 21:00, 21:00, EUR, yel, ECOFIN Meetings,   , , 
+Thu, 2024.02.22 23:30, 23:30, EUR, yel, ECB Monetary Policy Meeting Accounts,   , , 
+Fri, 2024.02.23 0:30, 0:30, CAD, ora, Core Retail Sales m/m,  -0.4% , 0.7%, 0.6%
+Fri, 2024.02.23 0:30, 0:30, CAD, ora, Retail Sales m/m,  0.0% , 0.8%, 0.9%
+Fri, 2024.02.23 0:30, 0:30, USD, red, Unemployment Claims,  213K , 217K, 201K
+Fri, 2024.02.23 1:00, 1:00, CNY, yel, CB Leading Index m/m,  -0.3% , , -0.1%
+Fri, 2024.02.23 1:45, 1:45, USD, red, Flash Manufacturing PMI,  50.7 , 50.5, 51.5
+Fri, 2024.02.23 1:45, 1:45, USD, red, Flash Services PMI,  52.5 , 52.4, 51.3
+Fri, 2024.02.23 2:00, 2:00, USD, ora, Existing Home Sales,  3.88M , 3.96M, 4.00M
+Fri, 2024.02.23 2:00, 2:00, USD, yel, FOMC Member Jefferson Speaks,   , , 
+Fri, 2024.02.23 2:30, 2:30, USD, yel, Natural Gas Storage,  -49B , -59B, -60B
+Fri, 2024.02.23 3:00, 3:00, USD, yel, Crude Oil Inventories,  12.0M , 3.9M, 3.5M
+Fri, 2024.02.23 8:45, 8:45, NZD, ora, Retail Sales q/q,  -0.8% , -0.2%, -1.9%
+Fri, 2024.02.23 8:45, 8:45, NZD, yel, Core Retail Sales q/q,  0.4% , -0.1%, -1.7%
+Fri, 2024.02.23 9:00, 9:00, USD, yel, FOMC Member Cook Speaks,   , , 
+Fri, 2024.02.23 0:00, 0:00, JPY, gra, Bank Holiday,   , , 
+Fri, 2024.02.23 11:01, 11:01, GBP, yel, GfK Consumer Confidence,  -19 , -18, -21
+Fri, 2024.02.23 11:35, 11:35, USD, ora, FOMC Member Waller Speaks,   , , 
+Fri, 2024.02.23 12:30, 12:30, CNY, yel, New Home Prices m/m,  -0.45% , , -0.37%
+Fri, 2024.02.23 18:00, 18:00, EUR, yel, German Final GDP q/q,  -0.3% , -0.3%, -0.3%
+Fri, 2024.02.23 19:00, 19:00, GBP, yel, MPC Member Greene Speaks,   , , 
+Fri, 2024.02.23 19:30, 19:30, CHF, yel, Gov Board Member Schlegel Speaks,   , , 
+Fri, 2024.02.23 19:33, 19:33, CNY, yel, Foreign Direct Investment ytd/y,  -8.0% , , -11.7%
+Fri, 2024.02.23 20:00, 20:00, EUR, ora, German ifo Business Climate,  85.2 , 85.5, 85.5
+Fri, 2024.02.23 21:00, 21:00, EUR, yel, German Buba President Nagel Speaks,   , , 
+Fri, 2024.02.23 21:00, 21:00, EUR, yel, ECOFIN Meetings,   , , 
+Fri, 2024.02.23 0:00, 0:00, EUR, yel, Eurogroup Meetings,   , , 
+Mon, 2024.02.26 10:50, 10:50, JPY, yel, SPPI y/y,  2.4% , 2.4%, 2.1%
+Mon, 2024.02.26 20:00, 20:00, GBP, yel, MPC Member Breeden Speaks,   , , 
+Mon, 2024.02.26 22:00, 22:00, GBP, yel, CBI Realized Sales,  -50 , -33, -7
+Mon, 2024.02.26 22:00, 22:00, GBP, yel, MPC Member Pill Speaks,   , , 
+Tue, 2024.02.27 2:00, 2:00, USD, ora, New Home Sales,  651K , 680K, 661K
+Tue, 2024.02.27 3:00, 3:00, EUR, ora, ECB President Lagarde Speaks,   , , 
+Tue, 2024.02.27 10:30, 10:30, JPY, yel, National Core CPI y/y,  2.3% , 1.9%, 2.0%
+Tue, 2024.02.27 11:01, 11:01, GBP, yel, BRC Shop Price Index y/y,  2.9% , , 2.5%
+Tue, 2024.02.27 18:00, 18:00, EUR, yel, German GfK Consumer Climate,  -29.6 , -29.0, -29.0
+Tue, 2024.02.27 20:00, 20:00, EUR, yel, M3 Money Supply y/y,  0.2% , 0.3%, 0.1%
+Tue, 2024.02.27 20:00, 20:00, EUR, yel, Private Loans y/y,  0.4% , 0.4%, 0.3%
+Wed, 2024.02.28 0:30, 0:30, USD, red, Durable Goods Orders m/m,  -0.3% , -4.9%, -6.1%
+Wed, 2024.02.28 0:30, 0:30, USD, ora, Core Durable Goods Orders m/m,  0.5% , 0.2%, -0.3%
+Wed, 2024.02.28 0:40, 0:40, GBP, yel, MPC Member Ramsden Speaks,   , , 
+Wed, 2024.02.28 1:00, 1:00, USD, ora, S&P/CS Composite-20 HPI y/y,  5.4% , 6.0%, 6.1%
+Wed, 2024.02.28 1:00, 1:00, USD, yel, HPI m/m,  0.4% , 0.3%, 0.1%
+Wed, 2024.02.28 1:05, 1:05, USD, yel, FOMC Member Barr Speaks,   , , 
+Wed, 2024.02.28 1:59, 1:59, USD, ora, Richmond Manufacturing Index,  -15 , -4, -5
+Wed, 2024.02.28 2:00, 2:00, USD, red, CB Consumer Confidence,  110.9 , 114.8, 106.7
+Wed, 2024.02.28 11:30, 11:30, AUD, red, CPI y/y,  3.4% , 3.6%, 3.4%
+Wed, 2024.02.28 11:30, 11:30, AUD, yel, Construction Work Done q/q,  1.4% , 0.6%, 0.7%
+Wed, 2024.02.28 12:00, 12:00, NZD, red, Official Cash Rate,  5.50% , 5.50%, 5.50%
+Wed, 2024.02.28 12:00, 12:00, NZD, red, RBNZ Monetary Policy Statement,   , , 
+Wed, 2024.02.28 12:00, 12:00, NZD, red, RBNZ Rate Statement,   , , 
+Wed, 2024.02.28 13:00, 13:00, NZD, ora, RBNZ Press Conference,   , , 
+Wed, 2024.02.28 20:00, 20:00, CHF, yel, Credit Suisse Economic Expectations,  -19.5 , , 10.2
+Wed, 2024.02.28 21:19, 21:19, EUR, yel, Italian 10-y Bond Auction,  3.69|1.7 , , 3.91|1.4
+Thu, 2024.02.29 0:30, 0:30, CAD, yel, Current Account,  -4.7B , -1.9B, -1.6B
+Thu, 2024.02.29 0:30, 0:30, USD, red, Prelim GDP q/q,  3.3% , 3.3%, 3.2%
+Thu, 2024.02.29 0:30, 0:30, USD, ora, Prelim GDP Price Index q/q,  1.5% , 1.5%, 1.6%
+Thu, 2024.02.29 0:30, 0:30, USD, yel, Goods Trade Balance,  -87.9B , -88.4B, -90.2B
+Thu, 2024.02.29 0:30, 0:30, USD, yel, Prelim Wholesale Inventories m/m,  0.4% , 0.1%, -0.1%
+Thu, 2024.02.29 2:30, 2:30, GBP, yel, MPC Member Mann Speaks,   , , 
+Thu, 2024.02.29 2:30, 2:30, USD, yel, Crude Oil Inventories,  3.5M , 3.1M, 4.2M
+Thu, 2024.02.29 2:30, 2:30, USD, ora, G20 Meetings,   , , 
+Thu, 2024.02.29 4:00, 4:00, USD, yel, FOMC Member Bostic Speaks,   , , 
+Thu, 2024.02.29 4:45, 4:45, USD, yel, FOMC Member Williams Speaks,   , , 
+Thu, 2024.02.29 6:10, 6:10, NZD, ora, RBNZ Gov Orr Speaks,   , , 
+Thu, 2024.02.29 10:50, 10:50, JPY, yel, Prelim Industrial Production m/m,  1.4% , -6.7%, -7.5%
+Thu, 2024.02.29 10:50, 10:50, JPY, yel, Retail Sales y/y,  2.3% , 2.0%, 2.3%
+Thu, 2024.02.29 11:00, 11:00, NZD, yel, ANZ Business Confidence,  36.6 , , 34.7
+Thu, 2024.02.29 11:30, 11:30, AUD, ora, Retail Sales m/m,  -2.1% , 1.6%, 1.1%
+Thu, 2024.02.29 11:30, 11:30, AUD, yel, Private Capital Expenditure q/q,  0.3% , 0.4%, 0.8%
+Thu, 2024.02.29 11:30, 11:30, AUD, yel, Private Sector Credit m/m,  0.4% , 0.4%, 0.4%
+Thu, 2024.02.29 16:00, 16:00, JPY, yel, Housing Starts y/y,  -4.0% , -7.6%, -7.5%
+Thu, 2024.02.29 16:02, 16:02, JPY, yel, BOJ Core CPI y/y,  2.6% , 2.3%, 2.6%
+Thu, 2024.02.29 17:30, 17:30, EUR, yel, French Final Private Payrolls q/q,  0.0% , 0.0%, -0.1%
+Thu, 2024.02.29 18:00, 18:00, EUR, yel, German Retail Sales m/m,  -0.5% , 0.5%, -0.4%
+Thu, 2024.02.29 0:00, 0:00, EUR, red, German Prelim CPI m/m,  0.2% , 0.5%, 0.4%
+Thu, 2024.02.29 18:45, 18:45, EUR, yel, French Consumer Spending m/m,  0.3% , -0.1%, -0.3%
+Thu, 2024.02.29 18:45, 18:45, EUR, yel, French Prelim CPI m/m,  -0.2% , 0.7%, 0.8%
+Thu, 2024.02.29 18:45, 18:45, EUR, yel, French Prelim GDP q/q,  0.0% , 0.0%, 0.1%
+Thu, 2024.02.29 19:00, 19:00, CHF, ora, GDP q/q,  0.3% , 0.1%, 0.3%
+Thu, 2024.02.29 19:00, 19:00, CHF, yel, KOF Economic Barometer,  102.5 , 101.6, 101.6
+Thu, 2024.02.29 19:00, 19:00, EUR, ora, Spanish Flash CPI y/y,  3.4% , 2.8%, 2.8%
+Thu, 2024.02.29 19:55, 19:55, EUR, yel, German Unemployment Change,  1K , 6K, 11K
+Thu, 2024.02.29 20:30, 20:30, GBP, yel, M4 Money Supply m/m,  0.5% , 0.3%, -0.1%
+Thu, 2024.02.29 20:30, 20:30, GBP, yel, Mortgage Approvals,  52K , 52K, 55K
+Thu, 2024.02.29 20:30, 20:30, GBP, yel, Net Lending to Individuals m/m,  0.4B , 1.9B, 0.8B
+Fri, 2024.03.01 0:30, 0:30, CAD, red, GDP m/m,  0.2% , 0.2%, 0.0%
+Fri, 2024.03.01 0:30, 0:30, USD, red, Core PCE Price Index m/m,  0.1% , 0.4%, 0.4%
+Fri, 2024.03.01 0:30, 0:30, USD, red, Unemployment Claims,  202K , 209K, 215K
+Fri, 2024.03.01 0:30, 0:30, USD, yel, Personal Income m/m,  0.3% , 0.4%, 1.0%
+Fri, 2024.03.01 0:30, 0:30, USD, yel, Personal Spending m/m,  0.7% , 0.2%, 0.2%
+Fri, 2024.03.01 1:45, 1:45, USD, ora, Chicago PMI,  46.0 , 48.1, 44.0
+Fri, 2024.03.01 2:00, 2:00, USD, ora, Pending Home Sales m/m,  5.7% , 1.4%, -4.9%
+Fri, 2024.03.01 2:30, 2:30, USD, yel, Natural Gas Storage,  -60B , -86B, -96B
+Fri, 2024.03.01 2:50, 2:50, USD, yel, FOMC Member Bostic Speaks,   , , 
+Fri, 2024.03.01 2:50, 2:50, USD, ora, G20 Meetings,   , , 
+Fri, 2024.03.01 5:15, 5:15, USD, ora, FOMC Member Mester Speaks,   , , 
+Fri, 2024.03.01 8:45, 8:45, NZD, yel, Building Consents m/m,  3.6% , , -8.8%
+Fri, 2024.03.01 10:30, 10:30, JPY, yel, Unemployment Rate,  2.4% , 2.4%, 2.4%
+Fri, 2024.03.01 11:05, 11:05, NZD, ora, RBNZ Gov Orr Speaks,   , , 
+Fri, 2024.03.01 11:30, 11:30, JPY, yel, Final Manufacturing PMI,  47.2 , 47.2, 47.2
+Fri, 2024.03.01 12:10, 12:10, USD, yel, FOMC Member Williams Speaks,   , , 
+Fri, 2024.03.01 12:30, 12:30, CNY, red, Manufacturing PMI,  49.2 , 49.1, 49.1
+Fri, 2024.03.01 12:30, 12:30, CNY, ora, Non-Manufacturing PMI,  50.7 , 50.9, 51.4
+Fri, 2024.03.01 12:45, 12:45, CNY, ora, Caixin Manufacturing PMI,  50.8 , 50.7, 50.9
+Fri, 2024.03.01 16:00, 16:00, JPY, yel, Consumer Confidence,  38.0 , 38.4, 39.1
+Fri, 2024.03.01 16:30, 16:30, AUD, yel, Commodity Prices y/y,  -10.4% , , -11.0%
+Fri, 2024.03.01 18:00, 18:00, GBP, yel, Nationwide HPI m/m,  0.7% , 0.2%, 0.7%
+Fri, 2024.03.01 18:30, 18:30, CHF, yel, Retail Sales y/y,  -0.1% , 0.4%, 0.3%
+Fri, 2024.03.01 19:15, 19:15, EUR, yel, Spanish Manufacturing PMI,  49.2 , 49.7, 51.5
+Fri, 2024.03.01 19:30, 19:30, CHF, yel, Manufacturing PMI,  43.1 , 44.3, 44.0
+Fri, 2024.03.01 19:45, 19:45, EUR, yel, Italian Manufacturing PMI,  48.5 , 49.0, 48.7
+Fri, 2024.03.01 19:50, 19:50, EUR, yel, French Final Manufacturing PMI,  46.8 , 46.8, 47.1
+Fri, 2024.03.01 19:55, 19:55, EUR, yel, German Final Manufacturing PMI,  42.3 , 42.3, 42.5
+Fri, 2024.03.01 20:00, 20:00, EUR, yel, Final Manufacturing PMI,  46.1 , 46.1, 46.5
+Fri, 2024.03.01 20:00, 20:00, EUR, yel, Italian Monthly Unemployment Rate,  7.2% , 7.2%, 7.2%
+Fri, 2024.03.01 20:30, 20:30, GBP, yel, Final Manufacturing PMI,  47.1 , 47.1, 47.5
+Fri, 2024.03.01 21:00, 21:00, EUR, ora, Core CPI Flash Estimate y/y,  3.3% , 2.9%, 3.1%
+Fri, 2024.03.01 21:00, 21:00, EUR, ora, CPI Flash Estimate y/y,  2.8% , 2.5%, 2.6%
+Fri, 2024.03.01 21:00, 21:00, EUR, yel, Italian Prelim CPI m/m,  0.3% , 0.3%, 0.1%
+Fri, 2024.03.01 21:00, 21:00, EUR, yel, Unemployment Rate,  6.5% , 6.4%, 6.4%
+Mon, 2024.03.04 8:45, 8:45, NZD, yel, Overseas Trade Index q/q,  -0.6% , -0.1%, -7.8%
+Mon, 2024.03.04 10:50, 10:50, JPY, yel, Capital Spending q/y,  3.4% , 2.9%, 16.4%
+Mon, 2024.03.04 10:50, 10:50, JPY, yel, Monetary Base y/y,  4.8% , 4.7%, 2.4%
+Mon, 2024.03.04 11:02, 11:02, AUD, yel, MI Inflation Gauge m/m,  0.3% , , -0.1%
+Mon, 2024.03.04 11:30, 11:30, AUD, yel, ANZ Job Advertisements m/m,  3.4% , , -2.8%
+Mon, 2024.03.04 11:30, 11:30, AUD, yel, Building Approvals m/m,  -10.1% , 3.8%, -1.0%
+Mon, 2024.03.04 11:30, 11:30, AUD, yel, Company Operating Profits q/q,  -1.6% , 1.1%, 7.4%
+Mon, 2024.03.04 18:30, 18:30, CHF, red, CPI m/m,  0.2% , 0.5%, 0.6%
+Mon, 2024.03.04 18:45, 18:45, EUR, yel, French Gov Budget Balance,  -173.3B , , -25.7B
+Mon, 2024.03.04 19:00, 19:00, EUR, yel, Spanish Unemployment Change,  60.4K , 50.0K, -7.5K
+Mon, 2024.03.04 20:30, 20:30, EUR, yel, Sentix Investor Confidence,  -12.9 , -10.8, -10.5
+Tue, 2024.03.05 10:30, 10:30, JPY, ora, Tokyo Core CPI y/y,  1.8% , 2.5%, 2.5%
+Tue, 2024.03.05 11:00, 11:00, NZD, yel, ANZ Commodity Prices m/m,  2.1% , , 3.5%
+Tue, 2024.03.05 11:01, 11:01, GBP, yel, BRC Retail Sales Monitor y/y,  1.4% , 1.6%, 1.0%
+Tue, 2024.03.05 11:30, 11:30, AUD, yel, Current Account,  1.3B , 4.9B, 11.8B
+Tue, 2024.03.05 12:45, 12:45, CNY, ora, Caixin Services PMI,  52.7 , 52.9, 52.5
+Tue, 2024.03.05 14:35, 14:35, JPY, yel, 10-y Bond Auction,  0.74|3.6 , , 0.72|3.2
+Tue, 2024.03.05 15:00, 15:00, JPY, red, BOJ Gov Ueda Speaks,   , , 
+Tue, 2024.03.05 18:45, 18:45, EUR, yel, French Industrial Production m/m,  0.4% , -0.1%, -1.1%
+Tue, 2024.03.05 19:15, 19:15, EUR, yel, Spanish Services PMI,  52.1 , 53.4, 54.7
+Tue, 2024.03.05 19:45, 19:45, EUR, yel, Italian Services PMI,  51.2 , 52.2, 52.2
+Tue, 2024.03.05 19:50, 19:50, EUR, yel, French Final Services PMI,  48.0 , 48.0, 48.4
+Tue, 2024.03.05 19:55, 19:55, EUR, yel, German Final Services PMI,  48.2 , 48.2, 48.3
+Tue, 2024.03.05 20:00, 20:00, EUR, yel, Final Services PMI,  50.0 , 50.0, 50.2
+Tue, 2024.03.05 20:30, 20:30, GBP, yel, Final Services PMI,  54.3 , 54.3, 53.8
+Tue, 2024.03.05 21:00, 21:00, EUR, yel, PPI m/m,  -0.9% , -0.1%, -0.9%
+Wed, 2024.03.06 1:24, 1:24, NZD, yel, GDT Price Index,  0.5% , , -2.3%
+Wed, 2024.03.06 1:45, 1:45, USD, yel, Final Services PMI,  51.3 , 51.4, 52.3
+Wed, 2024.03.06 2:00, 2:00, USD, red, ISM Services PMI,  53.4 , 53.0, 52.6
+Wed, 2024.03.06 2:00, 2:00, USD, yel, Factory Orders m/m,  -0.3% , -3.1%, -3.6%
+Wed, 2024.03.06 2:36, 2:36, USD, yel, RCM/TIPP Economic Optimism,  44.0 , 45.2, 43.5
+Wed, 2024.03.06 4:00, 4:00, USD, yel, FOMC Member Barr Speaks,   , , 
+Wed, 2024.03.06 7:30, 7:30, USD, yel, FOMC Member Barr Speaks,   , , 
+Wed, 2024.03.06 11:30, 11:30, AUD, red, GDP q/q,  0.3% , 0.2%, 0.2%
+Wed, 2024.03.06 18:00, 18:00, EUR, yel, German Trade Balance,  23.3B , 21.0B, 27.5B
+Wed, 2024.03.06 20:30, 20:30, GBP, ora, Construction PMI,  48.8 , 49.0, 49.7
+Wed, 2024.03.06 21:00, 21:00, EUR, yel, Retail Sales m/m,  -0.6% , 0.1%, 0.1%
+Wed, 2024.03.06 23:34, 23:34, GBP, red, Annual Budget Release,   , , 
+Thu, 2024.03.07 0:15, 0:15, USD, red, ADP Non-Farm Employment Change,  111K , 149K, 140K
+Thu, 2024.03.07 0:30, 0:30, CAD, yel, Labor Productivity q/q,  -0.5% , 0.2%, 0.4%
+Thu, 2024.03.07 1:45, 1:45, CAD, red, BOC Rate Statement,   , , 
+Thu, 2024.03.07 1:45, 1:45, CAD, red, Overnight Rate,  5.00% , 5.00%, 5.00%
+Thu, 2024.03.07 2:00, 2:00, CAD, ora, Ivey PMI,  56.5 , 54.2, 53.9
+Thu, 2024.03.07 2:00, 2:00, USD, red, Fed Chair Powell Testifies,   , , 
+Thu, 2024.03.07 2:00, 2:00, USD, red, JOLTS Job Openings,  8.89M , 8.80M, 8.86M
+Thu, 2024.03.07 2:00, 2:00, USD, yel, Final Wholesale Inventories m/m,  -0.1% , -0.1%, -0.3%
+Thu, 2024.03.07 2:30, 2:30, CAD, red, BOC Press Conference,   , , 
+Thu, 2024.03.07 2:30, 2:30, USD, yel, Crude Oil Inventories,  4.2M , 2.4M, 1.4M
+Thu, 2024.03.07 4:00, 4:00, USD, yel, FOMC Member Daly Speaks,   , , 
+Thu, 2024.03.07 6:00, 6:00, USD, yel, Beige Book,   , , 
+Thu, 2024.03.07 8:45, 8:45, NZD, yel, Manufacturing Sales q/q,  -2.8% , , -0.7%
+Thu, 2024.03.07 10:30, 10:30, JPY, yel, Average Cash Earnings y/y,  0.8% , 1.3%, 2.0%
+Thu, 2024.03.07 11:30, 11:30, AUD, yel, Goods Trade Balance,  10.74B , 11.42B, 11.03B
+Thu, 2024.03.07 14:01, 14:01, CNY, yel, Trade Balance,  541B , 620B, 891B
+Thu, 2024.03.07 14:02, 14:02, CNY, yel, USD-Denominated Trade Balance,  75.3B , 110.3B, 125.2B
+Thu, 2024.03.07 14:35, 14:35, JPY, yel, 30-y Bond Auction,  1.79|3.2 , , 1.77|2.9
+Thu, 2024.03.07 17:45, 17:45, CHF, yel, Unemployment Rate,  2.2% , 2.2%, 2.2%
+Thu, 2024.03.07 18:00, 18:00, EUR, yel, German Factory Orders m/m,  12.0% , -6.0%, -11.3%
+Thu, 2024.03.07 18:00, 18:00, GBP, yel, Halifax HPI m/m,  1.2% , 0.8%, 0.4%
+Thu, 2024.03.07 19:00, 19:00, CHF, ora, Foreign Currency Reserves,  662B , , 678B
+Thu, 2024.03.07 20:55, 20:55, EUR, yel, Spanish 10-y Bond Auction,  3.14|1.9 , , 3.16|2.2
+Thu, 2024.03.07 21:09, 21:09, EUR, yel, French 10-y Bond Auction,  2.70|1.9 , , 2.81|2.4
+Thu, 2024.03.07 23:30, 23:30, USD, yel, Challenger Job Cuts y/y,  -20.0% , , 8.8%
+Fri, 2024.03.08 0:15, 0:15, EUR, red, Main Refinancing Rate,  4.50% , 4.50%, 4.50%
+Fri, 2024.03.08 0:15, 0:15, EUR, red, Monetary Policy Statement,   , , 
+Fri, 2024.03.08 0:30, 0:30, CAD, yel, Building Permits m/m,  -11.5% , 4.6%, 13.5%
+Fri, 2024.03.08 0:30, 0:30, CAD, yel, Trade Balance,  -0.9B , -0.1B, 0.5B
+Fri, 2024.03.08 0:30, 0:30, USD, red, Unemployment Claims,  217K , 217K, 217K
+Fri, 2024.03.08 0:30, 0:30, USD, yel, Revised Nonfarm Productivity q/q,  3.2% , 3.1%, 3.2%
+Fri, 2024.03.08 0:30, 0:30, USD, yel, Revised Unit Labor Costs q/q,  0.5% , 0.7%, 0.4%
+Fri, 2024.03.08 0:30, 0:30, USD, yel, Trade Balance,  -64.2B , -63.4B, -67.4B
+Fri, 2024.03.08 0:45, 0:45, EUR, red, ECB Press Conference,   , , 
+Fri, 2024.03.08 2:00, 2:00, USD, red, Fed Chair Powell Testifies,   , , 
+Fri, 2024.03.08 2:30, 2:30, USD, yel, Natural Gas Storage,  -96B , -42B, -40B
+Fri, 2024.03.08 3:30, 3:30, USD, ora, FOMC Member Mester Speaks,   , , 
+Fri, 2024.03.08 7:00, 7:00, USD, yel, Consumer Credit m/m,  0.9B , 10.1B, 19.5B
+Fri, 2024.03.08 10:30, 10:30, JPY, yel, Household Spending y/y,  -2.5% , -4.1%, -6.3%
+Fri, 2024.03.08 10:50, 10:50, JPY, yel, Bank Lending y/y,  3.1% , 3.2%, 3.0%
+Fri, 2024.03.08 10:50, 10:50, JPY, yel, Current Account,  1.81T , 2.07T, 2.73T
+Fri, 2024.03.08 13:00, 13:00, USD, yel, President Biden Speaks,   , , 
+Fri, 2024.03.08 16:00, 16:00, JPY, yel, Leading Indicators,  110.2% , 109.7%, 109.9%
+Fri, 2024.03.08 17:00, 17:00, JPY, yel, Economy Watchers Sentiment,  50.2 , 50.6, 51.3
+Fri, 2024.03.08 18:00, 18:00, EUR, yel, German Industrial Production m/m,  -2.0% , 0.5%, 1.0%
+Fri, 2024.03.08 18:00, 18:00, EUR, yel, German PPI m/m,  -0.8% , 0.1%, 0.2%
+Fri, 2024.03.08 18:45, 18:45, EUR, yel, French Trade Balance,  -6.4B , -6.5B, -7.4B
+Fri, 2024.03.08 21:00, 21:00, EUR, yel, Final Employment Change q/q,  0.3% , 0.3%, 0.3%
+Fri, 2024.03.08 21:00, 21:00, EUR, yel, Revised GDP q/q,  0.0% , 0.0%, 0.0%
+Fri, 2024.03.08 23:00, 23:00, USD, yel, FOMC Member Williams Speaks,   , , 
+Mon, 2024.03.11 10:50, 10:50, JPY, ora, Final GDP q/q,  -0.1% , 0.3%, 0.1%
+Mon, 2024.03.11 10:50, 10:50, JPY, yel, Final GDP Price Index y/y,  3.8% , 3.8%, 3.9%
+Mon, 2024.03.11 10:50, 10:50, JPY, yel, M2 Money Stock y/y,  2.5% , 2.4%, 2.5%
+Mon, 2024.03.11 16:59, 16:59, JPY, yel, Prelim Machine Tool Orders y/y,  -14.0% , , -8.0%
+Mon, 2024.03.11 19:00, 19:00, CHF, yel, SECO Consumer Climate,  -41 , -35, -42
+Mon, 2024.03.11 0:00, 0:00, EUR, yel, Eurogroup Meetings,   , , 
+Tue, 2024.03.12 0:00, 0:00, GBP, yel, BOE Quarterly Bulletin,   , , 
+Tue, 2024.03.12 4:00, 4:00, GBP, yel, MPC Member Mann Speaks,   , , 
+Tue, 2024.03.12 9:30, 9:30, AUD, yel, RBA Assist Gov Hunter Speaks,   , , 
+Tue, 2024.03.12 10:50, 10:50, JPY, yel, BSI Manufacturing Index,  5.7 , 6.2, -6.7
+Tue, 2024.03.12 10:50, 10:50, JPY, yel, PPI y/y,  0.2% , 0.6%, 0.6%
+Tue, 2024.03.12 11:30, 11:30, AUD, yel, NAB Business Confidence,  1 , , 0
+Tue, 2024.03.12 18:00, 18:00, EUR, yel, German Final CPI m/m,  0.4% , 0.4%, 0.4%
+Tue, 2024.03.12 18:00, 18:00, GBP, red, Claimant Count Change,  3.1K , 20.3K, 16.8K
+Tue, 2024.03.12 18:00, 18:00, GBP, ora, Average Earnings Index 3m/y,  5.8% , 5.7%, 5.6%
+Tue, 2024.03.12 18:00, 18:00, GBP, yel, Unemployment Rate,  3.8% , 3.8%, 3.9%
+Tue, 2024.03.12 0:00, 0:00, EUR, yel, ECOFIN Meetings,   , , 
+Tue, 2024.03.12 21:00, 21:00, USD, yel, NFIB Small Business Index,  89.9 , 90.5, 89.4
+Tue, 2024.03.12 21:03, 21:03, GBP, yel, 10-y Bond Auction,  4.13|3.1 , , 3.93|3.6
+Tue, 2024.03.12 22:00, 22:00, GBP, yel, MPC Member Mann Speaks,   , , 
+Tue, 2024.03.12 23:30, 23:30, USD, red, Core CPI m/m,  0.4% , 0.3%, 0.4%
+Tue, 2024.03.12 23:30, 23:30, USD, red, CPI m/m,  0.3% , 0.4%, 0.4%
+Tue, 2024.03.12 23:30, 23:30, USD, red, CPI y/y,  3.1% , 3.1%, 3.2%
+Wed, 2024.03.13 0:30, 0:30, GBP, yel, CB Leading Index m/m,  -0.3% , , -0.3%
+Wed, 2024.03.13 3:15, 3:15, GBP, ora, BOE Gov Bailey Speaks,   , , 
+Wed, 2024.03.13 4:01, 4:01, USD, red, 10-y Bond Auction,  4.09|2.6 , , 4.17|2.5
+Wed, 2024.03.13 5:00, 5:00, USD, yel, Federal Budget Balance,  -21.9B , -298.5B, -296.3B
+Wed, 2024.03.13 8:45, 8:45, NZD, yel, FPI m/m,  1.2% , , -0.6%
+Wed, 2024.03.13 18:00, 18:00, EUR, yel, German WPI m/m,  0.1% , 0.2%, -0.1%
+Wed, 2024.03.13 18:00, 18:00, GBP, red, GDP m/m,  -0.1% , 0.2%, 0.2%
+Wed, 2024.03.13 18:00, 18:00, GBP, yel, Construction Output m/m,  -0.5% , 0.0%, 1.1%
+Wed, 2024.03.13 18:00, 18:00, GBP, yel, Goods Trade Balance,  -14.0B , -14.9B, -14.5B
+Wed, 2024.03.13 18:00, 18:00, GBP, yel, Index of Services 3m/3m,  -0.2% , 0.0%, 0.0%
+Wed, 2024.03.13 18:00, 18:00, GBP, yel, Industrial Production m/m,  0.6% , 0.0%, -0.2%
+Wed, 2024.03.13 18:00, 18:00, GBP, yel, Manufacturing Production m/m,  0.8% , 0.0%, 0.0%
+Wed, 2024.03.13 20:00, 20:00, EUR, yel, Italian Quarterly Unemployment Rate,  7.6% , 7.3%, 7.4%
+Wed, 2024.03.13 21:00, 21:00, EUR, yel, Industrial Production m/m,  1.6% , -1.8%, -3.2%
+Wed, 2024.03.13 21:33, 21:33, EUR, yel, German 10-y Bond Auction,  2.38|2.1 , , 2.31|2.3
+Wed, 2024.03.13 22:50, 22:50, GBP, yel, NIESR GDP Estimate,  -0.1% , , 0.0%
+Thu, 2024.03.14 1:30, 1:30, USD, yel, Crude Oil Inventories,  1.4M , 0.9M, -1.5M
+Thu, 2024.03.14 4:01, 4:01, USD, red, 30-y Bond Auction,  4.36|2.4 , , 4.33|2.5
+Thu, 2024.03.14 8:45, 8:45, NZD, yel, Visitor Arrivals m/m,  -2.3% , , 8.2%
+Thu, 2024.03.14 11:01, 11:01, GBP, yel, RICS House Price Balance,  -19% , -10%, -10%
+Thu, 2024.03.14 18:30, 18:30, CHF, yel, PPI m/m,  -0.5% , 0.2%, 0.1%
+Thu, 2024.03.14 23:30, 23:30, CAD, yel, Manufacturing Sales m/m,  -1.1% , 0.3%, 0.2%
+Thu, 2024.03.14 23:30, 23:30, USD, red, Core PPI m/m,  0.5% , 0.2%, 0.3%
+Thu, 2024.03.14 23:30, 23:30, USD, red, Core Retail Sales m/m,  -0.8% , 0.5%, 0.3%
+Thu, 2024.03.14 23:30, 23:30, USD, red, PPI m/m,  0.3% , 0.3%, 0.6%
+Thu, 2024.03.14 23:30, 23:30, USD, red, Retail Sales m/m,  -1.1% , 0.8%, 0.6%
+Thu, 2024.03.14 23:30, 23:30, USD, red, Unemployment Claims,  210K , 218K, 209K
+Fri, 2024.03.15 1:00, 1:00, USD, yel, Business Inventories m/m,  0.3% , 0.2%, 0.0%
+Fri, 2024.03.15 1:30, 1:30, USD, yel, Natural Gas Storage,  -40B , -3B, -9B
+Fri, 2024.03.15 8:30, 8:30, NZD, yel, BusinessNZ Manufacturing Index,  47.5 , , 49.3
+Fri, 2024.03.15 12:30, 12:30, CNY, yel, New Home Prices m/m,  -0.37% , , -0.36%
+Fri, 2024.03.15 15:30, 15:30, JPY, yel, Tertiary Industry Activity m/m,  0.5% , 0.1%, 0.3%
+Fri, 2024.03.15 18:45, 18:45, EUR, yel, French Final CPI m/m,  0.8% , 0.8%, 0.9%
+Fri, 2024.03.15 19:34, 19:34, CNY, ora, New Loans,  4920B , 1540B, 1450B
+Fri, 2024.03.15 19:34, 19:34, CNY, yel, M2 Money Supply y/y,  8.7% , 8.8%, 8.7%
+Fri, 2024.03.15 20:30, 20:30, GBP, yel, Consumer Inflation Expectations,  3.3% , , 3.0%
+Fri, 2024.03.15 21:00, 21:00, EUR, yel, Italian Retail Sales m/m,  -0.2% , 0.2%, -0.1%
+Fri, 2024.03.15 22:00, 22:00, EUR, yel, Italian Trade Balance,  5.53B , 6.22B, 2.66B
+Fri, 2024.03.15 23:15, 23:15, CAD, yel, Housing Starts,  223K , 227K, 253K
+Fri, 2024.03.15 23:30, 23:30, CAD, yel, Foreign Securities Purchases,  10.80B , 2.05B, 8.88B
+Fri, 2024.03.15 23:30, 23:30, CAD, yel, Wholesale Sales m/m,  -0.3% , -0.6%, 0.1%
+Fri, 2024.03.15 23:30, 23:30, USD, red, Empire State Manufacturing Index,  -2.4 , -7.0, -20.9
+Fri, 2024.03.15 23:30, 23:30, USD, yel, Import Prices m/m,  0.8% , 0.3%, 0.3%
+Mon, 2024.03.18 8:30, 8:30, NZD, yel, BusinessNZ Services Index,  52.2 , , 53.0
+Mon, 2024.03.18 10:50, 10:50, JPY, yel, Core Machinery Orders m/m,  2.7% , -0.7%, -1.7%
+Mon, 2024.03.18 11:01, 11:01, GBP, yel, Rightmove HPI m/m,  0.9% , , 1.5%
+Mon, 2024.03.18 13:00, 13:00, CNY, red, Industrial Production y/y,  6.8% , 5.3%, 7.0%
+Mon, 2024.03.18 13:00, 13:00, CNY, ora, Retail Sales y/y,  7.4% , 5.6%, 5.5%
+Mon, 2024.03.18 13:00, 13:00, CNY, yel, Fixed Asset Investment ytd/y,  3.0% , 3.2%, 4.2%
+Mon, 2024.03.18 13:00, 13:00, CNY, yel, NBS Press Conference,   , , 
+Mon, 2024.03.18 13:00, 13:00, CNY, yel, Unemployment Rate,  5.1% , 5.1%, 5.3%
+Mon, 2024.03.18 21:00, 21:00, EUR, yel, Final Core CPI y/y,  3.1% , 3.1%, 3.1%
+Mon, 2024.03.18 21:00, 21:00, EUR, yel, Final CPI y/y,  2.6% , 2.6%, 2.6%
+Mon, 2024.03.18 21:00, 21:00, EUR, yel, Trade Balance,  14.3B , 14.2B, 28.1B
+Mon, 2024.03.18 23:30, 23:30, CAD, yel, IPPI m/m,  -0.1% , 0.0%, 0.7%
+Mon, 2024.03.18 23:30, 23:30, CAD, yel, RMPI m/m,  1.2% , 0.8%, 2.1%
+Tue, 2024.03.19 1:00, 1:00, USD, yel, NAHB Housing Market Index,  48 , 48, 51
+Tue, 2024.03.19 14:30, 14:30, AUD, red, Cash Rate,  4.35% , 4.35%, 4.35%
+Tue, 2024.03.19 14:30, 14:30, AUD, red, RBA Rate Statement,   , , 
+Tue, 2024.03.19 14:36, 14:36, JPY, red, BOJ Policy Rate,  -0.10% , -0.10%, <0.10%
+Tue, 2024.03.19 14:36, 14:36, JPY, red, Monetary Policy Statement,   , , 
+Tue, 2024.03.19 15:30, 15:30, AUD, red, RBA Press Conference,   , , 
+Tue, 2024.03.19 15:30, 15:30, JPY, yel, Revised Industrial Production m/m,  -7.5% , -7.5%, -6.7%
+Tue, 2024.03.19 17:30, 17:30, JPY, red, BOJ Press Conference,   , , 
+Tue, 2024.03.19 18:00, 18:00, CHF, yel, Trade Balance,  4.70B , 3.50B, 3.66B
+Tue, 2024.03.19 19:00, 19:00, CHF, yel, SECO Economic Forecasts,   , , 
+Tue, 2024.03.19 21:00, 21:00, EUR, yel, German ZEW Economic Sentiment,  19.9 , 20.6, 31.7
+Tue, 2024.03.19 21:00, 21:00, EUR, yel, ZEW Economic Sentiment,  25.0 , 25.4, 33.5
+Tue, 2024.03.19 23:30, 23:30, CAD, red, CPI m/m,  0.0% , 0.6%, 0.3%
+Tue, 2024.03.19 23:30, 23:30, CAD, red, Median CPI y/y,  3.3% , 3.3%, 3.1%
+Tue, 2024.03.19 23:30, 23:30, CAD, red, Trimmed CPI y/y,  3.4% , 3.4%, 3.2%
+Tue, 2024.03.19 23:30, 23:30, CAD, ora, Common CPI y/y,  3.3% , 3.4%, 3.1%
+Tue, 2024.03.19 23:30, 23:30, USD, ora, Building Permits,  1.49M , 1.50M, 1.52M
+Tue, 2024.03.19 23:30, 23:30, USD, yel, Housing Starts,  1.37M , 1.43M, 1.52M
+Tue, 2024.03.19 23:32, 23:32, CAD, yel, Core CPI m/m,  0.1% , , 0.1%
+Wed, 2024.03.20 1:08, 1:08, NZD, yel, GDT Price Index,  -2.3% , , -2.8%
+Wed, 2024.03.20 6:05, 6:05, NZD, yel, Westpac Consumer Sentiment,  88.9 , , 93.2
+Wed, 2024.03.20 7:00, 7:00, USD, yel, TIC Long-Term Purchases,  158.6B , 95.5B, 36.1B
+Wed, 2024.03.20 8:45, 8:45, NZD, yel, Current Account,  -10.97B , -7.79B, -7.84B
+Wed, 2024.03.20 0:00, 0:00, JPY, gra, Bank Holiday,   , , 
+Wed, 2024.03.20 12:15, 12:15, CNY, ora, 1-y Loan Prime Rate,  3.45% , 3.45%, 3.45%
+Wed, 2024.03.20 12:15, 12:15, CNY, ora, 5-y Loan Prime Rate,  3.95% , 3.95%, 3.95%
+Wed, 2024.03.20 18:00, 18:00, EUR, yel, German PPI m/m,  0.2% , -0.1%, -0.4%
+Wed, 2024.03.20 18:00, 18:00, GBP, red, CPI y/y,  4.0% , 3.5%, 3.4%
+Wed, 2024.03.20 18:00, 18:00, GBP, yel, Core CPI y/y,  5.1% , 4.6%, 4.5%
+Wed, 2024.03.20 18:00, 18:00, GBP, yel, PPI Input m/m,  -0.1% , 0.2%, -0.4%
+Wed, 2024.03.20 18:00, 18:00, GBP, yel, PPI Output m/m,  0.0% , 0.1%, 0.3%
+Wed, 2024.03.20 18:00, 18:00, GBP, yel, RPI y/y,  4.9% , 4.5%, 4.5%
+Wed, 2024.03.20 19:45, 19:45, EUR, ora, ECB President Lagarde Speaks,   , , 
+Wed, 2024.03.20 20:00, 20:00, EUR, yel, Italian Industrial Production m/m,  1.2% , -0.6%, -1.2%
+Wed, 2024.03.20 20:30, 20:30, GBP, yel, HPI y/y,  -2.2% , -0.7%, -0.6%
+Wed, 2024.03.20 21:38, 21:38, EUR, yel, German 30-y Bond Auction,  2.53|2.8 , , 2.52|3.4
+Thu, 2024.03.21 1:30, 1:30, AUD, yel, CB Leading Index m/m,  0.4% , , 0.2%
+Thu, 2024.03.21 1:30, 1:30, USD, yel, Crude Oil Inventories,  -1.5M , -0.9M, -2.0M
+Thu, 2024.03.21 2:00, 2:00, EUR, yel, Consumer Confidence,  -16 , -15, -15
+Thu, 2024.03.21 3:30, 3:30, EUR, yel, German Buba President Nagel Speaks,   , , 
+Thu, 2024.03.21 4:30, 4:30, CAD, yel, BOC Summary of Deliberations,   , , 
+Thu, 2024.03.21 5:00, 5:00, USD, red, Federal Funds Rate,  5.50% , 5.50%, 5.50%
+Thu, 2024.03.21 5:00, 5:00, USD, red, FOMC Economic Projections,   , , 
+Thu, 2024.03.21 5:00, 5:00, USD, red, FOMC Statement,   , , 
+Thu, 2024.03.21 5:30, 5:30, USD, red, FOMC Press Conference,   , , 
+Thu, 2024.03.21 8:45, 8:45, NZD, red, GDP q/q,  -0.3% , 0.1%, -0.1%
+Thu, 2024.03.21 9:00, 9:00, AUD, yel, Flash Manufacturing PMI,  47.8 , , 46.8
+Thu, 2024.03.21 9:00, 9:00, AUD, yel, Flash Services PMI,  53.1 , , 53.5
+Thu, 2024.03.21 10:50, 10:50, JPY, yel, Trade Balance,  0.01T , -0.83T, -0.45T
+Thu, 2024.03.21 11:30, 11:30, AUD, red, Employment Change,  15.3K , 39.7K, 116.5K
+Thu, 2024.03.21 11:30, 11:30, AUD, red, Unemployment Rate,  4.1% , 4.0%, 3.7%
+Thu, 2024.03.21 11:30, 11:30, JPY, yel, Flash Manufacturing PMI,  47.2 , 47.5, 48.2
+Thu, 2024.03.21 13:05, 13:05, NZD, yel, Credit Card Spending y/y,  0.0% , , 2.2%
+Thu, 2024.03.21 18:00, 18:00, GBP, yel, Public Sector Net Borrowing,  -17.0B , 6.3B, 7.5B
+Thu, 2024.03.21 19:15, 19:15, EUR, red, French Flash Manufacturing PMI,  47.1 , 47.5, 45.8
+Thu, 2024.03.21 19:15, 19:15, EUR, red, French Flash Services PMI,  48.4 , 48.8, 47.8
+Thu, 2024.03.21 19:30, 19:30, CHF, red, SNB Monetary Policy Assessment,   , , 
+Thu, 2024.03.21 19:30, 19:30, CHF, red, SNB Policy Rate,  1.75% , 1.75%, 1.50%
+Thu, 2024.03.21 19:30, 19:30, EUR, red, German Flash Manufacturing PMI,  42.5 , 43.1, 41.6
+Thu, 2024.03.21 19:30, 19:30, EUR, red, German Flash Services PMI,  48.3 , 48.8, 49.8
+Thu, 2024.03.21 20:00, 20:00, CHF, red, SNB Press Conference,   , , 
+Thu, 2024.03.21 20:00, 20:00, EUR, ora, Flash Manufacturing PMI,  46.5 , 47.0, 45.7
+Thu, 2024.03.21 20:00, 20:00, EUR, ora, Flash Services PMI,  50.2 , 50.5, 51.1
+Thu, 2024.03.21 20:00, 20:00, EUR, yel, Current Account,  31.9B , 32.3B, 39.4B
+Thu, 2024.03.21 20:00, 20:00, EUR, yel, ECB Economic Bulletin,   , , 
+Thu, 2024.03.21 20:30, 20:30, GBP, red, Flash Manufacturing PMI,  47.5 , 47.9, 49.9
+Thu, 2024.03.21 20:30, 20:30, GBP, red, Flash Services PMI,  53.8 , 53.8, 53.4
+Thu, 2024.03.21 22:00, 22:00, EUR, yel, German Buba Monthly Report,   , , 
+Thu, 2024.03.21 23:00, 23:00, GBP, red, Monetary Policy Summary,   , , 
+Thu, 2024.03.21 23:00, 23:00, GBP, red, MPC Official Bank Rate Votes,  2-1-6 , 0-1-8, 0-1-8
+Thu, 2024.03.21 23:00, 23:00, GBP, red, Official Bank Rate,  5.25% , 5.25%, 5.25%
+Thu, 2024.03.21 23:00, 23:00, GBP, yel, BOE Inflation Letter,   , , 
+Thu, 2024.03.21 23:30, 23:30, CAD, yel, NHPI m/m,  -0.1% , 0.1%, 0.1%
+Thu, 2024.03.21 23:30, 23:30, USD, red, Unemployment Claims,  212K , 212K, 210K
+Thu, 2024.03.21 23:30, 23:30, USD, ora, Philly Fed Manufacturing Index,  5.2 , -2.6, 3.2
+Thu, 2024.03.21 23:30, 23:30, USD, yel, Current Account,  -196B , -209B, -195B
+Fri, 2024.03.22 0:35, 0:35, CAD, yel, Gov Council Member Gravelle Speaks,   , , 
+Fri, 2024.03.22 0:45, 0:45, USD, red, Flash Manufacturing PMI,  52.2 , 51.8, 52.5
+Fri, 2024.03.22 0:45, 0:45, USD, red, Flash Services PMI,  52.3 , 52.0, 51.7
+Fri, 2024.03.22 1:00, 1:00, USD, ora, Existing Home Sales,  4.00M , 3.95M, 4.38M
+Fri, 2024.03.22 1:00, 1:00, USD, yel, CB Leading Index m/m,  -0.4% , -0.1%, 0.1%
+Fri, 2024.03.22 1:30, 1:30, USD, yel, Natural Gas Storage,  -9B , 5B, 7B
+Fri, 2024.03.22 3:00, 3:00, USD, yel, FOMC Member Barr Speaks,   , , 
+Fri, 2024.03.22 8:45, 8:45, NZD, yel, Trade Balance,  -1089M , -825M, -218M
+Fri, 2024.03.22 10:30, 10:30, JPY, ora, National Core CPI y/y,  2.0% , 2.8%, 2.8%
+Fri, 2024.03.22 11:01, 11:01, GBP, yel, GfK Consumer Confidence,  -21 , -19, -21
+Fri, 2024.03.22 11:30, 11:30, AUD, yel, RBA Financial Stability Review,   , , 
+Fri, 2024.03.22 18:00, 18:00, EUR, yel, German Import Prices m/m,  -1.0% , -0.4%, 0.0%
+Fri, 2024.03.22 18:00, 18:00, GBP, red, Retail Sales m/m,  3.6% , -0.4%, 0.0%
+Fri, 2024.03.22 20:00, 20:00, EUR, ora, German ifo Business Climate,  85.7 , 85.9, 87.8
+Fri, 2024.03.22 20:00, 20:00, EUR, yel, German Buba President Nagel Speaks,   , , 
+Fri, 2024.03.22 20:01, 20:01, CNY, yel, Foreign Direct Investment ytd/y,  -11.7% , , -19.9%
+Fri, 2024.03.22 0:00, 0:00, EUR, red, Euro Summit,   , , 
+Fri, 2024.03.22 22:00, 22:00, GBP, yel, CBI Industrial Order Expectations,  -20 , -20, -18
+Fri, 2024.03.22 23:30, 23:30, CAD, ora, Core Retail Sales m/m,  0.6% , -0.4%, 0.5%
+Fri, 2024.03.22 23:30, 23:30, CAD, ora, Retail Sales m/m,  0.9% , -0.4%, -0.3%
+Mon, 2024.03.25 10:50, 10:50, JPY, yel, Monetary Policy Meeting Minutes,   , , 
+Mon, 2024.03.25 22:00, 22:00, GBP, yel, CBI Realized Sales,  -7 , -13, 2
+Mon, 2024.03.25 23:25, 23:25, USD, yel, FOMC Member Bostic Speaks,   , , 
+Tue, 2024.03.26 1:00, 1:00, USD, ora, New Home Sales,  664K , 675K, 662K
+Tue, 2024.03.26 1:15, 1:15, GBP, yel, MPC Member Mann Speaks,   , , 
+Tue, 2024.03.26 1:30, 1:30, USD, yel, FOMC Member Cook Speaks,   , , 
+Tue, 2024.03.26 10:30, 10:30, AUD, yel, Westpac Consumer Sentiment,  6.2% , , -1.8%
+Tue, 2024.03.26 10:50, 10:50, JPY, yel, SPPI y/y,  2.1% , 2.1%, 2.1%
+Tue, 2024.03.26 16:00, 16:00, JPY, yel, BOJ Core CPI y/y,  2.6% , 2.5%, 2.3%
+Tue, 2024.03.26 18:00, 18:00, EUR, yel, German GfK Consumer Climate,  -28.8 , -27.9, -27.4
+Tue, 2024.03.26 21:32, 21:32, EUR, yel, German 10-y Bond Auction,  2.31|2.3 , , 2.30|2.3
+Tue, 2024.03.26 23:00, 23:00, CAD, yel, Gov Council Member Rogers Speaks,   , , 
+Tue, 2024.03.26 23:30, 23:30, USD, ora, Core Durable Goods Orders m/m,  -0.4% , 0.4%, 0.5%
+Tue, 2024.03.26 23:30, 23:30, USD, ora, Durable Goods Orders m/m,  -6.2% , 1.2%, 1.4%
+Wed, 2024.03.27 0:00, 0:00, USD, ora, S&P/CS Composite-20 HPI y/y,  6.2% , 6.6%, 6.6%
+Wed, 2024.03.27 0:00, 0:00, USD, yel, HPI m/m,  0.1% , 0.2%, -0.1%
+Wed, 2024.03.27 0:59, 0:59, USD, ora, Richmond Manufacturing Index,  -5 , -5, -11
+Wed, 2024.03.27 1:00, 1:00, USD, red, CB Consumer Confidence,  104.8 , 106.9, 104.7
+Wed, 2024.03.27 10:30, 10:30, AUD, yel, MI Leading Index m/m,  -0.1% , , 0.1%
+Wed, 2024.03.27 11:30, 11:30, AUD, red, CPI y/y,  3.4% , 3.5%, 3.4%
+Wed, 2024.03.27 19:00, 19:00, EUR, ora, Spanish Flash CPI y/y,  2.8% , 3.1%, 3.2%
+Wed, 2024.03.27 20:00, 20:00, CHF, yel, Credit Suisse Economic Expectations,  10.2 , , 11.5
+Wed, 2024.03.27 21:17, 21:17, EUR, yel, Italian 10-y Bond Auction,  3.91|1.4 , , 3.67|1.4
+Wed, 2024.03.27 21:30, 21:30, GBP, yel, FPC Meeting Minutes,   , , 
+Wed, 2024.03.27 21:30, 21:30, GBP, yel, FPC Statement,   , , 
+Thu, 2024.03.28 0:00, 0:00, CNY, yel, CB Leading Index m/m,  0.1% , , -0.1%
+Thu, 2024.03.28 1:00, 1:00, CHF, yel, SNB Quarterly Bulletin,   , , 
+Thu, 2024.03.28 1:30, 1:30, USD, yel, Crude Oil Inventories,  -2.0M , -0.7M, 3.2M
+Thu, 2024.03.28 4:40, 4:40, CHF, yel, Gov Board Member Schlegel Speaks,   , , 
+Thu, 2024.03.28 9:00, 9:00, USD, red, FOMC Member Waller Speaks,   , , 
+Thu, 2024.03.28 10:50, 10:50, JPY, yel, BOJ Summary of Opinions,   , , 
+Thu, 2024.03.28 11:00, 11:00, AUD, yel, MI Inflation Expectations,  4.5% , , 4.3%
+Thu, 2024.03.28 11:00, 11:00, NZD, yel, ANZ Business Confidence,  34.7 , , 22.9
+Thu, 2024.03.28 11:30, 11:30, AUD, ora, Retail Sales m/m,  1.1% , 0.4%, 0.3%
+Thu, 2024.03.28 11:30, 11:30, AUD, yel, Private Sector Credit m/m,  0.5% , 0.4%, 0.5%
+Thu, 2024.03.28 18:00, 18:00, EUR, yel, German Retail Sales m/m,  -0.3% , 0.4%, -1.9%
+Thu, 2024.03.28 18:00, 18:00, GBP, yel, Current Account,  -18.5B , -21.3B, -21.2B
+Thu, 2024.03.28 18:00, 18:00, GBP, yel, Final GDP q/q,  -0.3% , -0.3%, -0.3%
+Thu, 2024.03.28 18:00, 18:00, GBP, yel, Revised Business Investment q/q,  1.5% , 1.5%, 1.4%
+Thu, 2024.03.28 19:00, 19:00, CHF, yel, KOF Economic Barometer,  102.0 , 102.1, 101.5
+Thu, 2024.03.28 19:55, 19:55, EUR, yel, German Unemployment Change,  12K , 10K, 4K
+Thu, 2024.03.28 20:00, 20:00, EUR, yel, M3 Money Supply y/y,  0.1% , 0.3%, 0.4%
+Thu, 2024.03.28 20:00, 20:00, EUR, yel, Private Loans y/y,  0.3% , 0.4%, 0.3%
+Thu, 2024.03.28 23:30, 23:30, CAD, red, GDP m/m,  -0.1% , 0.4%, 0.6%
+Thu, 2024.03.28 23:30, 23:30, USD, red, Final GDP q/q,  3.2% , 3.2%, 3.4%
+Thu, 2024.03.28 23:30, 23:30, USD, red, Unemployment Claims,  212K , 212K, 210K
+Thu, 2024.03.28 23:30, 23:30, USD, ora, Final GDP Price Index q/q,  1.6% , 1.6%, 1.6%
+Fri, 2024.03.29 0:45, 0:45, USD, ora, Chicago PMI,  44.0 , 45.9, 41.4
+Fri, 2024.03.29 1:00, 1:00, USD, red, Pending Home Sales m/m,  -4.7% , 1.4%, 1.6%
+Fri, 2024.03.29 1:00, 1:00, USD, red, Revised UoM Consumer Sentiment,  76.5 , 76.5, 79.4
+Fri, 2024.03.29 1:00, 1:00, USD, yel, Revised UoM Inflation Expectations,  3.0% , , 2.9%
+Fri, 2024.03.29 1:30, 1:30, USD, yel, Natural Gas Storage,  7B , -26B, -36B
+Fri, 2024.03.29 0:00, 0:00, NZD, gra, Bank Holiday,   , , 
+Fri, 2024.03.29 0:00, 0:00, AUD, gra, Bank Holiday,   , , 
+Fri, 2024.03.29 10:30, 10:30, JPY, ora, Tokyo Core CPI y/y,  2.5% , 2.4%, 2.4%
+Fri, 2024.03.29 10:30, 10:30, JPY, yel, Unemployment Rate,  2.4% , 2.4%, 2.6%
+Fri, 2024.03.29 10:50, 10:50, JPY, yel, Prelim Industrial Production m/m,  -6.7% , 1.2%, -0.1%
+Fri, 2024.03.29 10:50, 10:50, JPY, yel, Retail Sales y/y,  2.1% , 2.8%, 4.6%
+Fri, 2024.03.29 16:00, 16:00, JPY, yel, Housing Starts y/y,  -7.5% , -5.4%, -8.2%
+Fri, 2024.03.29 0:00, 0:00, CHF, gra, Bank Holiday,   , , 
+Fri, 2024.03.29 0:00, 0:00, EUR, gra, German Bank Holiday,   , , 
+Fri, 2024.03.29 0:00, 0:00, GBP, gra, Bank Holiday,   , , 
+Fri, 2024.03.29 18:45, 18:45, EUR, yel, French Consumer Spending m/m,  -0.6% , 0.3%, 0.0%
+Fri, 2024.03.29 18:45, 18:45, EUR, yel, French Prelim CPI m/m,  0.9% , 0.5%, 0.2%
+Fri, 2024.03.29 21:00, 21:00, EUR, yel, Italian Prelim CPI m/m,  0.1% , 0.1%, 0.1%
+Fri, 2024.03.29 0:00, 0:00, CAD, gra, Bank Holiday,   , , 
+Fri, 2024.03.29 23:30, 23:30, USD, red, Core PCE Price Index m/m,  0.5% , 0.3%, 0.3%
+Fri, 2024.03.29 23:30, 23:30, USD, yel, Goods Trade Balance,  -90.5B , -90.1B, -91.8B
+Fri, 2024.03.29 23:30, 23:30, USD, yel, Personal Income m/m,  1.0% , 0.4%, 0.3%
+Fri, 2024.03.29 23:30, 23:30, USD, yel, Personal Spending m/m,  0.2% , 0.5%, 0.8%
+Fri, 2024.03.29 23:30, 23:30, USD, yel, Prelim Wholesale Inventories m/m,  -0.3% , 0.2%, 0.5%
+Mon, 2024.04.01 0:00, 0:00, NZD, gra, Bank Holiday,   , , 
+Mon, 2024.04.01 0:00, 0:00, AUD, gra, Bank Holiday,   , , 
+Mon, 2024.04.01 10:50, 10:50, JPY, yel, Tankan Manufacturing Index,  12 , 10, 11
+Mon, 2024.04.01 10:50, 10:50, JPY, yel, Tankan Non-Manufacturing Index,  30 , 31, 34
+Mon, 2024.04.01 11:30, 11:30, JPY, yel, Final Manufacturing PMI,  48.2 , 48.2, 48.2
+Mon, 2024.04.01 12:45, 12:45, CNY, yel, Caixin Manufacturing PMI,  50.9 , 51.0, 51.1
+Mon, 2024.04.01 0:00, 0:00, CHF, gra, Bank Holiday,   , , 
+Mon, 2024.04.01 0:00, 0:00, EUR, gra, French Bank Holiday,   , , 
+Mon, 2024.04.01 0:00, 0:00, EUR, gra, German Bank Holiday,   , , 
+Mon, 2024.04.01 0:00, 0:00, EUR, gra, Italian Bank Holiday,   , , 
+Mon, 2024.04.01 0:00, 0:00, GBP, gra, Bank Holiday,   , , 
+Tue, 2024.04.02 0:30, 0:30, CAD, yel, Manufacturing PMI,  49.7 , , 49.8
+Tue, 2024.04.02 0:45, 0:45, USD, yel, Final Manufacturing PMI,  52.5 , 52.5, 51.9
+Tue, 2024.04.02 1:00, 1:00, USD, red, ISM Manufacturing PMI,  47.8 , 48.5, 50.3
+Tue, 2024.04.02 1:00, 1:00, USD, ora, ISM Manufacturing Prices,  52.5 , 53.3, 55.8
+Tue, 2024.04.02 1:00, 1:00, USD, yel, Construction Spending m/m,  -0.2% , 0.7%, -0.3%
+Tue, 2024.04.02 1:30, 1:30, CAD, ora, BOC Business Outlook Survey,   , , 
+Tue, 2024.04.02 9:10, 9:10, AUD, yel, RBA Assist Gov Kent Speaks,   , , 
+Tue, 2024.04.02 9:50, 9:50, USD, yel, FOMC Member Cook Speaks,   , , 
+Tue, 2024.04.02 10:01, 10:01, GBP, yel, BRC Shop Price Index y/y,  2.5% , , 1.3%
+Tue, 2024.04.02 10:50, 10:50, JPY, yel, Monetary Base y/y,  2.4% , 2.5%, 1.6%
+Tue, 2024.04.02 11:00, 11:00, AUD, yel, MI Inflation Gauge m/m,  -0.1% , , 0.1%
+Tue, 2024.04.02 11:30, 11:30, AUD, ora, Monetary Policy Meeting Minutes,   , , 
+Tue, 2024.04.02 11:30, 11:30, AUD, yel, ANZ Job Advertisements m/m,  -2.1% , , -1.0%
+Tue, 2024.04.02 14:35, 14:35, JPY, yel, 10-y Bond Auction,  0.72|3.2 , , 0.75|3.8
+Tue, 2024.04.02 17:00, 17:00, GBP, yel, Nationwide HPI m/m,  0.7% , 0.4%, -0.2%
+Tue, 2024.04.02 17:10, 17:10, AUD, yel, Commodity Prices y/y,  -15.3% , , -15.3%
+Tue, 2024.04.02 0:00, 0:00, EUR, red, German Prelim CPI m/m,  0.4% , 0.5%, 0.4%
+Tue, 2024.04.02 17:30, 17:30, CHF, yel, Retail Sales y/y,  0.3% , 0.4%, -0.2%
+Tue, 2024.04.02 18:00, 18:00, EUR, yel, Spanish Unemployment Change,  -7.5K , 10.0K, -33.4K
+Tue, 2024.04.02 18:15, 18:15, EUR, yel, Spanish Manufacturing PMI,  51.5 , 51.1, 51.4
+Tue, 2024.04.02 18:30, 18:30, CHF, yel, Manufacturing PMI,  44.0 , 45.0, 45.2
+Tue, 2024.04.02 18:45, 18:45, EUR, yel, Italian Manufacturing PMI,  48.7 , 48.9, 50.4
+Tue, 2024.04.02 18:50, 18:50, EUR, yel, French Final Manufacturing PMI,  45.8 , 45.8, 46.2
+Tue, 2024.04.02 18:55, 18:55, EUR, yel, German Final Manufacturing PMI,  41.6 , 41.6, 41.9
+Tue, 2024.04.02 19:00, 19:00, EUR, yel, Final Manufacturing PMI,  45.7 , 45.7, 46.1
+Tue, 2024.04.02 19:30, 19:30, GBP, yel, Final Manufacturing PMI,  49.9 , 49.9, 50.3
+Tue, 2024.04.02 19:30, 19:30, GBP, yel, M4 Money Supply m/m,  -0.1% , 0.2%, 0.5%
+Tue, 2024.04.02 19:30, 19:30, GBP, yel, Mortgage Approvals,  56K , 57K, 60K
+Tue, 2024.04.02 19:30, 19:30, GBP, yel, Net Lending to Individuals m/m,  0.7B , 1.2B, 2.9B
+Wed, 2024.04.03 1:00, 1:00, USD, red, JOLTS Job Openings,  8.75M , 8.76M, 8.76M
+Wed, 2024.04.03 1:00, 1:00, USD, yel, Factory Orders m/m,  -3.8% , 1.1%, 1.4%
+Wed, 2024.04.03 1:10, 1:10, USD, yel, FOMC Member Bowman Speaks,   , , 
+Wed, 2024.04.03 0:00, 0:00, USD, yel, Wards Total Vehicle Sales,  15.8M , 15.9M, 15.5M
+Wed, 2024.04.03 2:02, 2:02, NZD, yel, GDT Price Index,  -2.8% , , 2.8%
+Wed, 2024.04.03 3:00, 3:00, USD, yel, FOMC Member Williams Speaks,   , , 
+Wed, 2024.04.03 3:05, 3:05, USD, ora, FOMC Member Mester Speaks,   , , 
+Wed, 2024.04.03 4:30, 4:30, USD, yel, FOMC Member Daly Speaks,   , , 
+Wed, 2024.04.03 12:45, 12:45, CNY, yel, Caixin Services PMI,  52.5 , 52.5, 52.7
+Wed, 2024.04.03 17:45, 17:45, EUR, yel, French Gov Budget Balance,  -25.7B , , -44.0B
+Wed, 2024.04.03 19:00, 19:00, EUR, yel, Italian Monthly Unemployment Rate,  7.3% , 7.2%, 7.5%
+Wed, 2024.04.03 20:00, 20:00, EUR, ora, Core CPI Flash Estimate y/y,  3.1% , 3.0%, 2.9%
+Wed, 2024.04.03 20:00, 20:00, EUR, ora, CPI Flash Estimate y/y,  2.6% , 2.5%, 2.4%
+Wed, 2024.04.03 20:00, 20:00, EUR, yel, Unemployment Rate,  6.5% , 6.4%, 6.5%
+Wed, 2024.04.03 0:00, 0:00, EUR, ora, OPEC-JMMC Meetings,   , , 
+Wed, 2024.04.03 20:33, 20:33, EUR, yel, German 10-y Bond Auction,  2.30|2.3 , , 2.38|2.0
+Wed, 2024.04.03 23:15, 23:15, USD, red, ADP Non-Farm Employment Change,  155K , 148K, 184K
+Wed, 2024.04.03 23:30, 23:30, USD, yel, FOMC Member Bostic Speaks,   , , 
+Thu, 2024.04.04 0:45, 0:45, USD, ora, Final Services PMI,  51.7 , 51.7, 51.7
+Thu, 2024.04.04 0:45, 0:45, USD, yel, FOMC Member Bowman Speaks,   , , 
+Thu, 2024.04.04 1:00, 1:00, USD, red, ISM Services PMI,  52.6 , 52.8, 51.4
+Thu, 2024.04.04 1:30, 1:30, USD, yel, Crude Oil Inventories,  3.2M , -0.3M, 3.2M
+Thu, 2024.04.04 3:10, 3:10, USD, red, Fed Chair Powell Speaks,   , , 
+Thu, 2024.04.04 4:10, 4:10, USD, yel, FOMC Member Barr Speaks,   , , 
+Thu, 2024.04.04 7:30, 7:30, USD, yel, FOMC Member Kugler Speaks,   , , 
+Thu, 2024.04.04 8:45, 8:45, NZD, yel, Building Consents m/m,  -8.6% , , 14.9%
+Thu, 2024.04.04 11:00, 11:00, NZD, yel, ANZ Commodity Prices m/m,  3.6% , , -1.3%
+Thu, 2024.04.04 0:00, 0:00, CNY, gra, Bank Holiday,   , , 
+Thu, 2024.04.04 11:30, 11:30, AUD, yel, Building Approvals m/m,  -2.5% , 3.0%, -1.9%
+Thu, 2024.04.04 14:35, 14:35, JPY, yel, 30-y Bond Auction,  1.77|2.9 , , 1.81|3.5
+Thu, 2024.04.04 17:30, 17:30, CHF, red, CPI m/m,  0.6% , 0.3%, 0.0%
+Thu, 2024.04.04 18:15, 18:15, EUR, yel, Spanish Services PMI,  54.7 , 55.5, 56.1
+Thu, 2024.04.04 18:45, 18:45, EUR, yel, Italian Services PMI,  52.2 , 53.0, 54.6
+Thu, 2024.04.04 18:50, 18:50, EUR, yel, French Final Services PMI,  47.8 , 47.8, 48.3
+Thu, 2024.04.04 18:55, 18:55, EUR, yel, German Final Services PMI,  49.8 , 49.8, 50.1
+Thu, 2024.04.04 19:00, 19:00, EUR, yel, Final Services PMI,  51.1 , 51.1, 51.5
+Thu, 2024.04.04 19:30, 19:30, GBP, yel, Final Services PMI,  53.4 , 53.4, 53.1
+Thu, 2024.04.04 19:42, 19:42, EUR, yel, Spanish 10-y Bond Auction,  3.16|2.2 , , 3.19|1.8
+Thu, 2024.04.04 20:00, 20:00, EUR, yel, PPI m/m,  -0.9% , -0.6%, -1.0%
+Thu, 2024.04.04 20:02, 20:02, EUR, yel, French 10-y Bond Auction,  2.81|2.4 , , 2.87|1.9
+Thu, 2024.04.04 20:03, 20:03, GBP, yel, 10-y Bond Auction,  3.93|3.6 , , 4.01|3.3
+Thu, 2024.04.04 22:30, 22:30, EUR, yel, ECB Monetary Policy Meeting Accounts,   , , 
+Thu, 2024.04.04 22:30, 22:30, USD, yel, Challenger Job Cuts y/y,  8.8% , , 0.7%
+Thu, 2024.04.04 23:30, 23:30, CAD, yel, Trade Balance,  0.6B , 0.7B, 1.4B
+Thu, 2024.04.04 23:30, 23:30, USD, red, Unemployment Claims,  212K , 213K, 221K
+Thu, 2024.04.04 23:30, 23:30, USD, yel, Trade Balance,  -67.6B , -66.9B, -68.9B
+Fri, 2024.04.05 1:30, 1:30, USD, yel, Natural Gas Storage,  -36B , -42B, -37B
+Fri, 2024.04.05 3:15, 3:15, USD, ora, FOMC Member Barkin Speaks,   , , 
+Fri, 2024.04.05 5:00, 5:00, USD, ora, FOMC Member Mester Speaks,   , , 
+Fri, 2024.04.05 10:30, 10:30, JPY, yel, Household Spending y/y,  -6.3% , -2.8%, -0.5%
+Fri, 2024.04.05 10:30, 10:30, USD, yel, FOMC Member Kugler Speaks,   , , 
+Fri, 2024.04.05 0:00, 0:00, CNY, gra, Bank Holiday,   , , 
+Fri, 2024.04.05 11:30, 11:30, AUD, yel, Goods Trade Balance,  10.06B , 10.50B, 7.28B
+Fri, 2024.04.05 16:00, 16:00, JPY, yel, Leading Indicators,  109.5% , 111.6%, 111.8%
+Fri, 2024.04.05 17:00, 17:00, EUR, yel, German Factory Orders m/m,  -11.4% , 0.6%, 0.2%
+Fri, 2024.04.05 17:00, 17:00, EUR, yel, German Import Prices m/m,  0.0% , -0.1%, -0.2%
+Fri, 2024.04.05 17:00, 17:00, GBP, yel, Halifax HPI m/m,  0.3% , 0.3%, -1.0%
+Fri, 2024.04.05 17:45, 17:45, EUR, yel, French Industrial Production m/m,  -0.9% , 0.5%, 0.2%
+Fri, 2024.04.05 18:00, 18:00, CHF, ora, Foreign Currency Reserves,  678B , , 715B
+Fri, 2024.04.05 18:00, 18:00, CHF, yel, SECO Consumer Climate,  -42 , -41, -38
+Fri, 2024.04.05 19:30, 19:30, GBP, ora, Construction PMI,  49.7 , 49.8, 50.2
+Fri, 2024.04.05 19:30, 19:30, GBP, yel, Housing Equity Withdrawal q/q,  -21.4B , -22.3B, -25.1B
+Fri, 2024.04.05 20:00, 20:00, EUR, yel, Retail Sales m/m,  0.0% , -0.3%, -0.5%
+Fri, 2024.04.05 23:30, 23:30, CAD, red, Employment Change,  40.7K , 25.9K, -2.2K
+Fri, 2024.04.05 23:30, 23:30, CAD, red, Unemployment Rate,  5.8% , 5.9%, 6.1%
+Fri, 2024.04.05 23:30, 23:30, USD, red, Average Hourly Earnings m/m,  0.2% , 0.3%, 0.3%
+Fri, 2024.04.05 23:30, 23:30, USD, red, Non-Farm Employment Change,  270K , 212K, 303K
+Fri, 2024.04.05 23:30, 23:30, USD, red, Unemployment Rate,  3.9% , 3.9%, 3.8%
+Mon, 2024.04.08 9:30, 9:30, JPY, yel, Average Cash Earnings y/y,  1.5% , 1.8%, 1.8%
+Mon, 2024.04.08 9:50, 9:50, JPY, yel, Current Account,  2.75T , 1.99T, 1.37T
+Mon, 2024.04.08 15:00, 15:00, JPY, yel, Economy Watchers Sentiment,  51.3 , 51.6, 49.8
+Mon, 2024.04.08 15:45, 15:45, CHF, yel, Unemployment Rate,  2.2% , 2.2%, 2.3%
+Mon, 2024.04.08 16:00, 16:00, EUR, yel, German Industrial Production m/m,  1.3% , 0.6%, 2.1%
+Mon, 2024.04.08 16:00, 16:00, EUR, yel, German Trade Balance,  27.6B , 25.1B, 21.4B
+Mon, 2024.04.08 18:30, 18:30, EUR, yel, Sentix Investor Confidence,  -10.5 , -8.3, -5.9
+Tue, 2024.04.09 1:15, 1:15, CHF, ora, SNB Chairman Jordan Speaks,   , , 
+Tue, 2024.04.09 1:30, 1:30, GBP, yel, MPC Member Breeden Speaks,   , , 
+Tue, 2024.04.09 8:00, 8:00, NZD, yel, NZIER Business Confidence,  -2 , , -25
+Tue, 2024.04.09 9:01, 9:01, GBP, yel, BRC Retail Sales Monitor y/y,  1.0% , 1.8%, 3.2%
+Tue, 2024.04.09 10:30, 10:30, AUD, yel, Westpac Consumer Sentiment,  -1.8% , , -2.4%
+Tue, 2024.04.09 11:30, 11:30, AUD, yel, NAB Business Confidence,  0 , , 1
+Tue, 2024.04.09 15:00, 15:00, JPY, yel, Consumer Confidence,  39.1 , 39.6, 39.5
+Tue, 2024.04.09 15:58, 15:58, JPY, yel, Prelim Machine Tool Orders y/y,  -8.0% , , -3.8%
+Tue, 2024.04.09 16:45, 16:45, EUR, yel, French Trade Balance,  -7.2B , -7.0B, -5.2B
+Tue, 2024.04.09 20:00, 20:00, USD, yel, NFIB Small Business Index,  89.4 , 88.8, 88.5
+Wed, 2024.04.10 0:06, 0:06, USD, yel, RCM/TIPP Economic Optimism,  43.5 , 44.2, 43.2
+Wed, 2024.04.10 2:30, 2:30, CHF, yel, Gov Board Member Schlegel Speaks,   , , 
+Wed, 2024.04.10 9:50, 9:50, JPY, yel, Bank Lending y/y,  3.0% , 3.1%, 3.2%
+Wed, 2024.04.10 9:50, 9:50, JPY, yel, PPI y/y,  0.7% , 0.8%, 0.8%
+Wed, 2024.04.10 12:00, 12:00, NZD, red, Official Cash Rate,  5.50% , 5.50%, 5.50%
+Wed, 2024.04.10 12:00, 12:00, NZD, red, RBNZ Rate Statement,   , , 
+Wed, 2024.04.10 18:00, 18:00, EUR, yel, Italian Retail Sales m/m,  0.0% , 0.2%, 0.1%
+Wed, 2024.04.10 22:30, 22:30, CAD, yel, Building Permits m/m,  12.9% , -4.3%, 9.3%
+Wed, 2024.04.10 22:30, 22:30, USD, red, Core CPI m/m,  0.4% , 0.3%, 0.4%
+Wed, 2024.04.10 22:30, 22:30, USD, red, CPI m/m,  0.4% , 0.3%, 0.4%
+Wed, 2024.04.10 22:30, 22:30, USD, red, CPI y/y,  3.2% , 3.4%, 3.5%
+Wed, 2024.04.10 22:45, 22:45, USD, yel, FOMC Member Bowman Speaks,   , , 
+Wed, 2024.04.10 23:45, 23:45, CAD, red, BOC Monetary Policy Report,   , , 
+Wed, 2024.04.10 23:45, 23:45, CAD, red, BOC Rate Statement,   , , 
+Wed, 2024.04.10 23:45, 23:45, CAD, red, Overnight Rate,  5.00% , 5.00%, 5.00%
+Thu, 2024.04.11 0:00, 0:00, USD, yel, Final Wholesale Inventories m/m,  0.5% , 0.5%, 0.5%
+Thu, 2024.04.11 0:30, 0:30, CAD, red, BOC Press Conference,   , , 
+Thu, 2024.04.11 0:30, 0:30, USD, yel, Crude Oil Inventories,  3.2M , 0.9M, 5.8M
+Thu, 2024.04.11 2:45, 2:45, USD, ora, FOMC Member Barkin Speaks,   , , 
+Thu, 2024.04.11 3:01, 3:01, USD, ora, 10-y Bond Auction,  4.17|2.5 , , 4.56|2.3
+Thu, 2024.04.11 4:00, 4:00, USD, red, FOMC Meeting Minutes,   , , 
+Thu, 2024.04.11 4:00, 4:00, USD, yel, Federal Budget Balance,  -296.3B , -209.4B, -236.5B
+Thu, 2024.04.11 9:01, 9:01, GBP, yel, RICS House Price Balance,  -10% , -6%, -4%
+Thu, 2024.04.11 9:50, 9:50, JPY, yel, M2 Money Stock y/y,  2.4% , 2.4%, 2.5%
+Thu, 2024.04.11 11:00, 11:00, AUD, yel, MI Inflation Expectations,  4.3% , , 4.6%
+Thu, 2024.04.11 11:30, 11:30, CNY, ora, CPI y/y,  0.7% , 0.4%, 0.1%
+Thu, 2024.04.11 11:30, 11:30, CNY, ora, PPI y/y,  -2.7% , -2.8%, -2.8%
+Thu, 2024.04.11 18:00, 18:00, EUR, yel, Italian Industrial Production m/m,  -1.4% , 0.6%, 0.1%
+Thu, 2024.04.11 18:30, 18:30, GBP, yel, BOE Credit Conditions Survey,   , , 
+Thu, 2024.04.11 0:00, 0:00, EUR, yel, Eurogroup Meetings,   , , 
+Thu, 2024.04.11 22:15, 22:15, EUR, red, Main Refinancing Rate,  4.50% , 4.50%, 4.50%
+Thu, 2024.04.11 22:15, 22:15, EUR, red, Monetary Policy Statement,   , , 
+Thu, 2024.04.11 22:30, 22:30, USD, red, Core PPI m/m,  0.3% , 0.2%, 0.2%
+Thu, 2024.04.11 22:30, 22:30, USD, red, PPI m/m,  0.6% , 0.3%, 0.2%
+Thu, 2024.04.11 22:30, 22:30, USD, red, Unemployment Claims,  222k , 216K, 211K
+Thu, 2024.04.11 22:45, 22:45, EUR, red, ECB Press Conference,   , , 
+Thu, 2024.04.11 22:45, 22:45, USD, yel, FOMC Member Williams Speaks,   , , 
+Fri, 2024.04.12 0:00, 0:00, USD, ora, FOMC Member Barkin Speaks,   , , 
+Fri, 2024.04.12 0:30, 0:30, USD, yel, Natural Gas Storage,  -37B , 14B, 24B
+Fri, 2024.04.12 2:50, 2:50, GBP, yel, MPC Member Greene Speaks,   , , 
+Fri, 2024.04.12 3:01, 3:01, USD, red, 30-y Bond Auction,  4.33|2.5 , , 4.67|2.4
+Fri, 2024.04.12 3:30, 3:30, USD, yel, FOMC Member Bostic Speaks,   , , 
+Fri, 2024.04.12 8:30, 8:30, NZD, yel, BusinessNZ Manufacturing Index,  49.1 , , 47.1
+Fri, 2024.04.12 8:45, 8:45, NZD, yel, FPI m/m,  -0.6% , , -0.5%
+Fri, 2024.04.12 14:30, 14:30, JPY, yel, Revised Industrial Production m/m,  -0.1% , -0.1%, -0.6%
+Fri, 2024.04.12 16:00, 16:00, EUR, yel, German Final CPI m/m,  0.4% , 0.4%, 0.4%
+Fri, 2024.04.12 16:00, 16:00, GBP, red, GDP m/m,  0.3% , 0.1%, 0.1%
+Fri, 2024.04.12 16:00, 16:00, GBP, yel, Construction Output m/m,  1.1% , -0.4%, -1.9%
+Fri, 2024.04.12 16:00, 16:00, GBP, yel, Goods Trade Balance,  -14.1B , -14.5B, -14.2B
+Fri, 2024.04.12 16:00, 16:00, GBP, yel, Index of Services 3m/3m,  0.0% , 0.1%, 0.2%
+Fri, 2024.04.12 16:00, 16:00, GBP, yel, Industrial Production m/m,  -0.3% , 0.0%, 1.1%
+Fri, 2024.04.12 16:00, 16:00, GBP, yel, Manufacturing Production m/m,  -0.2% , 0.1%, 1.2%
+Fri, 2024.04.12 16:00, 16:00, GBP, yel, MPC Member Greene Speaks,   , , 
+Fri, 2024.04.12 16:45, 16:45, EUR, yel, French Final CPI m/m,  0.2% , 0.2%, 0.2%
+Fri, 2024.04.12 17:12, 17:12, CNY, yel, Trade Balance,  891B , 508B, 416B
+Fri, 2024.04.12 17:13, 17:13, CNY, yel, USD-Denominated Trade Balance,  125.2B , 70.2B, 58.6B
+Fri, 2024.04.12 0:00, 0:00, EUR, yel, ECOFIN Meetings,   , , 
+Fri, 2024.04.12 20:54, 20:54, CNY, ora, New Loans,  1450B , 3700B, 3090B
+Fri, 2024.04.12 20:54, 20:54, CNY, yel, M2 Money Supply y/y,  8.7% , 8.7%, 8.3%
+Fri, 2024.04.12 21:02, 21:02, GBP, yel, NIESR GDP Estimate,  0.2% , , 0.4%
+Fri, 2024.04.12 22:30, 22:30, USD, yel, Import Prices m/m,  0.3% , 0.3%, 0.4%
+Mon, 2024.04.15 8:30, 8:30, NZD, yel, BusinessNZ Services Index,  52.6 , , 47.5
+Mon, 2024.04.15 8:45, 8:45, NZD, yel, Visitor Arrivals m/m,  7.6% , , 0.9%
+Mon, 2024.04.15 9:50, 9:50, JPY, yel, Core Machinery Orders m/m,  -1.7% , 0.8%, 7.7%
+Mon, 2024.04.15 16:30, 16:30, CHF, yel, PPI m/m,  0.1% , 0.2%, 0.1%
+Mon, 2024.04.15 19:00, 19:00, EUR, yel, Industrial Production m/m,  -3.0% , 0.8%, 0.8%
+Mon, 2024.04.15 21:15, 21:15, GBP, yel, MPC Member Breeden Speaks,   , , 
+Mon, 2024.04.15 22:30, 22:30, CAD, yel, Manufacturing Sales m/m,  0.0% , 0.7%, 0.7%
+Mon, 2024.04.15 22:30, 22:30, CAD, yel, Wholesale Sales m/m,  -0.2% , 0.8%, 0.0%
+Mon, 2024.04.15 22:30, 22:30, USD, red, Core Retail Sales m/m,  0.6% , 0.5%, 1.1%
+Mon, 2024.04.15 22:30, 22:30, USD, red, Empire State Manufacturing Index,  -20.9 , -5.2, -14.3
+Mon, 2024.04.15 22:30, 22:30, USD, red, Retail Sales m/m,  0.9% , 0.4%, 0.7%
+Mon, 2024.04.15 22:30, 22:30, USD, yel, FOMC Member Williams Speaks,   , , 
 Tue, 2024.04.16 0:00, 0:00, USD, yel, Business Inventories m/m,  0.0% , 0.3%, 0.4%
 Tue, 2024.04.16 0:00, 0:00, USD, yel, NAHB Housing Market Index,  51 , 51, 51
 Tue, 2024.04.16 0:00, 0:00, USD, yel, IMF Meetings,   , , 
@@ -92,8 +1375,7 @@ Fri, 2024.04.19 19:10, 19:10, CNY, yel, Foreign Direct Investment ytd/y,  -19.9%
 Mon, 2024.04.22 9:01, 9:01, GBP, yel, Rightmove HPI m/m,  1.5% , , 1.1%
 Mon, 2024.04.22 11:15, 11:15, CNY, ora, 1-y Loan Prime Rate,  3.45% , 3.45%, 3.45%
 Mon, 2024.04.22 11:15, 11:15, CNY, ora, 5-y Loan Prime Rate,  3.95% , 3.95%, 3.95%
-Mon, 2024.04.22 13:00, 13:00, NZD, yel, Credit Card Spending y/y,  2.2% , , 
-Mon, 2024.04.22 20:00, 20:00, GBP, yel, CBI Industrial Order Expectations,  -18 , -15, 
-Mon, 2024.04.22 22:30, 22:30, CAD, yel, IPPI m/m,  0.7% , 0.8%, 
-Mon, 2024.04.22 22:30, 22:30, CAD, yel, NHPI m/m,  0.1% , 0.1%, 
-Mon, 2024.04.22 22:30, 22:30, CAD, yel, RMPI m/m,  2.1% , 2.9%, 
+Mon, 2024.04.22 13:00, 13:00, NZD, yel, Credit Card Spending y/y,  2.1% , , 1.4%
+Mon, 2024.04.22 22:30, 22:30, CAD, yel, IPPI m/m,  1.1% , 0.8%, 0.8%
+Mon, 2024.04.22 22:30, 22:30, CAD, yel, NHPI m/m,  0.1% , 0.1%, 0.0%
+Mon, 2024.04.22 22:30, 22:30, CAD, yel, RMPI m/m,  2.1% , 2.9%, 4.7%

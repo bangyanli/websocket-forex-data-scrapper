@@ -1,0 +1,8 @@
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\bin\Release\net6.0\publish\NewScrapper.dll
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\bin\Release\net6.0\publish\NewScrapper.deps.json
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\bin\Release\net6.0\publish\NewScrapper.pdb
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\bin\Release\net6.0\publish\cAlgo.API.dll
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\bin\Release\net6.0\publish\Rdz.cTrader.Library.dll
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\bin\Release\net6.0\publish\websocket-sharp-standard.dll
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\User\Documents\cAlgo\Sources\Robots\NewScrapper\NewScrapper\bin\Release\net6.0\publish\WebSocket4Net.dll

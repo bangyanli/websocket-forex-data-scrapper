@@ -218,7 +218,7 @@ else:
 
 with open(file_path, 'a+') as file:
 	file.write("") # Needs to write an empty line so that file is opened and getEventsCalendar can append to the file
-start = date(2024,4,16)
+start = date(2024,1,1)
 end = date(2024,4,22)
 getEventsCalendar(start,end, file_path)
 

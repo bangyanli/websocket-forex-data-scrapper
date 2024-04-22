@@ -1,0 +1,195 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "cTrader.Automate/1.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/cAlgo.API.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/cAlgo.API.dll": {}
+        },
+        "build": {
+          "build/cTrader.Automate.props": {},
+          "build/cTrader.Automate.targets": {}
+        }
+      },
+      "Rdz.cTrader.Library/1.1203.715.837": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Rdz.cTrader.Library.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Rdz.cTrader.Library.dll": {}
+        }
+      },
+      "WebSocketSharp.Standard/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/websocket-sharp-standard.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/websocket-sharp-standard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cTrader.Automate/1.0.8": {
+      "sha512": "Inu3Q0XEMNNSm1LLxtJ9qk3TTb6N4Kms8HRt4A/GV+6MegCWWLEB81XvM5h6xoUfU1FyX+Ag9f2ewY0G4afSXg==",
+      "type": "package",
+      "path": "ctrader.automate/1.0.8",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/cTrader.Automate.props",
+        "build/cTrader.Automate.targets",
+        "ctrader.automate.1.0.8.nupkg.sha512",
+        "ctrader.automate.nuspec",
+        "eula.md",
+        "icon.png",
+        "lib/net40/cAlgo.API.dll",
+        "lib/net40/cAlgo.API.xml",
+        "lib/net6.0/cAlgo.API.dll",
+        "lib/net6.0/cAlgo.API.xml",
+        "tools/net472/Core.AlgoFormat.Compose.Reflection.dll",
+        "tools/net472/Core.AlgoFormat.Writer.dll",
+        "tools/net472/Core.AlgoFormat.dll",
+        "tools/net472/Core.Domain.Primitives.dll",
+        "tools/net472/Newtonsoft.Json.dll",
+        "tools/net472/System.Buffers.dll",
+        "tools/net472/System.Collections.Immutable.dll",
+        "tools/net472/System.Memory.dll",
+        "tools/net472/System.Numerics.Vectors.dll",
+        "tools/net472/System.Reflection.Metadata.dll",
+        "tools/net472/System.Reflection.MetadataLoadContext.dll",
+        "tools/net472/System.Runtime.CompilerServices.Unsafe.dll",
+        "tools/net472/cTrader.Automate.Sdk.Tasks.dll",
+        "tools/net6.0/Core.AlgoFormat.Compose.Reflection.dll",
+        "tools/net6.0/Core.AlgoFormat.Writer.dll",
+        "tools/net6.0/Core.AlgoFormat.dll",
+        "tools/net6.0/Core.Domain.Primitives.dll",
+        "tools/net6.0/Microsoft.Win32.SystemEvents.dll",
+        "tools/net6.0/Newtonsoft.Json.dll",
+        "tools/net6.0/System.Drawing.Common.dll",
+        "tools/net6.0/System.Reflection.MetadataLoadContext.dll",
+        "tools/net6.0/System.Security.Permissions.dll",
+        "tools/net6.0/System.Windows.Extensions.dll",
+        "tools/net6.0/cTrader.Automate.Sdk.Tasks.dll",
+        "tools/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll",
+        "tools/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll",
+        "tools/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll",
+        "tools/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll",
+        "tools/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll",
+        "tools/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll",
+        "tools/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll",
+        "tools/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll"
+      ]
+    },
+    "Rdz.cTrader.Library/1.1203.715.837": {
+      "sha512": "4ignV2jxbdB5xqPa/FScfZjpggmjjKvHM3kUfqDpeuoCSiPd/e4r4QiSIrVy+vRmty6Uo/BsFQbTuJ2aA+3ikw==",
+      "type": "package",
+      "path": "rdz.ctrader.library/1.1203.715.837",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net6.0/Rdz.cTrader.Library.dll",
+        "rdz.ctrader.library.1.1203.715.837.nupkg.sha512",
+        "rdz.ctrader.library.nuspec"
+      ]
+    },
+    "WebSocketSharp.Standard/1.0.3": {
+      "sha512": "ITDck8Gv/1yv+aolSM/37YH6QBGksa9yNp3p91E1jZY2gI9IYs2WjiX22SW0Yt0Y8ovrPp/OiuQAqAZBYC7Y5Q==",
+      "type": "package",
+      "path": "websocketsharp.standard/1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/websocket-sharp-standard.dll",
+        "websocketsharp.standard.1.0.3.nupkg.sha512",
+        "websocketsharp.standard.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Rdz.cTrader.Library >= 1.1203.715.837",
+      "WebSocketSharp.Standard >= 1.0.3",
+      "cTrader.Automate >= 1.0.8"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\Documents\\cAlgo\\Sources\\Robots\\NewScrapper\\NewScrapper\\NewScrapper.csproj",
+      "projectName": "NewScrapper",
+      "projectPath": "C:\\Users\\User\\Documents\\cAlgo\\Sources\\Robots\\NewScrapper\\NewScrapper\\NewScrapper.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\cAlgo\\Sources\\Robots\\NewScrapper\\NewScrapper\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Rdz.cTrader.Library": {
+            "target": "Package",
+            "version": "[1.1203.715.837, )"
+          },
+          "WebSocketSharp.Standard": {
+            "target": "Package",
+            "version": "[1.0.3, )"
+          },
+          "cTrader.Automate": {
+            "target": "Package",
+            "version": "[1.0.8, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

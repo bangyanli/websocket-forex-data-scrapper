@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <IncludeSource>True</IncludeSource>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="cTrader.Automate" Version="1.0.8" />
+    <PackageReference Include="Rdz.cTrader.Library" Version="1.1203.715.837" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="WebSocketSharp.Standard" Version="1.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="WebSocket4Net, Version=0.15.1.10, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\..\..\..\..\..\git\websocket-forex-data-scrapper\websocket-forex-data-scrapper\WebSocket4Net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="websocket-sharp-standard, Version=1.0.3.0, Culture=neutral, PublicKeyToken=5660b08a1845a91e">
+      <HintPath>..\..\..\..\..\..\..\..\git\websocket-forex-data-scrapper\websocket-forex-data-scrapper\websocket-sharp-standard.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed">
+      <HintPath>..\..\..\..\..\..\..\..\git\websocket-forex-data-scrapper\websocket-forex-data-scrapper\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
