@@ -57,3 +57,11 @@ D:\repo\websocket-forex-data-scrapper\websocket-forex-data-scrapper\obj\Debug\ne
 D:\repo\websocket-forex-data-scrapper\websocket-forex-data-scrapper\obj\Debug\net8.0\websocket-forex-data-scrapper.pdb
 D:\repo\websocket-forex-data-scrapper\websocket-forex-data-scrapper\obj\Debug\net8.0\websocket-forex-data-scrapper.genruntimeconfig.cache
 D:\repo\websocket-forex-data-scrapper\websocket-forex-data-scrapper\obj\Debug\net8.0\ref\websocket-forex-data-scrapper.dll
+C:\git\websocket-forex-data-scrapper\websocket-forex-data-scrapper\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\git\websocket-forex-data-scrapper\websocket-forex-data-scrapper\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\websocket-forex-data-scrapper\websocket-forex-data-scrapper\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\websocket-forex-data-scrapper\websocket-forex-data-scrapper\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\git\websocket-forex-data-scrapper\websocket-forex-data-scrapper\obj\Debug\net8.0\websocket-forex-data-scrapper.csproj.AssemblyReference.cache
+C:\git\websocket-forex-data-scrapper\websocket-forex-data-scrapper\obj\Debug\net8.0\websocket-forex-data-scrapper.MvcApplicationPartsAssemblyInfo.cs
+C:\git\websocket-forex-data-scrapper\websocket-forex-data-scrapper\obj\Debug\net8.0\websocke.222E562F.Up2Date
+C:\git\websocket-forex-data-scrapper\websocket-forex-data-scrapper\bin\Debug\net8.0\Newtonsoft.Json.dll

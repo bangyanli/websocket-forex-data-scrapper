@@ -9,7 +9,7 @@ namespace websocket_forex_data_scrapper
         {
 
         }
-        public List<ForexNews> ReadNews()
+        public List<ForexNews> ReadNews(string pair = "EURUSD")
         {
             string filePath = Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName) + @"\..\..\..\ffc_news_events.csv"; ;
             var memoryListForNews = new List<ForexNews>();
@@ -41,7 +41,7 @@ namespace websocket_forex_data_scrapper
                     eventNews.News = data[5];
 
                     //only consider high impact news
-                    if (eventNews.Impact == "red")
+                    if (eventNews.Impact == "red" && pair.Contains(eventNews.Currency))
                     {
                         memoryListForNews.Add(eventNews);
                     }

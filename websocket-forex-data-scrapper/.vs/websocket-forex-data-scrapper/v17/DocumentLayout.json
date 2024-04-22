@@ -1,42 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\",
+  "WorkspaceRootPath": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|d:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\forexnewsreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:forexnewsreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|d:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\newscomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:newscomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|d:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|c:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|d:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:websocket-forex-data-scrapper.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|c:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\forexnewsreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:forexnewsreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|d:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|c:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\ffc_news_events.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:ffc_news_events.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|d:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-sharp-standard.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:websocket-sharp-standard.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|c:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:websocket-forex-data-scrapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|d:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:websocket-forex-data-scrapper.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|d:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\forexnews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|c:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\forexnews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:forexnews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|d:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\backgroundsocketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|c:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\backgroundsocketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:backgroundsocketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|c:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:websocket-forex-data-scrapper.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,147 +38,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NewsComparer.cs",
-              "DocumentMoniker": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\NewsComparer.cs",
-              "RelativeDocumentMoniker": "NewsComparer.cs",
-              "ToolTip": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\NewsComparer.cs",
-              "RelativeToolTip": "NewsComparer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T03:49:30.307Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
+              "DocumentIndex": 2,
+              "Title": "ffc_news_events.csv",
+              "DocumentMoniker": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\ffc_news_events.csv",
+              "RelativeDocumentMoniker": "ffc_news_events.csv",
+              "ToolTip": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\ffc_news_events.csv",
+              "RelativeToolTip": "ffc_news_events.csv",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-22T03:29:43.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "websocket-sharp-standard.dll",
-              "DocumentMoniker": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-sharp-standard.dll",
-              "RelativeDocumentMoniker": "websocket-sharp-standard.dll",
-              "ToolTip": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-sharp-standard.dll",
-              "RelativeToolTip": "websocket-sharp-standard.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2024-04-22T03:29:30.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ForexNews.cs",
-              "DocumentMoniker": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\ForexNews.cs",
-              "RelativeDocumentMoniker": "ForexNews.cs",
-              "ToolTip": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\ForexNews.cs",
-              "RelativeToolTip": "ForexNews.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T02:56:58.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ForexNewsReader.cs",
-              "DocumentMoniker": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\ForexNewsReader.cs",
-              "RelativeDocumentMoniker": "ForexNewsReader.cs",
-              "ToolTip": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\ForexNewsReader.cs",
-              "RelativeToolTip": "ForexNewsReader.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAADwvzUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T02:48:03.39Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-04-22T12:10:14.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "websocket-forex-data-scrapper.http",
-              "DocumentMoniker": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.http",
-              "RelativeDocumentMoniker": "websocket-forex-data-scrapper.http",
-              "ToolTip": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.http",
-              "RelativeToolTip": "websocket-forex-data-scrapper.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-04-22T02:47:49.27Z",
+              "Title": "websocket-forex-data-scrapper",
+              "DocumentMoniker": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj",
+              "RelativeDocumentMoniker": "websocket-forex-data-scrapper.csproj",
+              "ToolTip": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj",
+              "RelativeToolTip": "websocket-forex-data-scrapper.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T07:56:14.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForexNews.cs",
+              "DocumentMoniker": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\ForexNews.cs",
+              "RelativeDocumentMoniker": "ForexNews.cs",
+              "ToolTip": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\ForexNews.cs",
+              "RelativeToolTip": "ForexNews.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:47:16.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForexNewsReader.cs",
+              "DocumentMoniker": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\ForexNewsReader.cs",
+              "RelativeDocumentMoniker": "ForexNewsReader.cs",
+              "ToolTip": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\ForexNewsReader.cs",
+              "RelativeToolTip": "ForexNewsReader.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:42:24.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "websocket-forex-data-scrapper",
-              "DocumentMoniker": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj",
+              "DocumentMoniker": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj",
               "RelativeDocumentMoniker": "websocket-forex-data-scrapper.csproj",
-              "ToolTip": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj",
+              "ToolTip": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj",
               "RelativeToolTip": "websocket-forex-data-scrapper.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-21T00:08:41.75Z",
@@ -194,26 +110,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "BackgroundSocketProcessor.cs",
-              "DocumentMoniker": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\BackgroundSocketProcessor.cs",
+              "DocumentMoniker": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\BackgroundSocketProcessor.cs",
               "RelativeDocumentMoniker": "BackgroundSocketProcessor.cs",
-              "ToolTip": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\BackgroundSocketProcessor.cs",
+              "ToolTip": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\BackgroundSocketProcessor.cs",
               "RelativeToolTip": "BackgroundSocketProcessor.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAQwCsAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T13:43:05.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\Program.cs",
+              "DocumentMoniker": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\Program.cs",
+              "ToolTip": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADMAAAAMAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T12:16:54.612Z",
               "EditorCaption": ""

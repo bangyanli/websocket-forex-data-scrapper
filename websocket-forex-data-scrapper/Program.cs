@@ -1,8 +1,12 @@
 using Microsoft.OpenApi.Models;
+using Newtonsoft.Json;
 using System.Data;
+using System.Net.Http.Json;
 using System.Reflection;
+using System.Text.Json;
 using System.Text.Json.Serialization;
 using websocket_forex_data_scrapper;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 var builder = WebApplication.CreateSlimBuilder(args);
 
@@ -49,9 +53,23 @@ app.Use(async (context, next) =>
 
 });
 
-app.MapGet("/testReadCsv", () => { 
+app.MapGet("/testReadCsv", (HttpRequest request) => {
+    var page = request.Query["pair"];
+
     var reader = new ForexNewsReader();
-    var news = reader.ReadNews();
+    var news = new List<ForexNews>();
+    if(page.ToString() != "")
+    {
+        news = reader.ReadNews(page.ToString());
+    }
+    else
+    {
+        news = reader.ReadNews();
+
+    }
+    var newsJson = JsonConvert.SerializeObject(news);
+
+    return newsJson;
 });
 
 

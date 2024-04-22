@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Net.WebSockets;
 using System.Text;
+using System.Text.Json;
 using System.Timers;
 
 namespace websocket_forex_data_scrapper
@@ -9,24 +11,43 @@ namespace websocket_forex_data_scrapper
     {
         public WebSocket _webSocket { get; set; }
         private WebSocketMessageType _messageType = WebSocketMessageType.Text;
+        private string _newsJson;
 
+        public BackgroundSocketProcessor()
+        {
+            var reader = new ForexNewsReader();
+            var news = reader.ReadNews();
+            _newsJson = JsonSerializer.Serialize(_newsJson);
+        }
         public async Task Echo(WebSocket webSocket, TaskCompletionSource<int> taskCompletionSource)
         {
             try
             {
 
+
+                   //await Task.Delay(1000);//1 second
+                    var buffer = new byte[1024 * 4];
+                    var receiveResult = await webSocket.ReceiveAsync(
+                        new ArraySegment<byte>(buffer), CancellationToken.None);
+                    
+                    var response = Encoding.UTF8.GetBytes(_newsJson);
+                    await _webSocket.SendAsync(
+                        new ArraySegment<byte>(response),
+                        _messageType,
+                        true,
+                        CancellationToken.None);
+                    Console.WriteLine(_newsJson);
+
                     var timer = new System.Timers.Timer(1000); // Create a timer with a 1-second interval
                     timer.Elapsed += OnTimerElapsed;
                     timer.AutoReset = true;
                     timer.Enabled = true;
-                    //await Task.Delay(1000);//1 second
-                    //receiveResult = await webSocket.ReceiveAsync(
-                    //    new ArraySegment<byte>(buffer), CancellationToken.None);
-                    //await webSocket.CloseAsync(
-                    //    receiveResult.CloseStatus.Value,
-                    //    receiveResult.CloseStatusDescription,
-                    //    CancellationToken.None);
-                
+
+                //await webSocket.CloseAsync(
+                //    receiveResult.CloseStatus.Value,
+                //    receiveResult.CloseStatusDescription,
+                //    CancellationToken.None);
+
             }
             catch (Exception ex)
             {
@@ -39,14 +60,13 @@ namespace websocket_forex_data_scrapper
         {
             if(_webSocket.State == WebSocketState.Open)
             {
-                string str = $"Hello world {e.SignalTime}";
-                var buffer = Encoding.UTF8.GetBytes(str);
+                var heartBeat = "hi";
+                var response = Encoding.UTF8.GetBytes(heartBeat);
                 await _webSocket.SendAsync(
-                    new ArraySegment<byte>(buffer),
+                    new ArraySegment<byte>(response),
                     _messageType,
                     true,
                     CancellationToken.None);
-                Console.WriteLine("Timer ticked at " + e.SignalTime);
             }
 
         }
