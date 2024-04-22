@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj": {}
+    "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj": {}
   },
   "projects": {
-    "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj": {
+    "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj",
+        "projectUniqueName": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj",
         "projectName": "websocket-forex-data-scrapper",
-        "projectPath": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\obj\\",
+        "projectPath": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj",
+        "packagesPath": "C:\\Users\\BangyanLi\\.nuget\\packages\\",
+        "outputPath": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BangyanLi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/Webjet/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -48,14 +52,22 @@
             "Microsoft.DotNet.ILCompiler": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.4, )",
+              "version": "[8.0.3, )",
               "autoReferenced": true
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.4, )",
+              "version": "[8.0.3, )",
               "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -72,7 +84,7 @@
           "downloadDependencies": [
             {
               "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
-              "version": "[8.0.4, 8.0.4]"
+              "version": "[8.0.3, 8.0.3]"
             }
           ],
           "frameworkReferences": {
@@ -83,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

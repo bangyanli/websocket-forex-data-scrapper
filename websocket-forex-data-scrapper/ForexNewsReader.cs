@@ -1,4 +1,7 @@
-﻿namespace websocket_forex_data_scrapper
+﻿using Microsoft.AspNetCore.Http;
+using System.Diagnostics;
+
+namespace websocket_forex_data_scrapper
 {
     public class ForexNewsReader
     {
@@ -6,10 +9,10 @@
         {
 
         }
-        public List<string> ReadNews()
+        public List<ForexNews> ReadNews()
         {
-            string filePath = @".\path\to\your\file.csv";
-            var memoryListForNews = new List<string>();
+            string filePath = Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName) + @"\..\..\..\ffc_news_events.csv"; ;
+            var memoryListForNews = new List<ForexNews>();
 
             using (StreamReader sr = new StreamReader(filePath))
             {
@@ -19,12 +22,48 @@
                 while ((line = sr.ReadLine()) != null)
                 {
                     Console.WriteLine(line);
-                    memoryListForNews.Add(line);
+
+                    var eventNews = new ForexNews();
+                    var data = line.Split(',');
+                    data = TrimData(data);
+                    //triming data
+
+                    var eventDateStr = data[1];
+                    if(eventDateStr != "" && eventDateStr != null)
+                    {
+                        DateTime eventDate = DateTime.ParseExact(eventDateStr, "yyyy.MM.dd H:mm", System.Globalization.CultureInfo.InvariantCulture);
+
+                        eventNews.EventTime = eventDate;
+                    }
+
+                    eventNews.Currency = data[3];
+                    eventNews.Impact = data[4];
+                    eventNews.News = data[5];
+
+                    //only consider high impact news
+                    if (eventNews.Impact == "red")
+                    {
+                        memoryListForNews.Add(eventNews);
+                    }
 
                 }
             }
 
-            return memoryListForNews;
+            var hashSet = new HashSet<ForexNews>(memoryListForNews, new NewsComparer());
+
+            return hashSet.ToList();
         }
+
+        private string[] TrimData(string[] data)
+        {
+            for (int i = 0; i < data.Length; i++)
+            {
+                data[i] = data[i].Trim();
+            }
+
+            return data;
+        }
+
+
     }
 }

@@ -1,11 +1,11 @@
 @websocket_forex_data_scrapper_HostAddress = http://localhost:5163
 
-GET {{websocket_forex_data_scrapper_HostAddress}}/todos/
+GET {{websocket_forex_data_scrapper_HostAddress}}/
 Accept: application/json
 
 ###
 
-GET {{websocket_forex_data_scrapper_HostAddress}}/todos/1
+GET {{websocket_forex_data_scrapper_HostAddress}}/
 Accept: application/json
 
 ###

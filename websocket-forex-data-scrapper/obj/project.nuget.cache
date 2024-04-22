@@ -1,12 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "+53Vd+TBOwmBbP3Psf+qsxYuGKO5IW7965KGrXTt8rMRLIGfaU2GclaPwKraG2BVDP1OUH9CWI2VtA7Jupn++Q==",
+  "dgSpecHash": "7DgEL7FVVg7BmRplhY75B9j9HbNNhyrgATVZ1ACz4KaGMVOTF8Fyr1wGBsjlXh/viQGhmyqzTW8RBXoW1YSweQ==",
   "success": true,
-  "projectFilePath": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj",
+  "projectFilePath": "D:\\repo\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+    "C:\\Users\\BangyanLi\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\BangyanLi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\BangyanLi\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\BangyanLi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\BangyanLi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\BangyanLi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\BangyanLi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\BangyanLi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\BangyanLi\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
   ],
   "logs": []
 }

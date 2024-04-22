@@ -1,11 +1,14 @@
+using Microsoft.OpenApi.Models;
 using System.Data;
+using System.Reflection;
 using System.Text.Json.Serialization;
 using websocket_forex_data_scrapper;
 
 var builder = WebApplication.CreateSlimBuilder(args);
 
+var services = builder.Services;
 
-//add service
+
 
 var app = builder.Build();
 
@@ -45,6 +48,13 @@ app.Use(async (context, next) =>
     }
 
 });
+
+app.MapGet("/testReadCsv", () => { 
+    var reader = new ForexNewsReader();
+    var news = reader.ReadNews();
+});
+
+
 
 
 app.Run();
