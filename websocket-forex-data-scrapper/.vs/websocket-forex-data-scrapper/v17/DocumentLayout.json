@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|c:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|c:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\forexnewsreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:forexnewsreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|c:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{273C1FD2-784F-471D-8CA6-A58C5E266028}|websocket-forex-data-scrapper.csproj|c:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\ffc_news_events.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "ffc_news_events.csv",
               "ToolTip": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\ffc_news_events.csv",
               "RelativeToolTip": "ffc_news_events.csv",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAG8BAAAAAAAAAAAAAIMBAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
               "WhenOpened": "2024-04-22T12:10:14.192Z",
               "EditorCaption": ""
@@ -85,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ForexNewsReader.cs",
               "DocumentMoniker": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\ForexNewsReader.cs",
               "RelativeDocumentMoniker": "ForexNewsReader.cs",
               "ToolTip": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\ForexNewsReader.cs",
               "RelativeToolTip": "ForexNewsReader.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T12:42:24.903Z",
               "EditorCaption": ""
@@ -123,13 +123,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\git\\websocket-forex-data-scrapper\\websocket-forex-data-scrapper\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAADwAAAAEAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAD4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T12:16:54.612Z",
               "EditorCaption": ""

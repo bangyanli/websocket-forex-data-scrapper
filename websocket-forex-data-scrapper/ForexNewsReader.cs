@@ -12,13 +12,13 @@ namespace websocket_forex_data_scrapper
         }
         public List<ForexNews> ReadNews(string pair = "EURUSD", bool latestNews = false)
         {
-            string filePath = Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName) + @"\..\..\..\ffc_news_events.csv"; ;
+            string filePath = Path.GetDirectoryName(Environment.ProcessPath) + @"\..\..\..\ffc_news_events.csv"; ;
 
             if (latestNews)
             {
                 var currentDate = DateTime.Now.ToString("yyyyMMdd");
                 var fileName = "ffc_news_events_current_date";
-                filePath = Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName) + @$"\..\..\..\{fileName}.csv";
+                filePath = Path.GetDirectoryName(Environment.ProcessPath) + @$"\..\..\..\{fileName}.csv";
 
                 _pythonRunner.RunPythonScript($"{fileName} {currentDate} {currentDate}");
             }
@@ -49,7 +49,7 @@ namespace websocket_forex_data_scrapper
                     eventNews.Currency = data[3];
                     eventNews.Impact = data[4];
                     eventNews.News = data[5];
-
+                    eventNews.ComparePrev = data.Last(); //only used to get just happened news
                     //only consider high impact news
                     if (eventNews.Impact == "red" && pair.Contains(eventNews.Currency))
                     {

@@ -1,7 +1,7 @@
 #Forex Factory Scraper
 import cloudscraper
 from bs4 import BeautifulSoup
-from datetime import date, timedelta
+from datetime import date, timedelta, datetime
 import re
 import time
 import csv
@@ -77,6 +77,11 @@ def getEventsCalendar(start, end, file_path):
 			forecast = news.find_next_sibling('td', class_ = 'calendar__forecast').text
 			actual = news.find_next_sibling('td', class_ = 'calendar__actual').text
 			event_time = news.text.strip()
+			compare = ''
+			if(actual != None and  actual != ''):
+				compareClass = news.find_next_sibling('td', class_ = 'calendar__actual').find_next('span').get('class')
+				if(len(compareClass) > 0):
+					compare = compareClass[0]
 
 			try:
 				matchObj = re.search('([0-9]+)(:[0-9]{2})([a|p]m)', event_time) # Regex to match time in the format HH:MMam/pm
@@ -93,12 +98,12 @@ def getEventsCalendar(start, end, file_path):
 					#event_time_minutes = ':00'
 					#am_or_pm = 'am'
 					with open(file_path, 'a') as file:
-						file.write('{}, {}, {}, {}, {}, {}, {}, {}, {}\n'.format(day_of_week, event_date_time, event_time_holder, curr, impact, event, previous, forecast, actual))
+						file.write('{}, {}, {}, {}, {}, {}, {}, {}, {}, {}\n'.format(day_of_week, event_date_time, event_time_holder, curr, impact, event, previous, forecast, actual, compare))
 					continue
 				else:
 					# else no time and use previous events time and write to file
 					with open(file_path, 'a') as file:
-						file.write('{}, {}, {}, {}, {}, {}, {}, {}, {}\n'.format(day_of_week, event_date_time, event_time_holder, curr, impact, event, previous, forecast, actual))
+						file.write('{}, {}, {}, {}, {}, {}, {}, {}, {}, {}\n'.format(day_of_week, event_date_time, event_time_holder, curr, impact, event, previous, forecast, actual, compare))
 					continue
 					
 				adjusted_date_time = timeDateAdjust(event_time_hour, event_time_minutes, am_or_pm, 0, year, month, day) # Returns a tuple with 3 elements consisting of 'event date YYYY:MM:DD', 'event time HH:MM', 'day of week Mon-Fri'
@@ -121,7 +126,7 @@ def getEventsCalendar(start, end, file_path):
 			print(file_path)
 			# print('{}, {}, {}, {}, {}, {}, {}, {}, {}\n'.format(day_of_week, event_date_time, event_time_holder, curr, impact, event, previous, forecast, actual))
 			with open(file_path, 'a') as file:
-				file.write('{}, {}, {}, {}, {}, {}, {}, {}, {}\n'.format(day_of_week, event_date_time, event_time_holder, curr, impact, event, previous, forecast, actual))
+				file.write('{}, {}, {}, {}, {}, {}, {}, {}, {}, {}\n'.format(day_of_week, event_date_time, event_time_holder, curr, impact, event, previous, forecast, actual, compare))
 
 	if start_date == end_date:
 		print('Successfully retrieved all data')
@@ -204,21 +209,27 @@ if __name__ == "__main__":
    
 	abs_path = os.path.abspath(__file__)
 	cwd = os.path.dirname(abs_path)
-	parent_dir = os.path.dirname(cwd)  
-	file_name = sys.argv[1]
-	startStr = sys.argv[2]
-	endStr = sys.argv[3]
-	if startStr != None or startStr != "":
-		start = date.strptime(startStr,'%Y%m%d')
+	parent_dir = os.path.dirname(cwd) 
+	if len(sys.argv) >= 3:
+		file_name = sys.argv[1]
+		startStr = sys.argv[2]
+		endStr = sys.argv[3]
+	else:
+		file_name = ""
+		startStr = ""
+		endStr = ""
+
+	if startStr != None and startStr != "":
+		start = datetime.strptime(startStr,'%Y%m%d').date()
 	else:
 		start = date(2024,1,1)
 
-	if endStr != None or endStr != "":
-		end = date.strptime(endStr,'%Y%m%d')
+	if endStr != None and endStr != "":
+		end = datetime.strptime(endStr,'%Y%m%d').date()
 	else:
 		end = date(2024,4,22)
 
-	if file_name != None or file_name != "":
+	if file_name != None and file_name != "":
 		file_path = cwd + "\\" + file_name
 	else:
 		file_path = cwd + "\\ffc_news_events.csv"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("websocket-forex-data-scrapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2be9e148fc99e4144837bff1c1d08324a681540f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b376f530de993dc4aca4d6630c81aa863d361a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("websocket-forex-data-scrapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("websocket-forex-data-scrapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
