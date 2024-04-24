@@ -201,26 +201,41 @@ def timeDateAdjust(event_time_hour, event_time_minutes, am_or_pm, hours_to_adjus
 	d = date(year, month, day)
 	
 if __name__ == "__main__":
-    """
-    Run this using the command "python `script_name`.py >> `output_name`.csv"
-    """
-    abs_path = os.path.abspath(__file__)
-    cwd = os.path.dirname(abs_path)
-    parent_dir = os.path.dirname(cwd)  
-    file_path = cwd + "\\ffc_news_events.csv"
-if os.path.exists(file_path):
-# Delete the file
-	os.remove(file_path)
-	print(f"old {file_path} has been deleted.")
-else:
-	print(f"{file_path} does not exist.")
-	os.makedirs(os.path.dirname(file_path), exist_ok=True)
+   
+	abs_path = os.path.abspath(__file__)
+	cwd = os.path.dirname(abs_path)
+	parent_dir = os.path.dirname(cwd)  
+	file_name = sys.argv[1]
+	startStr = sys.argv[2]
+	endStr = sys.argv[3]
+	if startStr != None or startStr != "":
+		start = date.strptime(startStr,'%Y%m%d')
+	else:
+		start = date(2024,1,1)
 
-with open(file_path, 'a+') as file:
-	file.write("") # Needs to write an empty line so that file is opened and getEventsCalendar can append to the file
-start = date(2024,1,1)
-end = date(2024,4,22)
-getEventsCalendar(start,end, file_path)
+	if endStr != None or endStr != "":
+		end = date.strptime(endStr,'%Y%m%d')
+	else:
+		end = date(2024,4,22)
+
+	if file_name != None or file_name != "":
+		file_path = cwd + "\\" + file_name
+	else:
+		file_path = cwd + "\\ffc_news_events.csv"
+	
+	if os.path.exists(file_path):
+	# Delete the file
+		os.remove(file_path)
+		print(f"old {file_path} has been deleted.")
+	else:
+		print(f"{file_path} does not exist.")
+		os.makedirs(os.path.dirname(file_path), exist_ok=True)
+
+	with open(file_path, 'a+') as file:
+		file.write("") # Needs to write an empty line so that file is opened and getEventsCalendar can append to the file
+
+	
+	getEventsCalendar(start,end, file_path)
 
 	
 
