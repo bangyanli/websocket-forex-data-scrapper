@@ -5,13 +5,23 @@ namespace websocket_forex_data_scrapper
 {
     public class ForexNewsReader
     {
+        private PythonRunner _pythonRunner = new PythonRunner();
         public ForexNewsReader()
         {
 
         }
-        public List<ForexNews> ReadNews(string pair = "EURUSD")
+        public List<ForexNews> ReadNews(string pair = "EURUSD", bool latestNews = false)
         {
             string filePath = Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName) + @"\..\..\..\ffc_news_events.csv"; ;
+
+            if (latestNews)
+            {
+                var currentDate = DateTime.Now.ToString("yyyyMMdd");
+                var fileName = "ffc_news_events_current_date";
+                filePath = Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName) + @$"\..\..\..\{fileName}.csv";
+
+                _pythonRunner.RunPythonScript($"{fileName} {currentDate} {currentDate}");
+            }
             var memoryListForNews = new List<ForexNews>();
 
             using (StreamReader sr = new StreamReader(filePath))
